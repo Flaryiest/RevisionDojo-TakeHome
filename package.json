@@ -1,12 +1,14 @@
 {
-  "name": "src",
+  "name": "question-validator",
   "version": "1.0.0",
-  "description": "",
-  "main": "src/main.js",
+  "description": "A JavaScript tool for validating and cleaning multiple-choice questions",
+  "main": "src/check.js",
   "scripts": {
+    "start": "node src/check.js",
+    "validate": "node src/check.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["validation", "questions", "education", "multiple-choice", "latex"],
   "author": "",
   "license": "ISC",
   "type": "module"
