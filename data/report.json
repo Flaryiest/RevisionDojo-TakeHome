@@ -1,315 +1,322 @@
 {
   "d816449d-8471-42fb-9343-0ff92b917b50": [],
-  "e6272e9e-43d0-43df-ba97-0d1eba255944": [],
-  "6c82c3a7-7390-445b-a63b-c1c6818701bc": [],
+  "e6272e9e-43d0-43df-ba97-0d1eba255944": [
+    "Auto-fixed: Cleaned up formatting and escape sequences",
+    "Auto-fixed: Added braces to multi-character super/subscripts"
+  ],
+  "6c82c3a7-7390-445b-a63b-c1c6818701bc": [
+    "Auto-fixed: Added braces to multi-character super/subscripts"
+  ],
   "02b61fd6-7e4f-4537-a00e-ecc2e06fa899": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
-  "1c3a9333-2a97-4ede-93a9-44ff2709df48": [
-    "Potentially malformed LaTeX syntax detected"
+  "1c3a9333-2a97-4ede-93a9-44ff2709df48": [],
+  "dc5a87e1-2272-41cf-8ec3-3d0fc8a11cd5": [
+    "Auto-fixed: Added braces to multi-character super/subscripts"
   ],
-  "dc5a87e1-2272-41cf-8ec3-3d0fc8a11cd5": [],
   "d4a31989-43a6-461f-8501-ba5e5eb45901": [],
   "cac4913a-4372-4ab0-b161-07d142691711": [],
-  "7bc35897-c2b5-4ebc-9144-961793cab151": [],
-  "3b04c58c-4de7-4a3d-9cd2-5a4bff405a9e": [],
+  "7bc35897-c2b5-4ebc-9144-961793cab151": [
+    "Auto-fixed: Added braces to multi-character super/subscripts"
+  ],
+  "3b04c58c-4de7-4a3d-9cd2-5a4bff405a9e": [
+    "Auto-fixed: Added braces to multi-character super/subscripts"
+  ],
   "040c350d-7a66-474d-a454-a68d23886fbb": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "a2cd35f0-c49e-4e0c-a50b-eac79f463d8b": [],
   "b73cdf2a-6abe-410d-b30e-2ff43bb047ba": [
     "Specification appears to lack clear question structure",
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "01f6a7ea-d6f3-470a-8b43-2e055fc70130": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "e0d97527-9164-4016-8491-1ef95b659bdb": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "6bbbaeb9-ba12-4494-b0d4-5092bc7e709a": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "7971cd91-c9d5-47b6-be42-676f853fcdaf": [
-    "Potentially malformed LaTeX syntax detected",
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "71d6ddfd-116e-40bd-9e87-5264e85bef2e": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "4d40cbc4-d664-40bb-8d3a-2af740fa86a8": [
-    "Non-sequential option ordering"
+    "Auto-fixed: Added braces to multi-character super/subscripts",
+    "Improper option ordering"
   ],
   "d435d5c7-3c4e-40df-a9f5-d5bc4edbff0b": [
-    "Potentially malformed LaTeX syntax detected",
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "caccfbfd-b351-4cde-a4ef-02696e3767aa": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "03bbe831-f83d-47b4-bd8c-31303da91452": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "ecc46ca1-4004-4102-81a0-85ba3baf0771": [
-    "Potentially malformed LaTeX syntax detected",
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "655e29b4-ad2a-4a4f-b158-47083fe3e40c": [
-    "Potentially malformed LaTeX syntax detected",
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "03c19676-f872-4efb-b011-6b70c3ed8f2a": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "f0418012-cfa0-487f-8f29-5401fb5801ae": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "b846048a-5399-4ea3-9883-a3a6966f05f5": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "5554a0ec-d1b4-482f-8a27-26fda631f135": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "dc247c77-8112-4f28-887d-29132ac3dd05": [
-    "Potentially malformed LaTeX syntax detected",
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "94a7ec7d-a351-4988-87e4-a169ff4c4d59": [
-    "Potentially malformed LaTeX syntax detected",
-    "Non-sequential option ordering"
+    "Moderate: Long single-dollar LaTeX expression - consider using double dollars",
+    "Improper option ordering"
   ],
   "91e04793-ac8c-4ad2-9686-7caa23c0c663": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "835a8f81-a59e-4aaa-b607-88ce52405930": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "024b187b-cc7f-4106-9fa4-9c47907c0773": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "02acb864-b2b3-4ad7-92ff-d06206fa4ad1": [
-    "Non-sequential option ordering"
+    "Minor: Asterisk found - consider using \\cdot or \\times for multiplication",
+    "Improper option ordering"
   ],
   "03d1efed-8eeb-4566-97d3-ac5ebc87d168": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "0270e7ef-187b-4000-a3b8-4949074c7003": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "1acae734-90bd-45fe-aa06-a0c6139a207b": [],
   "a4730980-c099-425a-a4c3-edf2ed2ab90e": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "b1ec23b8-73ab-4153-9b41-3782508e1a66": [],
   "80bc0815-f635-4091-8da4-4cc37c82010b": [
-    "Potentially malformed LaTeX syntax detected"
+    "Moderate: Long single-dollar LaTeX expression - consider using double dollars"
   ],
   "6dca3baf-252a-4696-9d88-c2eccf8c7187": [],
   "04b8b939-4ca5-4067-b356-74bae0fa4bf4": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "a83c3135-ba78-485d-9023-cf2bb464b0b4": [],
   "036ffcb7-55ec-4bf8-b79e-e0d79f4638ae": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "039aab2c-2d34-4dba-abf9-e77b0b689d9a": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "3e9e308f-76d3-4777-a2a9-9ad4b0e33ec7": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "d749c419-bf7e-4c99-aab7-6eb966b646c7": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
-  "f3a546f2-4e15-4dde-889f-59dffef5e8f5": [
-    "Potentially malformed LaTeX syntax detected"
-  ],
+  "f3a546f2-4e15-4dde-889f-59dffef5e8f5": [],
   "058e734f-7a6c-414c-a2c9-4015ff72c574": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "67a880ab-dd06-4e79-8828-d51af747eb02": [],
   "02da2c8b-a059-40ce-a38b-3976d97da3e6": [
-    "Non-sequential option ordering"
+    "Auto-fixed: Added braces to multi-character super/subscripts",
+    "Improper option ordering"
   ],
   "402c0a5b-1b49-47d4-9e37-54c7d24c0c26": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "d8d94e8f-17a5-4e9d-8d9b-81def918e074": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "01d57b11-6dd3-4e29-9654-6c972074396a": [
     "Duplicate option order: 0"
   ],
   "83628ba5-548b-484c-b30a-767cbea61fac": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "2d74b349-936c-4b87-8d3b-f66dc8ccaf2c": [
-    "Potentially malformed LaTeX syntax detected",
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "8527bf26-b9ef-44d7-82bb-a99b7238af62": [
-    "Potentially malformed LaTeX syntax detected",
-    "Non-sequential option ordering"
+    "Moderate: Long single-dollar LaTeX expression - consider using double dollars",
+    "Improper option ordering"
   ],
   "1c476f7c-918d-4f05-99fb-b5fe54aed7b3": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "835f2693-32b7-4ada-bb00-bf3254cd8243": [
-    "Non-sequential option ordering"
+    "Critical: Unmatched single dollar LaTeX delimiters ($) - will break rendering",
+    "Improper option ordering"
   ],
   "041971c0-956b-431d-9aef-c216e3f4f85b": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "005529f9-606b-4ca2-96a6-e9dc3f456489": [
     "Specification appears to lack clear question structure",
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "00855d4e-5929-472c-be2a-bf90a9e2c9e1": [
-    "Potentially malformed LaTeX syntax detected",
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "1cd09e77-e6a7-461f-bb94-d0d0b5abd679": [
-    "Potentially malformed LaTeX syntax detected",
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "4f949214-38b6-4ef4-a033-eff66d6272cd": [
-    "Potentially malformed LaTeX syntax detected",
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "7b62136f-70f9-44e4-9211-3379f3036ffc": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "4b4e0d59-2c2a-4bdf-9008-0d737008693c": [
-    "Non-sequential option ordering"
+    "Auto-fixed: Added braces to multi-character super/subscripts",
+    "Improper option ordering"
   ],
   "e2bbf1d8-fb29-4903-ba41-b37e55db995f": [
-    "Potentially malformed LaTeX syntax detected",
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "3f66e949-c96a-47bf-8078-9ef1c5a0f241": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "043872af-f4d4-4e54-96d7-adce6b132d09": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "d0a96303-d242-4a5f-9c1d-bd7fb5913958": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "ef8f85c6-452a-482a-909a-1cb7c86d23e7": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "eb9d4221-8a28-4415-81e6-bcafdf3d2bf3": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "017de77c-d551-4b52-ad59-308cf4bfacec": [
-    "Potentially malformed LaTeX syntax detected",
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "02af485f-ea7e-4bf7-899a-39d7d8e56f6a": [
-    "Potentially malformed LaTeX syntax detected",
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "f78c1ccf-2819-4350-a941-886f67628066": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "ec16e9ee-9f12-4bcd-9684-32c678e74192": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "3c097458-d89c-42d7-a59a-21627090e692": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "0627093b-869e-4f66-ac6d-e7209eccdc2b": [
-    "Potentially malformed LaTeX syntax detected",
-    "Non-sequential option ordering"
+    "Moderate: Long single-dollar LaTeX expression - consider using double dollars",
+    "Improper option ordering"
   ],
   "7542a58e-4bef-4cdb-8568-a148b8ad35be": [
-    "Potentially malformed LaTeX syntax detected",
-    "Non-sequential option ordering"
+    "Moderate: Long single-dollar LaTeX expression - consider using double dollars",
+    "Improper option ordering"
   ],
   "026d7a15-41f4-42bb-9374-6744b71f375a": [
     "Specification appears to lack clear question structure",
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "8f034cf5-30f7-4ecf-9ef5-e261172df9d2": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "afb8b59d-ba6b-4dde-9817-2c3ae2e9d644": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "049bd9bb-6756-4495-951c-de12dd2ad87b": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
-  "02ab8fdc-4b6e-4301-853e-1137e385e709": [],
+  "02ab8fdc-4b6e-4301-853e-1137e385e709": [
+    "Auto-fixed: Added braces to multi-character super/subscripts"
+  ],
   "a6a710d7-9c04-443c-9c02-5e11e590d3f2": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "c50cee1a-6e23-4a34-9258-f79d9fe903a3": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "037590a5-3802-4d84-83b5-d230eb0af0fc": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "045c961c-a798-4749-8472-be17c9995e33": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "02f257f7-1b87-461c-82c5-9459c062cb19": [
-    "Non-sequential option ordering"
+    "Auto-fixed: Added braces to multi-character super/subscripts",
+    "Improper option ordering"
   ],
   "b46d956c-cd23-4675-bebe-a4d59a38dba0": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "d11d0150-68ea-410c-b38f-0684f2ffd7bb": [
-    "Potentially malformed LaTeX syntax detected",
-    "Non-sequential option ordering"
+    "Moderate: Long single-dollar LaTeX expression - consider using double dollars",
+    "Improper option ordering"
   ],
   "0223dd8e-8e24-49a5-b807-c42bee105c23": [
-    "Non-sequential option ordering"
+    "Minor: Asterisk found - consider using \\cdot or \\times for multiplication",
+    "Improper option ordering"
   ],
   "66d9cee4-1ed1-4798-872a-44c60a129e32": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "011d2eff-113a-4101-b364-7a1d13acd40f": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "bfb91b3a-04fd-45f9-88e3-7d5be3b099d8": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "039817a3-89ab-4372-b68e-c4749f98ba40": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "3f917121-13b0-4a27-b244-9741d40b44ae": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "a29e6121-2410-474d-8e86-a10237318cdb": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "f1c1ead5-87a8-4318-a1a7-5f9014ed9b27": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "039e94b3-a4ae-4dfc-b067-fdcf0030819a": [
-    "Non-sequential option ordering"
+    "Auto-fixed: Added braces to multi-character super/subscripts",
+    "Improper option ordering"
   ],
   "0241d757-f6fd-44ce-8cb1-ab8649f861a6": [
-    "Potentially malformed LaTeX syntax detected",
-    "Non-sequential option ordering"
+    "Moderate: Long single-dollar LaTeX expression - consider using double dollars",
+    "Improper option ordering"
   ],
   "05af1efa-1704-4720-a1d9-66c9e669dbfd": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "032bca91-4947-4054-83e5-b27923f6cdc9": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "821c48ba-4cec-4641-9346-a798659f2e31": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "01dc59f2-ea82-4243-aa06-6776623d3af6": [
     "Specification is empty",
     "Options are null or undefined"
   ],
   "047cac71-264b-435c-83b7-224a166de720": [
+    "Auto-fixed: Added braces to multi-character super/subscripts",
     "Duplicate option order: 0"
   ],
   "0087dad3-b026-466b-97c9-3f5d78636b67": [
+    "Auto-fixed: Added braces to multi-character super/subscripts",
     "Duplicate option order: 0"
   ],
   "03941511-815c-48f5-86b4-53d4879b4061": [
@@ -324,52 +331,54 @@
   "006d8a89-c7a0-41c3-9bc3-984ed711311c": [
     "Duplicate option order: 0"
   ],
-  "7f67c7cc-efa0-44bf-a9b5-b7f6be12bf3f": [],
+  "7f67c7cc-efa0-44bf-a9b5-b7f6be12bf3f": [
+    "Auto-fixed: Added braces to multi-character super/subscripts"
+  ],
   "0034c453-7339-468c-adf0-79a7bbcab237": [
-    "Potentially malformed LaTeX syntax detected",
+    "Serious: Invalid LaTeX syntax patterns detected",
     "Duplicate option order: 0"
   ],
   "01064677-574c-4141-b5f1-ca81785654b9": [
-    "Potentially malformed LaTeX syntax detected",
+    "Serious: Invalid LaTeX syntax patterns detected",
     "Duplicate option order: 0"
   ],
   "034dcc2a-68a2-4e22-bb5c-9ce14c35e1d7": [
     "Duplicate option order: 0"
   ],
   "03c7fc29-bb4c-4363-9d4a-360f6745ffc7": [
-    "Potentially malformed LaTeX syntax detected",
+    "Serious: Invalid LaTeX syntax patterns detected",
     "Duplicate option order: 0"
   ],
   "0064039e-361d-409f-9c4e-37119550b1a4": [
-    "Potentially malformed LaTeX syntax detected",
+    "Serious: Invalid LaTeX syntax patterns detected",
     "Duplicate option order: 0"
   ],
   "024ab595-6b4e-4c54-a222-8839629d57eb": [
-    "Potentially malformed LaTeX syntax detected",
+    "Serious: Invalid LaTeX syntax patterns detected",
     "Duplicate option order: 0"
   ],
   "0457c0b3-ab3c-4072-8c52-20ad0e9d116a": [
-    "Potentially malformed LaTeX syntax detected",
+    "Serious: Invalid LaTeX syntax patterns detected",
     "Duplicate option order: 0"
   ],
   "04a8236e-cdec-4d64-b5db-24d2c4e29434": [
-    "Potentially malformed LaTeX syntax detected",
+    "Serious: Invalid LaTeX syntax patterns detected",
     "Duplicate option order: 0"
   ],
   "a268f939-cc56-4810-bf2e-96555dee3e79": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "00f208ca-563a-4138-a0d9-c3ee7440b303": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "4e844e09-b92a-4f1e-845a-5ce6177b7692": [
     "Duplicate option order: 0"
   ],
   "041b1288-d46f-4b15-92a8-d90f83b1d34c": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "0453a51f-f586-4ed3-af43-eabf4b5ecdd8": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "02ada342-33b7-48fd-b545-5d69b00cd714": [
     "Duplicate option order: 0"
@@ -383,18 +392,18 @@
   "5864dfca-3059-4e83-a372-43bd057630cd": [],
   "b5792cba-2ada-42a5-8c12-cef4bfe21267": [],
   "01701bfc-c99e-4ccd-9623-78d6048cdbd6": [
-    "Potentially malformed LaTeX syntax detected",
+    "Serious: Invalid LaTeX syntax patterns detected",
     "Duplicate option order: 0"
   ],
   "01817bf3-80c0-4f29-9390-c1fb91e95d2b": [
     "Duplicate option order: 0"
   ],
   "0197f1e4-32d5-4efe-a7e8-d20ddc020a80": [
-    "Potentially malformed LaTeX syntax detected",
+    "Serious: Invalid LaTeX syntax patterns detected",
     "Duplicate option order: 0"
   ],
   "0392f34d-6d6b-485b-a50b-29c4010a6c51": [
-    "Potentially malformed LaTeX syntax detected",
+    "Serious: Invalid LaTeX syntax patterns detected",
     "Duplicate option order: 0"
   ],
   "00623654-5b0a-4241-a5c2-11a2f8c90947": [
@@ -440,9 +449,11 @@
     "Duplicate option order: 0"
   ],
   "001a220c-6f6b-4497-b0f8-def5742a9db5": [
+    "Auto-fixed: Added braces to multi-character super/subscripts",
     "Duplicate option order: 0"
   ],
   "005c762e-c7d6-4189-9747-086531cf5258": [
+    "Auto-fixed: Added braces to multi-character super/subscripts",
     "Duplicate option order: 0"
   ],
   "00985a7b-c102-4ef0-8549-c876e3bffde9": [
@@ -466,9 +477,11 @@
     "Options are null or undefined"
   ],
   "02f8bc24-fdf0-4633-a83e-71744b6be142": [
+    "Auto-fixed: Added braces to multi-character super/subscripts",
     "Duplicate option order: 0"
   ],
   "0375f00a-26c7-4cf9-aee6-0ccded06fd82": [
+    "Auto-fixed: Added braces to multi-character super/subscripts",
     "Duplicate option order: 0"
   ],
   "03efad12-65d4-4dad-bb59-ef0f5040bef8": [
@@ -476,6 +489,7 @@
     "Options are null or undefined"
   ],
   "043769b4-95ad-4655-b2ff-60c998ad0ff4": [
+    "Auto-fixed: Added braces to multi-character super/subscripts",
     "Duplicate option order: 0"
   ],
   "046e4960-d319-4500-91ac-8a3c2a5a21e4": [
@@ -483,38 +497,45 @@
     "Options are null or undefined"
   ],
   "04ac25df-d6f5-4833-b9e3-5e66fb15687a": [
+    "Auto-fixed: Added braces to multi-character super/subscripts",
     "Duplicate option order: 0"
   ],
   "03a7c44c-9f68-493c-8c23-b744b69a6b6a": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "03cdaf90-3a88-4158-a9cd-0f3e6dc3cfcd": [
-    "Non-sequential option ordering"
+    "Auto-fixed: Added braces to multi-character super/subscripts",
+    "Improper option ordering"
   ],
   "0194f717-6cea-496c-8ebe-7b05cd4730d8": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "015a92ce-7310-43d7-a37f-141a5e49da1e": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "011d3143-233f-4c40-a8ee-9076dc38bfbb": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "01e25da5-d35f-462c-b663-0283f7b274e2": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "034a16a2-6628-4631-b07d-90bea20a2338": [
+    "Auto-fixed: Added braces to multi-character super/subscripts",
     "Duplicate option order: 0"
   ],
   "0431ee71-953e-4fb7-bddc-8bedcfc46871": [
+    "Auto-fixed: Added braces to multi-character super/subscripts",
     "Duplicate option order: 0"
   ],
-  "0431fa85-6fa6-4d19-8738-78b1ab2fa4a9": [],
+  "0431fa85-6fa6-4d19-8738-78b1ab2fa4a9": [
+    "Auto-fixed: Added braces to multi-character super/subscripts"
+  ],
   "03248e33-0a1c-43ad-9b26-a335a9d2645e": [
+    "Auto-fixed: Cleaned up formatting and escape sequences",
+    "Auto-fixed: Added braces to multi-character super/subscripts",
     "Options are null or undefined"
   ],
   "00451c86-6534-4ef5-867d-18976fcfd7af": [
-    "Potentially malformed LaTeX syntax detected",
     "Options are null or undefined"
   ],
   "03cb10b5-4ba8-49ff-a3f3-ef90b28077c5": [
@@ -522,57 +543,43 @@
     "Options are null or undefined"
   ],
   "a3a6d648-9cd1-4abf-b266-2e1d84ba523b": [
-    "Non-sequential option ordering"
+    "Auto-fixed: Cleaned up formatting and escape sequences",
+    "Improper option ordering"
   ],
   "004459ea-f071-488e-ab77-3432cc726356": [
-    "Non-sequential option ordering"
+    "Improper option ordering"
   ],
   "040e73f3-000b-42c8-9858-8bc1f3f7a4d0": [
     "Options are null or undefined"
   ],
-  "4855b017-236a-4265-98ad-1c7b77142e1a": [
-    "Potentially malformed LaTeX syntax detected"
-  ],
+  "4855b017-236a-4265-98ad-1c7b77142e1a": [],
   "497910fe-ef29-46c8-b463-15248c6eb6d3": [
-    "Potentially malformed LaTeX syntax detected"
+    "Auto-fixed: Cleaned up formatting and escape sequences",
+    "Moderate: LaTeX expression spans multiple lines - may cause formatting issues"
   ],
   "45dc4819-ee88-4648-b859-1a0ad0124ca6": [],
-  "1f61aff3-66ca-4bca-bc9c-9684610601b1": [
-    "Potentially malformed LaTeX syntax detected"
-  ],
-  "abbdab29-abf7-49c2-b36c-feee4c655c4a": [
-    "Potentially malformed LaTeX syntax detected"
-  ],
+  "1f61aff3-66ca-4bca-bc9c-9684610601b1": [],
+  "abbdab29-abf7-49c2-b36c-feee4c655c4a": [],
   "7bd55769-9b7c-4bd1-8eaa-cb4267fa972e": [
-    "Potentially malformed LaTeX syntax detected",
     "Duplicate option content detected"
   ],
   "e780e15b-bfc7-467d-9c7f-2e24a9f4765b": [],
-  "33967b3f-3e80-466f-85d1-2c31f534f40f": [],
+  "33967b3f-3e80-466f-85d1-2c31f534f40f": [
+    "Critical: Unmatched single dollar LaTeX delimiters ($) - will break rendering"
+  ],
   "49bd3c4e-bc68-4d00-9aa6-be37a5684565": [],
   "fa92db1e-31e5-402e-a187-470bd9d6da0c": [],
-  "828ebeb0-9fdb-4a99-a742-661b4071123b": [
-    "Potentially malformed LaTeX syntax detected"
-  ],
-  "5df98d92-12b0-4203-b336-d9720b6ddc44": [
-    "Potentially malformed LaTeX syntax detected"
-  ],
-  "9f723982-8f7a-4fde-ac6c-87b0c87cf3eb": [
-    "Potentially malformed LaTeX syntax detected"
-  ],
+  "828ebeb0-9fdb-4a99-a742-661b4071123b": [],
+  "5df98d92-12b0-4203-b336-d9720b6ddc44": [],
+  "9f723982-8f7a-4fde-ac6c-87b0c87cf3eb": [],
   "d409d6fc-449c-4bf6-9824-0d7b42eee20d": [],
-  "73e338a4-7efb-4ba3-94e2-a98ce90a0013": [
-    "Potentially malformed LaTeX syntax detected"
-  ],
-  "e38b71a6-6750-46a9-84d7-11045b828421": [
-    "Potentially malformed LaTeX syntax detected"
-  ],
-  "97a1e83b-6c1b-4697-be02-4ec7a88f7df6": [
-    "Potentially malformed LaTeX syntax detected"
-  ],
+  "73e338a4-7efb-4ba3-94e2-a98ce90a0013": [],
+  "e38b71a6-6750-46a9-84d7-11045b828421": [],
+  "97a1e83b-6c1b-4697-be02-4ec7a88f7df6": [],
   "023bbf11-1969-48b9-aef4-a0811c8714a7": [
-    "Potentially malformed LaTeX syntax detected",
     "Options are null or undefined"
   ],
-  "04c60aab-d16d-43e2-997d-c00ee3162d92": []
+  "04c60aab-d16d-43e2-997d-c00ee3162d92": [
+    "Critical: Unmatched single dollar LaTeX delimiters ($) - will break rendering"
+  ]
 }

@@ -6,10 +6,20 @@
   "scripts": {
     "start": "node src/check.js",
     "validate": "node src/check.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write src/**/*.js"
   },
-  "keywords": ["validation", "questions", "education", "multiple-choice", "latex"],
+  "keywords": [
+    "validation",
+    "questions",
+    "education",
+    "multiple-choice",
+    "latex"
+  ],
   "author": "",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "prettier": "^3.6.2"
+  }
 }

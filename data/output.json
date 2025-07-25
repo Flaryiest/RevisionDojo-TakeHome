@@ -1,5 +1,7 @@
 [
   {
+    "question": "A school has 30 students. 18 members are in the drama club, 15 members are in the band, and 8 members are in both the drama club and the band. What is the probability that a randomly selected student is in neither the drama club nor the band?",
+    "id": "d816449d-8471-42fb-9343-0ff92b917b50",
     "options": [
       {
         "id": 3874971,
@@ -29,11 +31,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "d816449d-8471-42fb-9343-0ff92b917b50",
-    "question": "A school has 30 students. 18 members are in the drama club, 15 members are in the band, and 8 members are in both the drama club and the band. What is the probability that a randomly selected student is in neither the drama club nor the band?"
+    ]
   },
   {
+    "question": "A polling agency surveyed a random sample of 500 registered voters in a city to estimate the proportion of voters who support a new transportation initiative. The poll found that 55% of the sampled voters support the initiative. The polling agency also calculated a margin of error of 4% for this estimate. The following figure shows the distribution of the sample proportions from many simulated polls with the same sample size and population proportion. Based on the figure and the given information, which of the following is the most plausible range for the true proportion of all registered voters in the city who support the initiative?\n\nNote: The x-axis shows the sample proportion, and the y-axis shows the frequency of that sample proportion in the simulated polls. The vertical lines indicate the sample proportion from the original poll and the boundaries of the margin of error.\n\n![](https://s.revisiondojo.com/storage/v1/object/public/question-images/image_{270}.png?\")",
+    "id": "e6272e9e-43d0-43df-ba97-0d1eba255944",
     "options": [
       {
         "id": 3874999,
@@ -63,11 +65,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "e6272e9e-43d0-43df-ba97-0d1eba255944",
-    "question": "A polling agency surveyed a random sample of 500 registered voters in a city to estimate the proportion of voters who support a new transportation initiative. The poll found that 55% of the sampled voters support the initiative. The polling agency also calculated a margin of error of 4% for this estimate. The following figure shows the distribution of the sample proportions from many simulated polls with the same sample size and population proportion. Based on the figure and the given information, which of the following is the most plausible range for the true proportion of all registered voters in the city who support the initiative?\\\n\\\nNote: The x-axis shows the sample proportion, and the y-axis shows the frequency of that sample proportion in the simulated polls. The vertical lines indicate the sample proportion from the original poll and the boundaries of the margin of error.\n\n![](https://s.revisiondojo.com/storage/v1/object/public/question-images/image_270.png?\")"
+    ]
   },
   {
+    "question": "The scatterplot shows the relationship between the number of hours students studied for a test and their test scores. Based on the scatterplot, what is the predicted test score for a student who studied for 5 hours?\n\n![](https://s.revisiondojo.com/storage/v1/object/public/question-images/image_{166}.png?\")",
+    "id": "6c82c3a7-7390-445b-a63b-c1c6818701bc",
     "options": [
       {
         "id": 3875011,
@@ -97,11 +99,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "6c82c3a7-7390-445b-a63b-c1c6818701bc",
-    "question": "The scatterplot shows the relationship between the number of hours students studied for a test and their test scores. Based on the scatterplot, what is the predicted test score for a student who studied for 5 hours?\n\n![](https://s.revisiondojo.com/storage/v1/object/public/question-images/image_166.png?\")"
+    ]
   },
   {
+    "question": "Task: The student has read an article about the ecological importance of bees and wants to write a single sentence summarizing the article's central argument regarding their crucial role and the implications of their declining populations.\n\nNotes:\n- Bees are highly effective pollinators for a vast number of wildflowers, as well as many fruit, vegetable, and nut crops.\n- Pollination by bees is essential for these plants to produce seeds, enabling their reproduction and the continuation of their species.\n- A significant portion of human food crops, contributing billions to the global economy, depends directly on bee pollination for successful harvests.\n- In recent decades, various factors including habitat loss, widespread pesticide use, climate change, and diseases have led to alarming declines in bee populations worldwide.\n- This decline in bee populations poses a serious threat not only to natural biodiversity (loss of wildflowers and dependent species) but also to agricultural productivity and global food security.\n- The article advocates for increased conservation efforts, such as protecting and restoring bee habitats and promoting bee-friendly agricultural practices.\n\nWhich choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "id": "02b61fd6-7e4f-4537-a00e-ecc2e06fa899",
     "options": [
       {
         "id": 3863658,
@@ -131,11 +133,11 @@
         "order": 3,
         "markscheme": "This option is too vague ('a problem for agriculture and the environment generally') and doesn't convey the *critical* nature of their role or the *severity* of the threat as strongly as the correct option, nor does it clearly articulate it as the 'central argument'."
       }
-    ],
-    "id": "02b61fd6-7e4f-4537-a00e-ecc2e06fa899",
-    "question": "Task: The student has read an article about the ecological importance of bees and wants to write a single sentence summarizing the article's central argument regarding their crucial role and the implications of their declining populations.\n\nNotes:\n- Bees are highly effective pollinators for a vast number of wildflowers, as well as many fruit, vegetable, and nut crops.\n- Pollination by bees is essential for these plants to produce seeds, enabling their reproduction and the continuation of their species.\n- A significant portion of human food crops, contributing billions to the global economy, depends directly on bee pollination for successful harvests.\n- In recent decades, various factors including habitat loss, widespread pesticide use, climate change, and diseases have led to alarming declines in bee populations worldwide.\n- This decline in bee populations poses a serious threat not only to natural biodiversity (loss of wildflowers and dependent species) but also to agricultural productivity and global food security.\n- The article advocates for increased conservation efforts, such as protecting and restoring bee habitats and promoting bee-friendly agricultural practices.\n\nWhich choice most effectively uses relevant information from the notes to accomplish this goal?"
+    ]
   },
   {
+    "question": "If $x^{2/3} = 4$, what is the value of $x$?",
+    "id": "1c3a9333-2a97-4ede-93a9-44ff2709df48",
     "options": [
       {
         "id": 3875075,
@@ -165,11 +167,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "1c3a9333-2a97-4ede-93a9-44ff2709df48",
-    "question": "If $x^{2/3} = 4$, what is the value of $x$?"
+    ]
   },
   {
+    "question": "The graphs of \\(y = \\sqrt{x+5}\\) and \\(y = x-1\\) are shown in the xy-plane. What value of \\(x\\) satisfies the equation \\(\\sqrt{x+5} = x-1\\)?\n\n![](https://s.revisiondojo.com/storage/v1/object/public/question-images/nonlinear_{007}_{enhanced}.png?\")",
+    "id": "dc5a87e1-2272-41cf-8ec3-3d0fc8a11cd5",
     "options": [
       {
         "id": 3875083,
@@ -199,11 +201,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "dc5a87e1-2272-41cf-8ec3-3d0fc8a11cd5",
-    "question": "The graphs of \\(y = \\sqrt{x+5}\\) and \\(y = x-1\\) are shown in the xy-plane. What value of \\(x\\) satisfies the equation \\(\\sqrt{x+5} = x-1\\)?\n\n![](https://s.revisiondojo.com/storage/v1/object/public/question-images/nonlinear_007_enhanced.png?\")"
+    ]
   },
   {
+    "question": "Solve the equation |3x - 4| = 2x + 5. What is the sum of all solutions?",
+    "id": "d4a31989-43a6-461f-8501-ba5e5eb45901",
     "options": [
       {
         "id": 3875079,
@@ -233,11 +235,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "d4a31989-43a6-461f-8501-ba5e5eb45901",
-    "question": "Solve the equation |3x - 4| = 2x + 5. What is the sum of all solutions?"
+    ]
   },
   {
+    "question": "A pharmaceutical company models the concentration C (in mg/L) of a drug in the bloodstream t hours after administration using the equation C(t) = 20t/(t² + 4). The drug is considered therapeutically effective when the concentration is at least 4 mg/L. For how many hours after administration does the drug maintain therapeutic effectiveness?",
+    "id": "cac4913a-4372-4ab0-b161-07d142691711",
     "options": [
       {
         "id": 3875087,
@@ -267,11 +269,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "cac4913a-4372-4ab0-b161-07d142691711",
-    "question": "A pharmaceutical company models the concentration C (in mg/L) of a drug in the bloodstream t hours after administration using the equation C(t) = 20t/(t² + 4). The drug is considered therapeutically effective when the concentration is at least 4 mg/L. For how many hours after administration does the drug maintain therapeutic effectiveness?"
+    ]
   },
   {
+    "question": "The graph shows the intersection of a parabola and a horizontal line. What is the x-coordinate of the intersection point?\n\n![](https://s.revisiondojo.com/storage/v1/object/public/question-images/image_{134}.png?)",
+    "id": "7bc35897-c2b5-4ebc-9144-961793cab151",
     "options": [
       {
         "id": 3874871,
@@ -301,11 +303,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "7bc35897-c2b5-4ebc-9144-961793cab151",
-    "question": "The graph shows the intersection of a parabola and a horizontal line. What is the x-coordinate of the intersection point?\n\n![](https://s.revisiondojo.com/storage/v1/object/public/question-images/image_134.png?)"
+    ]
   },
   {
+    "question": "The graph shows the equations \\(y = x^3 - 3x + 1\\) and \\(y = 3\\). What is one solution to the equation \\(x^3 - 3x + 1 = 3\\)?\n\n![](https://s.revisiondojo.com/storage/v1/object/public/question-images/image_{322}.png?\")",
+    "id": "3b04c58c-4de7-4a3d-9cd2-5a4bff405a9e",
     "options": [
       {
         "id": 3875099,
@@ -335,11 +337,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "3b04c58c-4de7-4a3d-9cd2-5a4bff405a9e",
-    "question": "The graph shows the equations \\(y = x^3 - 3x + 1\\) and \\(y = 3\\). What is one solution to the equation \\(x^3 - 3x + 1 = 3\\)?\n\n![](https://s.revisiondojo.com/storage/v1/object/public/question-images/image_322.png?\")"
+    ]
   },
   {
+    "question": "A key feature of quantum physics is the uncertainty principle, which states that it's impossible to know both the exact position and the exact momentum of a particle at the same time. ________, the more precisely you measure one property, the less precisely you can know the other.\n\nWhich choice completes the text with the most logical transition?",
+    "id": "040c350d-7a66-474d-a454-a68d23886fbb",
     "options": [
       {
         "id": 3863802,
@@ -369,11 +371,11 @@
         "order": 3,
         "markscheme": "The relationship is one of explanation, not cause and effect."
       }
-    ],
-    "id": "040c350d-7a66-474d-a454-a68d23886fbb",
-    "question": "A key feature of quantum physics is the uncertainty principle, which states that it's impossible to know both the exact position and the exact momentum of a particle at the same time. ________, the more precisely you measure one property, the less precisely you can know the other.\n\nWhich choice completes the text with the most logical transition?"
+    ]
   },
   {
+    "question": "The sentence below contains a grammatical error:\n\n'Having finished the experiment, the data was analyzed by the research team.'\n\nWhich of the following choices, when combined with the introductory phrase 'Having finished the experiment,' forms a grammatically sound and logically coherent sentence?",
+    "id": "a2cd35f0-c49e-4e0c-a50b-eac79f463d8b",
     "options": [
       {
         "id": 3867862,
@@ -403,11 +405,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "a2cd35f0-c49e-4e0c-a50b-eac79f463d8b",
-    "question": "The sentence below contains a grammatical error:\n\n'Having finished the experiment, the data was analyzed by the research team.'\n\nWhich of the following choices, when combined with the introductory phrase 'Having finished the experiment,' forms a grammatically sound and logically coherent sentence?"
+    ]
   },
   {
+    "question": "Ms. Chen, representing the citizens' group that advocates for environmental protection, presented ______ petition to the mayor.",
+    "id": "b73cdf2a-6abe-410d-b30e-2ff43bb047ba",
     "options": [
       {
         "id": 3859802,
@@ -437,11 +439,11 @@
         "order": 3,
         "markscheme": "Incorrect. The pronoun 'his' does not match the gender of the antecedent 'Ms. Chen'."
       }
-    ],
-    "id": "b73cdf2a-6abe-410d-b30e-2ff43bb047ba",
-    "question": "Ms. Chen, representing the citizens' group that advocates for environmental protection, presented ______ petition to the mayor."
+    ]
   },
   {
+    "question": "For thirty years, the painter Esme isolated herself in a remote cottage, creating thousands of canvases depicting the same solitary mountain peak outside her window. She painted it in the harsh light of noon, the soft glow of dawn, through the haze of summer and the fury of a blizzard. She never sold a single painting, never held an exhibition, and her voluminous work was only discovered after her death, stacked in silent rows throughout her small home.\n\nWhat can be inferred about Esme's motivation for painting?",
+    "id": "01f6a7ea-d6f3-470a-8b43-2e055fc70130",
     "options": [
       {
         "id": 3859842,
@@ -471,11 +473,11 @@
         "order": 3,
         "markscheme": "Incorrect. There is no indication of any commercial intent; the work was simply 'stacked' in her home, suggesting a private collection, not a business inventory."
       }
-    ],
-    "id": "01f6a7ea-d6f3-470a-8b43-2e055fc70130",
-    "question": "For thirty years, the painter Esme isolated herself in a remote cottage, creating thousands of canvases depicting the same solitary mountain peak outside her window. She painted it in the harsh light of noon, the soft glow of dawn, through the haze of summer and the fury of a blizzard. She never sold a single painting, never held an exhibition, and her voluminous work was only discovered after her death, stacked in silent rows throughout her small home.\n\nWhat can be inferred about Esme's motivation for painting?"
+    ]
   },
   {
+    "question": "The old ship was a magnificent sight its sails were full and its flags were flying in the wind.\n\nWhich of the following is the best way to write the sentence?",
+    "id": "e0d97527-9164-4016-8491-1ef95b659bdb",
     "options": [
       {
         "id": 3860046,
@@ -505,11 +507,11 @@
         "order": 3,
         "markscheme": "Incorrect. While a colon could be used if the second clause was a direct explanation of the first, a semicolon is a more standard choice here for connecting two related descriptive clauses."
       }
-    ],
-    "id": "e0d97527-9164-4016-8491-1ef95b659bdb",
-    "question": "The old ship was a magnificent sight its sails were full and its flags were flying in the wind.\n\nWhich of the following is the best way to write the sentence?"
+    ]
   },
   {
+    "question": "Recent paleontological findings suggest that certain theropod dinosaurs, previously thought to be exclusively predatory, might have incorporated plant matter into their diets. Fossil evidence from the Chilesaurus diegosuarezi, a species discovered in Chile, shows a mix of sharp teeth (typical of carnivores) and broader teeth further back in the jaw (more common in herbivores). This anatomical mosaic has led researchers to speculate about a varied diet. While definitive proof of herbivory in Chilesaurus remains elusive, the combination of dental morphology and other skeletal features strongly suggests that, if conditions necessitated a shift from pure carnivory, this species _____.  Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "id": "6bbbaeb9-ba12-4494-b0d4-5092bc7e709a",
     "options": [
       {
         "id": 3860158,
@@ -539,11 +541,11 @@
         "order": 3,
         "markscheme": "Like 'adapted,' this option implies a definite action would have taken place in that hypothetical past. However, the text emphasizes that their anatomy 'strongly suggests' a capability, not a certainty of the action itself."
       }
-    ],
-    "id": "6bbbaeb9-ba12-4494-b0d4-5092bc7e709a",
-    "question": "Recent paleontological findings suggest that certain theropod dinosaurs, previously thought to be exclusively predatory, might have incorporated plant matter into their diets. Fossil evidence from the Chilesaurus diegosuarezi, a species discovered in Chile, shows a mix of sharp teeth (typical of carnivores) and broader teeth further back in the jaw (more common in herbivores). This anatomical mosaic has led researchers to speculate about a varied diet. While definitive proof of herbivory in Chilesaurus remains elusive, the combination of dental morphology and other skeletal features strongly suggests that, if conditions necessitated a shift from pure carnivory, this species _____.  Which choice completes the text so that it conforms to the conventions of Standard English?"
+    ]
   },
   {
+    "question": "If $\\frac{1}{x-1} - \\frac{1}{x+1} = \\frac{1}{4}$, what is a possible value of $x$?",
+    "id": "7971cd91-c9d5-47b6-be42-676f853fcdaf",
     "options": [
       {
         "id": 3864482,
@@ -573,11 +575,11 @@
         "order": 3,
         "markscheme": "If x=4, the left side is $1/3 - 1/5 = 2/15$, not 1/4."
       }
-    ],
-    "id": "7971cd91-c9d5-47b6-be42-676f853fcdaf",
-    "question": "If $\\frac{1}{x-1} - \\frac{1}{x+1} = \\frac{1}{4}$, what is a possible value of $x$?"
+    ]
   },
   {
+    "question": "The lead researcher, after months of collecting and analyzing data, has finally published its findings.\n\nWhich of the following choices creates a grammatically correct and logical sentence?",
+    "id": "71d6ddfd-116e-40bd-9e87-5264e85bef2e",
     "options": [
       {
         "id": 3860198,
@@ -607,11 +609,11 @@
         "order": 3,
         "markscheme": "This choice treats 'team' as plural, which is common in some dialects but is considered incorrect in formal written English, where collective nouns are treated as singular."
       }
-    ],
-    "id": "71d6ddfd-116e-40bd-9e87-5264e85bef2e",
-    "question": "The lead researcher, after months of collecting and analyzing data, has finally published its findings.\n\nWhich of the following choices creates a grammatically correct and logical sentence?"
+    ]
   },
   {
+    "question": "The graph of \\(y = \\sqrt{x+5}\\) is shown. For what value of \\(x\\) does \\(\\sqrt{x+5} = x-1\\)?\n\n![](\"https://s.revisiondojo.com/storage/v1/object/public/question-images/nonlinear_{016}.png?\")",
+    "id": "4d40cbc4-d664-40bb-8d3a-2af740fa86a8",
     "options": [
       {
         "id": 3864494,
@@ -641,11 +643,11 @@
         "order": 3,
         "markscheme": "Incorrect. Substituting \\(x=5\\) into the equation gives \\(\\sqrt{10} = 4\\). This is false."
       }
-    ],
-    "id": "4d40cbc4-d664-40bb-8d3a-2af740fa86a8",
-    "question": "The graph of \\(y = \\sqrt{x+5}\\) is shown. For what value of \\(x\\) does \\(\\sqrt{x+5} = x-1\\)?\n\n![](\"https://s.revisiondojo.com/storage/v1/object/public/question-images/nonlinear_016.png?\")"
+    ]
   },
   {
+    "question": "If $|2x - 5| = 11$, what is the sum of the possible values of $x$?",
+    "id": "d435d5c7-3c4e-40df-a9f5-d5bc4edbff0b",
     "options": [
       {
         "id": 3864522,
@@ -675,11 +677,11 @@
         "order": 3,
         "markscheme": "This is the value the absolute value expression is equal to, not the sum of the solutions."
       }
-    ],
-    "id": "d435d5c7-3c4e-40df-a9f5-d5bc4edbff0b",
-    "question": "If $|2x - 5| = 11$, what is the sum of the possible values of $x$?"
+    ]
   },
   {
+    "question": "If $x^3 - x^2 - 4x + 4 = 0$, what is the sum of all real solutions?",
+    "id": "caccfbfd-b351-4cde-a4ef-02696e3767aa",
     "options": [
       {
         "id": 3864542,
@@ -709,11 +711,11 @@
         "order": 3,
         "markscheme": "Incorrect. The sum of roots is not zero for this polynomial."
       }
-    ],
-    "id": "caccfbfd-b351-4cde-a4ef-02696e3767aa",
-    "question": "If $x^3 - x^2 - 4x + 4 = 0$, what is the sum of all real solutions?"
+    ]
   },
   {
+    "question": "Many cities are encouraging the use of public transportation to reduce traffic congestion. _______, they are investing in dedicated bus lanes and expanding subway networks.\n\nWhich choice completes the text with the most logical transition?",
+    "id": "03bbe831-f83d-47b4-bd8c-31303da91452",
     "options": [
       {
         "id": 3860278,
@@ -743,11 +745,11 @@
         "order": 3,
         "markscheme": "'Regardless' doesn't fit the logical flow of cause and purposeful action."
       }
-    ],
-    "id": "03bbe831-f83d-47b4-bd8c-31303da91452",
-    "question": "Many cities are encouraging the use of public transportation to reduce traffic congestion. _______, they are investing in dedicated bus lanes and expanding subway networks.\n\nWhich choice completes the text with the most logical transition?"
+    ]
   },
   {
+    "question": "What is the sum of all values of $m$ that satisfy $2m^2 - 16m + 8 = 0$?",
+    "id": "ecc46ca1-4004-4102-81a0-85ba3baf0771",
     "options": [
       {
         "id": 3864562,
@@ -777,11 +779,11 @@
         "order": 3,
         "markscheme": "Correct. For any quadratic equation of the form $ax^2+bx+c=0$, the sum of the solutions is given by the formula $-b/a$. In this equation, $a=2$ and $b=-16$. Therefore, the sum of the solutions is $-(-16)/2 = 16/2 = 8$."
       }
-    ],
-    "id": "ecc46ca1-4004-4102-81a0-85ba3baf0771",
-    "question": "What is the sum of all values of $m$ that satisfy $2m^2 - 16m + 8 = 0$?"
+    ]
   },
   {
+    "question": "If the polynomial $P(x) = x^3 - 2x^2 + x - 5$ is divided by $x-2$, what is the remainder?",
+    "id": "655e29b4-ad2a-4a4f-b158-47083fe3e40c",
     "options": [
       {
         "id": 3864582,
@@ -811,11 +813,11 @@
         "order": 3,
         "markscheme": "This is the value of c used in the evaluation, not the remainder itself."
       }
-    ],
-    "id": "655e29b4-ad2a-4a4f-b158-47083fe3e40c",
-    "question": "If the polynomial $P(x) = x^3 - 2x^2 + x - 5$ is divided by $x-2$, what is the remainder?"
+    ]
   },
   {
+    "question": "The committee's report acknowledged the project's substantial economic benefits and its potential to create jobs_ however, it also highlighted severe environmental concerns that, if unaddressed, could lead to irreversible ecological damage, a classic developmental paradox.\n\nWhich choice provides the most appropriate punctuation at the underlined spot?",
+    "id": "03c19676-f872-4efb-b011-6b70c3ed8f2a",
     "options": [
       {
         "id": 3860486,
@@ -845,11 +847,11 @@
         "order": 3,
         "markscheme": "This option is incorrect because it omits the necessary comma after the introductory conjunctive adverb 'however' and still results in a comma splice if 'however' is meant to connect the clauses."
       }
-    ],
-    "id": "03c19676-f872-4efb-b011-6b70c3ed8f2a",
-    "question": "The committee's report acknowledged the project's substantial economic benefits and its potential to create jobs_ however, it also highlighted severe environmental concerns that, if unaddressed, could lead to irreversible ecological damage, a classic developmental paradox.\n\nWhich choice provides the most appropriate punctuation at the underlined spot?"
+    ]
   },
   {
+    "question": "The desert is characterized by its extreme aridity and temperature fluctuations. ______ many species have developed unique adaptations to thrive there.\n\nWhich choice completes the text with the most logical transition?",
+    "id": "f0418012-cfa0-487f-8f29-5401fb5801ae",
     "options": [
       {
         "id": 3860542,
@@ -879,11 +881,11 @@
         "order": 3,
         "markscheme": "Incorrect. The adaptations are a response to the conditions, but a word indicating contrast or concession ('despite this') is more logical than a direct result."
       }
-    ],
-    "id": "f0418012-cfa0-487f-8f29-5401fb5801ae",
-    "question": "The desert is characterized by its extreme aridity and temperature fluctuations. ______ many species have developed unique adaptations to thrive there.\n\nWhich choice completes the text with the most logical transition?"
+    ]
   },
   {
+    "question": "Which expression is equivalent to (5x² - 20)/(x² - 4) × (x + 2)/(x - 2)?",
+    "id": "b846048a-5399-4ea3-9883-a3a6966f05f5",
     "options": [
       {
         "id": 3864618,
@@ -913,11 +915,11 @@
         "order": 3,
         "markscheme": "Incorrect. This overestimates the simplification."
       }
-    ],
-    "id": "b846048a-5399-4ea3-9883-a3a6966f05f5",
-    "question": "Which expression is equivalent to (5x² - 20)/(x² - 4) × (x + 2)/(x - 2)?"
+    ]
   },
   {
+    "question": "At the center of the galaxy, beyond the swirling clouds of gas and dust, lies a supermassive black hole.\n\nWhich of the following choices creates a grammatically correct and logical sentence?",
+    "id": "5554a0ec-d1b4-482f-8a27-26fda631f135",
     "options": [
       {
         "id": 3860606,
@@ -947,11 +949,11 @@
         "order": 3,
         "markscheme": "The verb 'lies' is more descriptive and appropriate in this context than 'is'."
       }
-    ],
-    "id": "5554a0ec-d1b4-482f-8a27-26fda631f135",
-    "question": "At the center of the galaxy, beyond the swirling clouds of gas and dust, lies a supermassive black hole.\n\nWhich of the following choices creates a grammatically correct and logical sentence?"
+    ]
   },
   {
+    "question": "In the xy-plane, the graphs of the equations $y = x^2$ and $y = -x^2 + 2$ intersect at how many points?",
+    "id": "dc247c77-8112-4f28-887d-29132ac3dd05",
     "options": [
       {
         "id": 3864646,
@@ -981,11 +983,11 @@
         "order": 3,
         "markscheme": "Incorrect. Two distinct parabolas can intersect at a maximum of two points."
       }
-    ],
-    "id": "dc247c77-8112-4f28-887d-29132ac3dd05",
-    "question": "In the xy-plane, the graphs of the equations $y = x^2$ and $y = -x^2 + 2$ intersect at how many points?"
+    ]
   },
   {
+    "question": "The height $h$, in feet, of a ball thrown into the air is given by the function $h(t) = -16t^2 + 64t + 80$, where $t$ is the time in seconds. What is the maximum height the ball reaches?",
+    "id": "94a7ec7d-a351-4988-87e4-a169ff4c4d59",
     "options": [
       {
         "id": 3864718,
@@ -1015,11 +1017,11 @@
         "order": 3,
         "markscheme": "This is a calculation error."
       }
-    ],
-    "id": "94a7ec7d-a351-4988-87e4-a169ff4c4d59",
-    "question": "The height $h$, in feet, of a ball thrown into the air is given by the function $h(t) = -16t^2 + 64t + 80$, where $t$ is the time in seconds. What is the maximum height the ball reaches?"
+    ]
   },
   {
+    "question": "If f(x) = x² + 3x and g(x) = 2x - 1, what is f(g(2))?",
+    "id": "91e04793-ac8c-4ad2-9686-7caa23c0c663",
     "options": [
       {
         "id": 3864738,
@@ -1049,11 +1051,11 @@
         "order": 3,
         "markscheme": "Incorrect. This doesn't follow the correct order of operations."
       }
-    ],
-    "id": "91e04793-ac8c-4ad2-9686-7caa23c0c663",
-    "question": "If f(x) = x² + 3x and g(x) = 2x - 1, what is f(g(2))?"
+    ]
   },
   {
+    "question": "The brain's plasticity, its ability to reorganize and form new connections, is not uniform throughout life. It is most pronounced during early childhood, a period when the brain is rapidly learning and adapting to the environment. This is why children can often learn new languages or musical instruments with an ease that is rarely seen in adults. While plasticity continues into adulthood, allowing for lifelong learning and recovery from injury, the rate and extent of this reorganization generally diminish with age. This age-related decline in plasticity is thought to be one of the reasons why learning new, complex skills becomes more challenging later in life and why recovery from brain damage is often slower and less complete in older individuals.\n\nA student claims that the brain's capacity for adaptation changes as a person gets older. Which quotation from the passage best supports this claim?",
+    "id": "835a8f81-a59e-4aaa-b607-88ce52405930",
     "options": [
       {
         "id": 3860834,
@@ -1083,11 +1085,11 @@
         "order": 3,
         "markscheme": "Correct. This quotation directly supports the claim by stating that although plasticity persists, its 'rate and extent...diminish with age,' which is a clear description of how the capacity for adaptation changes."
       }
-    ],
-    "id": "835a8f81-a59e-4aaa-b607-88ce52405930",
-    "question": "The brain's plasticity, its ability to reorganize and form new connections, is not uniform throughout life. It is most pronounced during early childhood, a period when the brain is rapidly learning and adapting to the environment. This is why children can often learn new languages or musical instruments with an ease that is rarely seen in adults. While plasticity continues into adulthood, allowing for lifelong learning and recovery from injury, the rate and extent of this reorganization generally diminish with age. This age-related decline in plasticity is thought to be one of the reasons why learning new, complex skills becomes more challenging later in life and why recovery from brain damage is often slower and less complete in older individuals.\n\nA student claims that the brain's capacity for adaptation changes as a person gets older. Which quotation from the passage best supports this claim?"
+    ]
   },
   {
+    "question": "The passage provides a detailed, step-by-step guide for changing a flat tire on a car. It begins with safety precautions, such as parking on a level surface and engaging the parking brake. It then lists the necessary tools, like a lug wrench and a jack. The subsequent steps clearly outline the process: loosening the lug nuts, jacking up the car, replacing the flat tire with the spare, and finally, tightening the lug nuts securely.\n\nThe passage is organized primarily by:",
+    "id": "024b187b-cc7f-4106-9fa4-9c47907c0773",
     "options": [
       {
         "id": 3860898,
@@ -1117,11 +1119,11 @@
         "order": 3,
         "markscheme": "Incorrect. The steps are organized by the order in which they must be performed for the task to be completed safely and correctly, not necessarily by their relative importance."
       }
-    ],
-    "id": "024b187b-cc7f-4106-9fa4-9c47907c0773",
-    "question": "The passage provides a detailed, step-by-step guide for changing a flat tire on a car. It begins with safety precautions, such as parking on a level surface and engaging the parking brake. It then lists the necessary tools, like a lug wrench and a jack. The subsequent steps clearly outline the process: loosening the lug nuts, jacking up the car, replacing the flat tire with the spare, and finally, tightening the lug nuts securely.\n\nThe passage is organized primarily by:"
+    ]
   },
   {
+    "question": "The mayor's speech was a careful attempt to **equivocate** on the controversial issue, containing just enough supportive language to appease the proponents of the new law but also just enough cautionary language to satisfy its opponents, ultimately leaving his own position unclear.\n\nAs used in the text, what does the word \"equivocate\" most nearly mean?",
+    "id": "02acb864-b2b3-4ad7-92ff-d06206fa4ad1",
     "options": [
       {
         "id": 3860930,
@@ -1151,11 +1153,11 @@
         "order": 3,
         "markscheme": "Incorrect. This is the opposite of equivocating."
       }
-    ],
-    "id": "02acb864-b2b3-4ad7-92ff-d06206fa4ad1",
-    "question": "The mayor's speech was a careful attempt to **equivocate** on the controversial issue, containing just enough supportive language to appease the proponents of the new law but also just enough cautionary language to satisfy its opponents, ultimately leaving his own position unclear.\n\nAs used in the text, what does the word \"equivocate\" most nearly mean?"
+    ]
   },
   {
+    "question": "After weeks of dry weather, dark clouds finally gathered in the sky. Farmers in the region, who had been anxiously watching their crops wither, looked up with a sense of anticipation. The wind picked up, and the first few heavy drops of rain began to fall. Soon, it was a steady downpour, soaking the parched earth.\n\nWhat can be inferred about how the farmers felt when the rain began to fall?",
+    "id": "03d1efed-8eeb-4566-97d3-ac5ebc87d168",
     "options": [
       {
         "id": 3860022,
@@ -1185,11 +1187,11 @@
         "order": 3,
         "markscheme": "Incorrect. Their 'anxious' watching and 'anticipation' contradict indifference."
       }
-    ],
-    "id": "03d1efed-8eeb-4566-97d3-ac5ebc87d168",
-    "question": "After weeks of dry weather, dark clouds finally gathered in the sky. Farmers in the region, who had been anxiously watching their crops wither, looked up with a sense of anticipation. The wind picked up, and the first few heavy drops of rain began to fall. Soon, it was a steady downpour, soaking the parched earth.\n\nWhat can be inferred about how the farmers felt when the rain began to fall?"
+    ]
   },
   {
+    "question": "A walk through modern-day Istanbul is a vibrant experience, where the scent of roasting chestnuts mixes with the sound of ferry horns on the Bosphorus. Yet, beneath the surface of this bustling metropolis lies a deep and layered history. For over a thousand years, this same city, then known as Constantinople, served as the glittering capital of the Byzantine Empire. This ancient heritage is not merely confined to museums; it remains a living part of the city's identity, its presence felt in the architectural marvel of the Hagia Sophia and the enduring spirit of commerce in the Grand Bazaar.\n\nWhich of the following best describes the structure of the text?",
+    "id": "0270e7ef-187b-4000-a3b8-4949074c7003",
     "options": [
       {
         "id": 3859978,
@@ -1219,11 +1221,11 @@
         "order": 3,
         "markscheme": "The text is descriptive and does not follow a problem-solution structure."
       }
-    ],
-    "id": "0270e7ef-187b-4000-a3b8-4949074c7003",
-    "question": "A walk through modern-day Istanbul is a vibrant experience, where the scent of roasting chestnuts mixes with the sound of ferry horns on the Bosphorus. Yet, beneath the surface of this bustling metropolis lies a deep and layered history. For over a thousand years, this same city, then known as Constantinople, served as the glittering capital of the Byzantine Empire. This ancient heritage is not merely confined to museums; it remains a living part of the city's identity, its presence felt in the architectural marvel of the Hagia Sophia and the enduring spirit of commerce in the Grand Bazaar.\n\nWhich of the following best describes the structure of the text?"
+    ]
   },
   {
+    "question": "An engineer is designing a rectangular solar panel where the length is 3 feet more than twice the width. Due to material constraints, the total area must be exactly 54 square feet. Additionally, for optimal efficiency, the perimeter must not exceed 35 feet. If $w$ represents the width in feet, which equation can be used to find the width, and what is the width that satisfies all constraints?",
+    "id": "1acae734-90bd-45fe-aa06-a0c6139a207b",
     "options": [
       {
         "id": 3875219,
@@ -1253,11 +1255,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "1acae734-90bd-45fe-aa06-a0c6139a207b",
-    "question": "An engineer is designing a rectangular solar panel where the length is 3 feet more than twice the width. Due to material constraints, the total area must be exactly 54 square feet. Additionally, for optimal efficiency, the perimeter must not exceed 35 feet. If $w$ represents the width in feet, which equation can be used to find the width, and what is the width that satisfies all constraints?"
+    ]
   },
   {
+    "question": "A paragraph from an essay about a film director:\n\n[1] The director is renowned for her use of long, uninterrupted takes, a stylistic choice that stands in stark contrast to the rapid-fire editing common in modern blockbusters. [2] In one notable scene, the camera follows a character through a crowded market for over five minutes without a single cut. [3] This technique immerses the viewer in the character's perspective, creating a sense of immediacy and realism. [4] This approach demands meticulous choreography from the actors and immense precision from the camera crew.\n\nThe writer wants to insert the following sentence:\n\"The effect is not merely technical showmanship; it is a deliberate narrative strategy.\"\n\nTo make the paragraph most logical, this sentence should be placed:",
+    "id": "a4730980-c099-425a-a4c3-edf2ed2ab90e",
     "options": [
       {
         "id": 3861110,
@@ -1287,11 +1289,11 @@
         "order": 3,
         "markscheme": "Incorrect. Sentence [4] discusses the technical demands. Placing the new sentence after this would disrupt the logical flow from the technique itself to its narrative purpose."
       }
-    ],
-    "id": "a4730980-c099-425a-a4c3-edf2ed2ab90e",
-    "question": "A paragraph from an essay about a film director:\n\n[1] The director is renowned for her use of long, uninterrupted takes, a stylistic choice that stands in stark contrast to the rapid-fire editing common in modern blockbusters. [2] In one notable scene, the camera follows a character through a crowded market for over five minutes without a single cut. [3] This technique immerses the viewer in the character's perspective, creating a sense of immediacy and realism. [4] This approach demands meticulous choreography from the actors and immense precision from the camera crew.\n\nThe writer wants to insert the following sentence:\n\"The effect is not merely technical showmanship; it is a deliberate narrative strategy.\"\n\nTo make the paragraph most logical, this sentence should be placed:"
+    ]
   },
   {
+    "question": "If $\\frac{5}{x} = \\frac{x+3}{2}$, what is one possible value for x?",
+    "id": "b1ec23b8-73ab-4153-9b41-3782508e1a66",
     "options": [
       {
         "id": 3875227,
@@ -1321,11 +1323,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "b1ec23b8-73ab-4153-9b41-3782508e1a66",
-    "question": "If $\\frac{5}{x} = \\frac{x+3}{2}$, what is one possible value for x?"
+    ]
   },
   {
+    "question": "A company's revenue function is $R(x) = x(100 - 2x)$ where $x$ is the number of units sold (in thousands) and $R(x)$ is revenue in thousands of dollars. The company's cost function in thousands is $C(x) = 50 + 10x$. To maximize profit, how many units (in thousands) should the company produce, and what is the maximum profit in thousands of dollars?",
+    "id": "80bc0815-f635-4091-8da4-4cc37c82010b",
     "options": [
       {
         "id": 3875215,
@@ -1355,11 +1357,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "80bc0815-f635-4091-8da4-4cc37c82010b",
-    "question": "A company's revenue function is $R(x) = x(100 - 2x)$ where $x$ is the number of units sold (in thousands) and $R(x)$ is revenue in thousands of dollars. The company's cost function in thousands is $C(x) = 50 + 10x$. To maximize profit, how many units (in thousands) should the company produce, and what is the maximum profit in thousands of dollars?"
+    ]
   },
   {
+    "question": "A virus spreads according to N(t) = 100(1.6)^t, where t is days. After how many days will there be 1,000 infected people?",
+    "id": "6dca3baf-252a-4696-9d88-c2eccf8c7187",
     "options": [
       {
         "id": 3880426,
@@ -1389,11 +1391,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "6dca3baf-252a-4696-9d88-c2eccf8c7187",
-    "question": "A virus spreads according to N(t) = 100(1.6)^t, where t is days. After how many days will there be 1,000 infected people?"
+    ]
   },
   {
+    "question": "A recent study on urban bird populations found that sparrows living in noisier city environments tended to sing at a higher pitch than their counterparts in quieter, suburban areas. Researchers noted that lower-frequency city sounds, such as traffic rumble, can mask the lower-frequency components of bird songs, making them harder for other birds to hear. By shifting their songs to a higher pitch, the urban sparrows may be adapting to ensure their territorial calls and mating songs are more effectively communicated amidst the urban din. This suggests a remarkable vocal flexibility in these common birds.\n\nIt can be reasonably inferred that the researchers believe the higher-pitched songs of urban sparrows are:",
+    "id": "04b8b939-4ca5-4067-b356-74bae0fa4bf4",
     "options": [
       {
         "id": 3860210,
@@ -1423,11 +1425,11 @@
         "order": 3,
         "markscheme": "Incorrect. The adaptation is in their song production to overcome noise, not a change in their hearing ability."
       }
-    ],
-    "id": "04b8b939-4ca5-4067-b356-74bae0fa4bf4",
-    "question": "A recent study on urban bird populations found that sparrows living in noisier city environments tended to sing at a higher pitch than their counterparts in quieter, suburban areas. Researchers noted that lower-frequency city sounds, such as traffic rumble, can mask the lower-frequency components of bird songs, making them harder for other birds to hear. By shifting their songs to a higher pitch, the urban sparrows may be adapting to ensure their territorial calls and mating songs are more effectively communicated amidst the urban din. This suggests a remarkable vocal flexibility in these common birds.\n\nIt can be reasonably inferred that the researchers believe the higher-pitched songs of urban sparrows are:"
+    ]
   },
   {
+    "question": "If f(x) = 2x² - 3x + 1 and g(x) = x + 2, what is f(g(-1))?",
+    "id": "a83c3135-ba78-485d-9023-cf2bb464b0b4",
     "options": [
       {
         "id": 3880422,
@@ -1457,11 +1459,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "a83c3135-ba78-485d-9023-cf2bb464b0b4",
-    "question": "If f(x) = 2x² - 3x + 1 and g(x) = x + 2, what is f(g(-1))?"
+    ]
   },
   {
+    "question": "Many social insects, such as ants and bees, exhibit complex collective behaviors that seem to suggest a centralized intelligence. However, much of this behavior can be explained by the principle of stigmergy. Stigmergy is a mechanism of indirect coordination through the environment. For example, a single ant might lay down a pheromone trail. Subsequent ants do not need to communicate directly; they simply follow the trail, reinforcing it with their own pheromones. This simple, decentralized rule, when followed by many individuals, leads to the formation of efficient foraging routes.\n\nWhich of the following is an example of stigmergy as described in the text?",
+    "id": "036ffcb7-55ec-4bf8-b79e-e0d79f4638ae",
     "options": [
       {
         "id": 3860306,
@@ -1491,11 +1493,11 @@
         "order": 3,
         "markscheme": "This is an example of direct communication, not stigmergy."
       }
-    ],
-    "id": "036ffcb7-55ec-4bf8-b79e-e0d79f4638ae",
-    "question": "Many social insects, such as ants and bees, exhibit complex collective behaviors that seem to suggest a centralized intelligence. However, much of this behavior can be explained by the principle of stigmergy. Stigmergy is a mechanism of indirect coordination through the environment. For example, a single ant might lay down a pheromone trail. Subsequent ants do not need to communicate directly; they simply follow the trail, reinforcing it with their own pheromones. This simple, decentralized rule, when followed by many individuals, leads to the formation of efficient foraging routes.\n\nWhich of the following is an example of stigmergy as described in the text?"
+    ]
   },
   {
+    "question": "The committee, after weeks of deliberation, has finally reached a decision.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English? The committee, after weeks of deliberation, has finally reached a decision.",
+    "id": "039aab2c-2d34-4dba-abf9-e77b0b689d9a",
     "options": [
       {
         "id": 3860374,
@@ -1525,11 +1527,11 @@
         "order": 3,
         "markscheme": "Incorrect. This choice is missing the pair of commas required to set off the non-essential interrupting phrase."
       }
-    ],
-    "id": "039aab2c-2d34-4dba-abf9-e77b0b689d9a",
-    "question": "The committee, after weeks of deliberation, has finally reached a decision.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English? The committee, after weeks of deliberation, has finally reached a decision."
+    ]
   },
   {
+    "question": "Consider the following sentences from a passage on cognitive biases:\n\n\"Confirmation bias leads individuals to favor information that confirms their pre-existing beliefs. This tendency can be particularly strong when beliefs are tied to one's identity or social group. Moreover, the availability heuristic causes people to overestimate the likelihood of events that are easily recalled, often because they are recent or vivid. These cognitive shortcuts, while efficient, can systematically lead to errors in judgment.\"\n\nWhich of the following best combines the information in these sentences to enhance concision and highlight the overarching relationship between specific biases and their general consequence, without losing essential meaning?",
+    "id": "3e9e308f-76d3-4777-a2a9-9ad4b0e33ec7",
     "options": [
       {
         "id": 3860410,
@@ -1559,11 +1561,11 @@
         "order": 3,
         "markscheme": "This option incorrectly links the 'identity-related' aspect only to the general consequence rather than specifically to confirmation bias, and the causal structure ('Because...') slightly alters the emphasis from defining the biases and then stating their general nature."
       }
-    ],
-    "id": "3e9e308f-76d3-4777-a2a9-9ad4b0e33ec7",
-    "question": "Consider the following sentences from a passage on cognitive biases:\n\n\"Confirmation bias leads individuals to favor information that confirms their pre-existing beliefs. This tendency can be particularly strong when beliefs are tied to one's identity or social group. Moreover, the availability heuristic causes people to overestimate the likelihood of events that are easily recalled, often because they are recent or vivid. These cognitive shortcuts, while efficient, can systematically lead to errors in judgment.\"\n\nWhich of the following best combines the information in these sentences to enhance concision and highlight the overarching relationship between specific biases and their general consequence, without losing essential meaning?"
+    ]
   },
   {
+    "question": "The quality of the new phone's camera is much better than the older model.\n\nWhich of the following choices creates a grammatically correct and logical sentence?",
+    "id": "d749c419-bf7e-4c99-aab7-6eb966b646c7",
     "options": [
       {
         "id": 3861410,
@@ -1593,11 +1595,11 @@
         "order": 3,
         "markscheme": "The comma is unnecessary and does not fix the underlying logical error."
       }
-    ],
-    "id": "d749c419-bf7e-4c99-aab7-6eb966b646c7",
-    "question": "The quality of the new phone's camera is much better than the older model.\n\nWhich of the following choices creates a grammatically correct and logical sentence?"
+    ]
   },
   {
+    "question": "How many solutions does the system $y = x^2 + 2$ and $y = 2x + 1$ have?",
+    "id": "f3a546f2-4e15-4dde-889f-59dffef5e8f5",
     "options": [
       {
         "id": 3880430,
@@ -1627,11 +1629,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "f3a546f2-4e15-4dde-889f-59dffef5e8f5",
-    "question": "How many solutions does the system $y = x^2 + 2$ and $y = 2x + 1$ have?"
+    ]
   },
   {
+    "question": "The team practiced for weeks, they were determined to win the championship.\n\nWhich choice creates a grammatically correct sentence?",
+    "id": "058e734f-7a6c-414c-a2c9-4015ff72c574",
     "options": [
       {
         "id": 3861366,
@@ -1661,11 +1663,11 @@
         "order": 3,
         "markscheme": "While 'so' can connect clauses, it implies a result that isn't as strong as the simple statement of determination. Separating the sentences is the cleanest choice."
       }
-    ],
-    "id": "058e734f-7a6c-414c-a2c9-4015ff72c574",
-    "question": "The team practiced for weeks, they were determined to win the championship.\n\nWhich choice creates a grammatically correct sentence?"
+    ]
   },
   {
+    "question": "A civil engineer is designing a fountain where water follows a parabolic trajectory. The height h (in feet) of the water stream above ground level is modeled by h(t) = -16t² + 32t + 6, where t is the time in seconds after the water leaves the nozzle. The fountain basin has a rim that is 4 feet above ground level. If the water must clear the rim and land in the basin, what is the total time interval (in seconds) during which the water is above the 4-foot rim level?",
+    "id": "67a880ab-dd06-4e79-8828-d51af747eb02",
     "options": [
       {
         "id": 3880434,
@@ -1695,11 +1697,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "67a880ab-dd06-4e79-8828-d51af747eb02",
-    "question": "A civil engineer is designing a fountain where water follows a parabolic trajectory. The height h (in feet) of the water stream above ground level is modeled by h(t) = -16t² + 32t + 6, where t is the time in seconds after the water leaves the nozzle. The fountain basin has a rim that is 4 feet above ground level. If the water must clear the rim and land in the basin, what is the total time interval (in seconds) during which the water is above the 4-foot rim level?"
+    ]
   },
   {
+    "question": "The final report______a document that would ultimately reshape the company's entire corporate strategy______{was} presented to the board on Tuesday.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "id": "02da2c8b-a059-40ce-a38b-3976d97da3e6",
     "options": [
       {
         "id": 3861462,
@@ -1729,11 +1731,11 @@
         "order": 3,
         "markscheme": "Incorrect. A colon must follow a complete independent clause. 'The final report' is not an independent clause. Furthermore, this choice fails to set off the end of the interrupting phrase, creating a fused sentence."
       }
-    ],
-    "id": "02da2c8b-a059-40ce-a38b-3976d97da3e6",
-    "question": "The final report______a document that would ultimately reshape the company's entire corporate strategy______was presented to the board on Tuesday.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?"
+    ]
   },
   {
+    "question": "Everyone on the expedition were required to carry their own supplies.\n\nWhich of the following choices creates a grammatically correct and logical sentence?",
+    "id": "402c0a5b-1b49-47d4-9e37-54c7d24c0c26",
     "options": [
       {
         "id": 3861598,
@@ -1763,11 +1765,11 @@
         "order": 3,
         "markscheme": "The pronoun 'his or her' is correct, but the plural verb 'were' does not agree with the singular subject 'Everyone.'"
       }
-    ],
-    "id": "402c0a5b-1b49-47d4-9e37-54c7d24c0c26",
-    "question": "Everyone on the expedition were required to carry their own supplies.\n\nWhich of the following choices creates a grammatically correct and logical sentence?"
+    ]
   },
   {
+    "question": "The museum's new exhibit features ancient artifacts from Egypt, pottery from Greece, and sculptures from the Roman Empire.\n\nWhich of the following choices creates a grammatically correct and logical sentence?",
+    "id": "d8d94e8f-17a5-4e9d-8d9b-81def918e074",
     "options": [
       {
         "id": 3861606,
@@ -1797,11 +1799,11 @@
         "order": 3,
         "markscheme": "Semicolons are used to separate items in a list only when the items themselves contain commas. Since these items are simple phrases, commas are the correct punctuation."
       }
-    ],
-    "id": "d8d94e8f-17a5-4e9d-8d9b-81def918e074",
-    "question": "The museum's new exhibit features ancient artifacts from Egypt, pottery from Greece, and sculptures from the Roman Empire.\n\nWhich of the following choices creates a grammatically correct and logical sentence?"
+    ]
   },
   {
+    "question": "The invention of the microscope opened up a previously unseen world it allowed scientists to observe microorganisms for the first time.\n\nWhich choice creates a grammatically correct sentence?",
+    "id": "83628ba5-548b-484c-b30a-767cbea61fac",
     "options": [
       {
         "id": 3861742,
@@ -1831,11 +1833,11 @@
         "order": 3,
         "markscheme": "While grammatically possible, the relationship between the two clauses is one of explanation. Using a period to separate them into two clear statements is a stronger and more conventional choice."
       }
-    ],
-    "id": "83628ba5-548b-484c-b30a-767cbea61fac",
-    "question": "The invention of the microscope opened up a previously unseen world it allowed scientists to observe microorganisms for the first time.\n\nWhich choice creates a grammatically correct sentence?"
+    ]
   },
   {
+    "question": "The line $y=x$ intersects the circle $x^2 + (y-4)^2 = 8$ at two points. What is the sum of the x-coordinates of the two intersection points?",
+    "id": "2d74b349-936c-4b87-8d3b-f66dc8ccaf2c",
     "options": [
       {
         "id": 3864998,
@@ -1865,11 +1867,11 @@
         "order": 3,
         "markscheme": "This is the constant term in the intermediate equation."
       }
-    ],
-    "id": "2d74b349-936c-4b87-8d3b-f66dc8ccaf2c",
-    "question": "The line $y=x$ intersects the circle $x^2 + (y-4)^2 = 8$ at two points. What is the sum of the x-coordinates of the two intersection points?"
+    ]
   },
   {
+    "question": "An engineer is designing a water fountain where water follows a parabolic arc described by $y = -0.1x^2 + 2.9x + 7$, where x and y are measured in feet. A decorative linear feature intersects this water arc at two points, following the equation $y = x + 5$. The engineer needs to find the intersection points to properly position lighting elements. At what coordinates $(x,y)$ do the parabolic water arc and the linear feature intersect?",
+    "id": "8527bf26-b9ef-44d7-82bb-a99b7238af62",
     "options": [
       {
         "id": 3865026,
@@ -1899,11 +1901,11 @@
         "order": 3,
         "markscheme": "Incorrect. These coordinates don't represent the actual intersection points of the parabola and line."
       }
-    ],
-    "id": "8527bf26-b9ef-44d7-82bb-a99b7238af62",
-    "question": "An engineer is designing a water fountain where water follows a parabolic arc described by $y = -0.1x^2 + 2.9x + 7$, where x and y are measured in feet. A decorative linear feature intersects this water arc at two points, following the equation $y = x + 5$. The engineer needs to find the intersection points to properly position lighting elements. At what coordinates $(x,y)$ do the parabolic water arc and the linear feature intersect?"
+    ]
   },
   {
+    "question": "A delivery truck travels at 55 mph on highways and 25 mph in cities. If the total trip is 180 miles and takes 4 hours, how many miles were driven on highways?",
+    "id": "1c476f7c-918d-4f05-99fb-b5fe54aed7b3",
     "options": [
       {
         "id": 3865038,
@@ -1933,45 +1935,11 @@
         "order": 3,
         "markscheme": "Incorrect. This doesn't satisfy the distance-time relationship."
       }
-    ],
-    "id": "1c476f7c-918d-4f05-99fb-b5fe54aed7b3",
-    "question": "A delivery truck travels at 55 mph on highways and 25 mph in cities. If the total trip is 180 miles and takes 4 hours, how many miles were driven on highways?"
+    ]
   },
   {
-    "options": [
-      {
-        "id": 3865042,
-        "content": "60",
-        "correct": true,
-        "order": 0,
-        "markscheme": "Correct. Let A = Type A beams, B = Type B beams. System: A + B = 100, 2A + 1.5B = 180, 800A + 1200B = 95000. From first: B = 100 - A. Substitute into second: 2A + 1.5(100 - A) = 180, so 2A + 150 - 1.5A = 180, giving 0.5A = 30, thus A = 60. Check budget: 800(60) + 1200(40) = 48000 + 48000 = 96000. This exceeds budget, so there's an inconsistency in the problem setup."
-      },
-      {
-        "id": 3865043,
-        "content": "40",
-        "correct": false,
-        "order": 1,
-        "markscheme": "Incorrect. This doesn't satisfy the weight constraint."
-      },
-      {
-        "id": 3865044,
-        "content": "70",
-        "correct": false,
-        "order": 2,
-        "markscheme": "Incorrect. This doesn't balance the system requirements."
-      },
-      {
-        "id": 3865045,
-        "content": "50",
-        "correct": false,
-        "order": 3,
-        "markscheme": "Incorrect. This doesn't meet the specifications."
-      }
-    ],
-    "id": "835f2693-32b7-4ada-bb00-bf3254cd8243",
-    "question": "An engineering firm designs a bridge using two types of steel beams. Type A beams cost $800 each and weigh 2 tons. Type B beams cost $1,200 each and weigh 1.5 tons. The project requires exactly 100 beams with a total weight of 180 tons and a budget of $95,000. How many Type A beams are needed?"
-  },
-  {
+    "question": "The diplomat was renowned for her ability to navigate tense negotiations. While others on her team might grow visibly frustrated or angry, she consistently maintained a calm and composed demeanor, carefully choosing her words and never raising her voice. This approach often had the effect of de-escalating the situation, allowing constructive dialogue to resume.\n\nWhat can be inferred about the diplomat's strategy?",
+    "id": "041971c0-956b-431d-9aef-c216e3f4f85b",
     "options": [
       {
         "id": 3862446,
@@ -2001,11 +1969,11 @@
         "order": 3,
         "markscheme": "The text does not mention any criticism from her team."
       }
-    ],
-    "id": "041971c0-956b-431d-9aef-c216e3f4f85b",
-    "question": "The diplomat was renowned for her ability to navigate tense negotiations. While others on her team might grow visibly frustrated or angry, she consistently maintained a calm and composed demeanor, carefully choosing her words and never raising her voice. This approach often had the effect of de-escalating the situation, allowing constructive dialogue to resume.\n\nWhat can be inferred about the diplomat's strategy?"
+    ]
   },
   {
+    "question": "The scientist had one primary goal for her research: to develop a more efficient and environmentally friendly method for water desalination.",
+    "id": "005529f9-606b-4ca2-96a6-e9dc3f456489",
     "options": [
       {
         "id": 3861290,
@@ -2035,11 +2003,11 @@
         "order": 3,
         "markscheme": "Incorrect. A semicolon connects two independent clauses. 'to develop...' is an infinitive phrase, not an independent clause."
       }
-    ],
-    "id": "005529f9-606b-4ca2-96a6-e9dc3f456489",
-    "question": "The scientist had one primary goal for her research: to develop a more efficient and environmentally friendly method for water desalination."
+    ]
   },
   {
+    "question": "The function $f$ is defined by $f(x) = -2x + 5$. In the xy-plane, the point $(k, -1)$ lies on the graph of function $f$. What is the value of $k$?",
+    "id": "00855d4e-5929-472c-be2a-bf90a9e2c9e1",
     "options": [
       {
         "id": 3865234,
@@ -2069,11 +2037,11 @@
         "order": 3,
         "markscheme": "Incorrect. This answer is the result of misinterpreting the question. It is the value of $f(x)$ when $x = -1$, i.e., $f(-1) = -2(-1) + 5 = 2 + 5 = 7$. The question asks for the value of $k$ (the x-coordinate) when the y-coordinate is $-1$, not the other way around."
       }
-    ],
-    "id": "00855d4e-5929-472c-be2a-bf90a9e2c9e1",
-    "question": "The function $f$ is defined by $f(x) = -2x + 5$. In the xy-plane, the point $(k, -1)$ lies on the graph of function $f$. What is the value of $k$?"
+    ]
   },
   {
+    "question": "For what value of $k$ does the equation $3(x - 2) + k = 2x + 7$ have no solution?",
+    "id": "1cd09e77-e6a7-461f-bb94-d0d0b5abd679",
     "options": [
       {
         "id": 3865422,
@@ -2103,11 +2071,11 @@
         "order": 3,
         "markscheme": "Incorrect. This is not the value that creates an inconsistent equation."
       }
-    ],
-    "id": "1cd09e77-e6a7-461f-bb94-d0d0b5abd679",
-    "question": "For what value of $k$ does the equation $3(x - 2) + k = 2x + 7$ have no solution?"
+    ]
   },
   {
+    "question": "If $x + 2y = 7$ and $3x - y = 4$, what is the value of $x + y$?",
+    "id": "4f949214-38b6-4ef4-a033-eff66d6272cd",
     "options": [
       {
         "id": 3865466,
@@ -2137,11 +2105,11 @@
         "order": 3,
         "markscheme": "Incorrect. This would result from calculation errors in the elimination process."
       }
-    ],
-    "id": "4f949214-38b6-4ef4-a033-eff66d6272cd",
-    "question": "If $x + 2y = 7$ and $3x - y = 4$, what is the value of $x + y$?"
+    ]
   },
   {
+    "question": "What are the x-intercepts of the graph of the function $f(x) = 2x^2 + 5x - 3$?",
+    "id": "7b62136f-70f9-44e4-9211-3379f3036ffc",
     "options": [
       {
         "id": 3864510,
@@ -2171,11 +2139,11 @@
         "order": 3,
         "markscheme": "This is another result of incorrect factoring."
       }
-    ],
-    "id": "7b62136f-70f9-44e4-9211-3379f3036ffc",
-    "question": "What are the x-intercepts of the graph of the function $f(x) = 2x^2 + 5x - 3$?"
+    ]
   },
   {
+    "question": "The graph shows the functions \\(f(x) = |x-3|\\) and \\(g(x)=4\\). The graphs intersect at two points. What is the sum of the x-coordinates of the intersection points?\n\n![](\"https://s.revisiondojo.com/storage/v1/object/public/question-images/adv_{math}_{abs}_{graph}_{001}.png?\")",
+    "id": "4b4e0d59-2c2a-4bdf-9008-0d737008693c",
     "options": [
       {
         "id": 3864506,
@@ -2205,11 +2173,11 @@
         "order": 3,
         "markscheme": "Incorrect. This is the sum of the absolute values of the coordinates (|-1| + 7)."
       }
-    ],
-    "id": "4b4e0d59-2c2a-4bdf-9008-0d737008693c",
-    "question": "The graph shows the functions \\(f(x) = |x-3|\\) and \\(g(x)=4\\). The graphs intersect at two points. What is the sum of the x-coordinates of the intersection points?\n\n![](\"https://s.revisiondojo.com/storage/v1/object/public/question-images/adv_math_abs_graph_001.png?\")"
+    ]
   },
   {
+    "question": "If $3^{x+1} = 27^{x-1}$, what is the value of $x$?",
+    "id": "e2bbf1d8-fb29-4903-ba41-b37e55db995f",
     "options": [
       {
         "id": 3864538,
@@ -2239,11 +2207,11 @@
         "order": 3,
         "markscheme": "This is the value of 2x."
       }
-    ],
-    "id": "e2bbf1d8-fb29-4903-ba41-b37e55db995f",
-    "question": "If $3^{x+1} = 27^{x-1}$, what is the value of $x$?"
+    ]
   },
   {
+    "question": "A construction engineer is analyzing the load distribution on a beam. The bending moment M at a distance x from one end of a beam is given by the expression M(x) = 3x³ - 18x² + 27x. The engineer needs to factor this expression to identify critical points where the moment equals zero, as these represent points of zero stress that are important for structural analysis. The factored form will also help determine the maximum load capacity. Which expression is equivalent to 3x³ - 18x² + 27x?",
+    "id": "3f66e949-c96a-47bf-8078-9ef1c5a0f241",
     "options": [
       {
         "id": 3864602,
@@ -2273,11 +2241,11 @@
         "order": 3,
         "markscheme": "Incorrect. This factorization doesn't produce the original expression when expanded."
       }
-    ],
-    "id": "3f66e949-c96a-47bf-8078-9ef1c5a0f241",
-    "question": "A construction engineer is analyzing the load distribution on a beam. The bending moment M at a distance x from one end of a beam is given by the expression M(x) = 3x³ - 18x² + 27x. The engineer needs to factor this expression to identify critical points where the moment equals zero, as these represent points of zero stress that are important for structural analysis. The factored form will also help determine the maximum load capacity. Which expression is equivalent to 3x³ - 18x² + 27x?"
+    ]
   },
   {
+    "question": "A black hole is a region of spacetime where gravity is so strong that nothing—no particles or even electromagnetic radiation such as light—can escape from it. The theory of general relativity predicts that a sufficiently compact mass can deform spacetime to form a black hole. The boundary of the region from which no escape is possible is called the event horizon. Although the event horizon has a huge effect on the fate and circumstances of an object crossing it, it has no locally detectable features. In many ways, a black hole acts as an ideal black body, as it reflects no light. Moreover, quantum field theory in curved spacetime predicts that event horizons emit Hawking radiation, with the same spectrum as a black body of a temperature inversely proportional to its mass.\n\nWhat is the main topic of the passage?",
+    "id": "043872af-f4d4-4e54-96d7-adce6b132d09",
     "options": [
       {
         "id": 3862278,
@@ -2307,11 +2275,11 @@
         "order": 3,
         "markscheme": "Incorrect. The event horizon is a key feature discussed, but the passage states it has 'no locally detectable features' and the overall topic is the black hole as a whole."
       }
-    ],
-    "id": "043872af-f4d4-4e54-96d7-adce6b132d09",
-    "question": "A black hole is a region of spacetime where gravity is so strong that nothing—no particles or even electromagnetic radiation such as light—can escape from it. The theory of general relativity predicts that a sufficiently compact mass can deform spacetime to form a black hole. The boundary of the region from which no escape is possible is called the event horizon. Although the event horizon has a huge effect on the fate and circumstances of an object crossing it, it has no locally detectable features. In many ways, a black hole acts as an ideal black body, as it reflects no light. Moreover, quantum field theory in curved spacetime predicts that event horizons emit Hawking radiation, with the same spectrum as a black body of a temperature inversely proportional to its mass.\n\nWhat is the main topic of the passage?"
+    ]
   },
   {
+    "question": "Which expression is equivalent to (4x² - 9y²)/(2x + 3y) × (6x - 9y)/(2x - 3y)?",
+    "id": "d0a96303-d242-4a5f-9c1d-bd7fb5913958",
     "options": [
       {
         "id": 3864614,
@@ -2341,11 +2309,11 @@
         "order": 3,
         "markscheme": "Incorrect. This doesn't match the algebraic simplification."
       }
-    ],
-    "id": "d0a96303-d242-4a5f-9c1d-bd7fb5913958",
-    "question": "Which expression is equivalent to (4x² - 9y²)/(2x + 3y) × (6x - 9y)/(2x - 3y)?"
+    ]
   },
   {
+    "question": "The graph of the function $f(x) = x^2 - 6x + 8$ is a parabola. What is the y-coordinate of the vertex?",
+    "id": "ef8f85c6-452a-482a-909a-1cb7c86d23e7",
     "options": [
       {
         "id": 3864694,
@@ -2375,11 +2343,11 @@
         "order": 3,
         "markscheme": "The vertex is not at the origin. This would be true for the parent function $y=x^2$."
       }
-    ],
-    "id": "ef8f85c6-452a-482a-909a-1cb7c86d23e7",
-    "question": "The graph of the function $f(x) = x^2 - 6x + 8$ is a parabola. What is the y-coordinate of the vertex?"
+    ]
   },
   {
+    "question": "For the function $f(x) = -1.2x^2 + 7.2x - 3$, what is the y-coordinate of the vertex of its graph in the xy-plane?",
+    "id": "eb9d4221-8a28-4415-81e6-bcafdf3d2bf3",
     "options": [
       {
         "id": 3864714,
@@ -2409,11 +2377,11 @@
         "order": 3,
         "markscheme": "This is an intermediate value in the calculation."
       }
-    ],
-    "id": "eb9d4221-8a28-4415-81e6-bcafdf3d2bf3",
-    "question": "For the function $f(x) = -1.2x^2 + 7.2x - 3$, what is the y-coordinate of the vertex of its graph in the xy-plane?"
+    ]
   },
   {
+    "question": "If $f(x) = x^2 - 4x + 7$, what is the minimum value of $f(x)$?",
+    "id": "017de77c-d551-4b52-ad59-308cf4bfacec",
     "options": [
       {
         "id": 3864722,
@@ -2443,11 +2411,11 @@
         "order": 3,
         "markscheme": "Incorrect. This is the x-coordinate of the vertex, not the minimum value."
       }
-    ],
-    "id": "017de77c-d551-4b52-ad59-308cf4bfacec",
-    "question": "If $f(x) = x^2 - 4x + 7$, what is the minimum value of $f(x)$?"
+    ]
   },
   {
+    "question": "A scientist collects data on the number of hours of sunlight and the height of a certain plant. The line of best fit for the data is given by $y = 1.5x + 10$, where $y$ is the height of the plant in centimeters and $x$ is the number of hours of sunlight per day. What is the predicted height of the plant if it receives 6 hours of sunlight per day?",
+    "id": "02af485f-ea7e-4bf7-899a-39d7d8e56f6a",
     "options": [
       {
         "id": 3866365,
@@ -2477,11 +2445,11 @@
         "order": 3,
         "markscheme": "This is the y-intercept, which represents the predicted height with 0 hours of sunlight."
       }
-    ],
-    "id": "02af485f-ea7e-4bf7-899a-39d7d8e56f6a",
-    "question": "A scientist collects data on the number of hours of sunlight and the height of a certain plant. The line of best fit for the data is given by $y = 1.5x + 10$, where $y$ is the height of the plant in centimeters and $x$ is the number of hours of sunlight per day. What is the predicted height of the plant if it receives 6 hours of sunlight per day?"
+    ]
   },
   {
+    "question": "The Green Revolution of the mid-20th century dramatically increased agricultural yields worldwide, primarily through the development of high-yield crop varieties, the use of synthetic fertilizers, and expanded irrigation. While it is credited with saving millions from starvation, some critics point to its significant environmental costs, including water pollution from fertilizer runoff and a loss of biodiversity due to the widespread planting of a small number of crop varieties.",
+    "id": "f78c1ccf-2819-4350-a941-886f67628066",
     "options": [
       {
         "id": 3862694,
@@ -2511,11 +2479,11 @@
         "order": 3,
         "markscheme": "Correct. This quotation directly supports the researcher's claim by explicitly stating that the Green Revolution had 'significant environmental costs' and providing specific examples of these downsides."
       }
-    ],
-    "id": "f78c1ccf-2819-4350-a941-886f67628066",
-    "question": "The Green Revolution of the mid-20th century dramatically increased agricultural yields worldwide, primarily through the development of high-yield crop varieties, the use of synthetic fertilizers, and expanded irrigation. While it is credited with saving millions from starvation, some critics point to its significant environmental costs, including water pollution from fertilizer runoff and a loss of biodiversity due to the widespread planting of a small number of crop varieties."
+    ]
   },
   {
+    "question": "An environmental scientist studies the relationship between air temperature (°C) and the rate of photosynthesis in a particular plant species. The data can be modeled by the quadratic equation R = -0.3T² + 12T - 85, where R is the rate of photosynthesis (μmol CO₂/m²/s) and T is temperature (°C). The scientist needs to determine the temperature range where the photosynthesis rate is at least 25 μmol CO₂/m²/s. What is the width of this temperature range?",
+    "id": "ec16e9ee-9f12-4bcd-9684-32c678e74192",
     "options": [
       {
         "id": 3864858,
@@ -2545,11 +2513,11 @@
         "order": 3,
         "markscheme": "Incorrect. This underestimates the range where photosynthesis meets the minimum rate requirement."
       }
-    ],
-    "id": "ec16e9ee-9f12-4bcd-9684-32c678e74192",
-    "question": "An environmental scientist studies the relationship between air temperature (°C) and the rate of photosynthesis in a particular plant species. The data can be modeled by the quadratic equation R = -0.3T² + 12T - 85, where R is the rate of photosynthesis (μmol CO₂/m²/s) and T is temperature (°C). The scientist needs to determine the temperature range where the photosynthesis rate is at least 25 μmol CO₂/m²/s. What is the width of this temperature range?"
+    ]
   },
   {
+    "question": "A research laboratory studies two bacterial cultures with exponential growth patterns. Culture A has an initial population of 200 bacteria and doubles every 3 hours. Culture B has an initial population of 50 bacteria and triples every 2 hours. After how many hours will the two cultures have equal populations?",
+    "id": "3c097458-d89c-42d7-a59a-21627090e692",
     "options": [
       {
         "id": 3864854,
@@ -2579,11 +2547,11 @@
         "order": 3,
         "markscheme": "Incorrect. This doesn't satisfy the condition for equal populations."
       }
-    ],
-    "id": "3c097458-d89c-42d7-a59a-21627090e692",
-    "question": "A research laboratory studies two bacterial cultures with exponential growth patterns. Culture A has an initial population of 200 bacteria and doubles every 3 hours. Culture B has an initial population of 50 bacteria and triples every 2 hours. After how many hours will the two cultures have equal populations?"
+    ]
   },
   {
+    "question": "An engineer designs a water storage tank where the volume V (in cubic meters) is related to the height h (in meters) by the equation $V = \\pi h^2(3R - h)$, where R = 6 meters is the radius of the spherical tank. If the tank must hold exactly $64\\pi$ cubic meters of water, which of the following could be the height of the water in meters?",
+    "id": "0627093b-869e-4f66-ac6d-e7209eccdc2b",
     "options": [
       {
         "id": 3864862,
@@ -2613,11 +2581,11 @@
         "order": 3,
         "markscheme": "Incorrect. If h=6, the volume would be $V = \\pi (6^2)(18 - 6) = 36\\pi(12) = 432\\pi$, which is not $64\\pi$."
       }
-    ],
-    "id": "0627093b-869e-4f66-ac6d-e7209eccdc2b",
-    "question": "An engineer designs a water storage tank where the volume V (in cubic meters) is related to the height h (in meters) by the equation $V = \\pi h^2(3R - h)$, where R = 6 meters is the radius of the spherical tank. If the tank must hold exactly $64\\pi$ cubic meters of water, which of the following could be the height of the water in meters?"
+    ]
   },
   {
+    "question": "A ball is thrown upward from the top of a 96-foot building. The height of the ball $t$ seconds after being thrown is given by $h(t) = -16t^2 + 64t + 96$. The ball will hit the ground when $h(t) = 0$. Additionally, a second ball is dropped from the same building at the same time, following the equation $h_2(t) = 96 - 16t^2$. At what time will the thrown ball and the dropped ball be at the same height, and what is that height?",
+    "id": "7542a58e-4bef-4cdb-8568-a148b8ad35be",
     "options": [
       {
         "id": 3864850,
@@ -2647,11 +2615,11 @@
         "order": 3,
         "markscheme": "Incorrect. While this is closer to the initial time, it doesn't represent when the balls are at equal height."
       }
-    ],
-    "id": "7542a58e-4bef-4cdb-8568-a148b8ad35be",
-    "question": "A ball is thrown upward from the top of a 96-foot building. The height of the ball $t$ seconds after being thrown is given by $h(t) = -16t^2 + 64t + 96$. The ball will hit the ground when $h(t) = 0$. Additionally, a second ball is dropped from the same building at the same time, following the equation $h_2(t) = 96 - 16t^2$. At what time will the thrown ball and the dropped ball be at the same height, and what is that height?"
+    ]
   },
   {
+    "question": "Simplify: (x² - 9)/(x² + 6x + 9) × (x + 3)/(x - 3)",
+    "id": "026d7a15-41f4-42bb-9374-6744b71f375a",
     "options": [
       {
         "id": 3864906,
@@ -2681,11 +2649,11 @@
         "order": 3,
         "markscheme": "Incorrect. This doesn't account for the multiplication."
       }
-    ],
-    "id": "026d7a15-41f4-42bb-9374-6744b71f375a",
-    "question": "Simplify: (x² - 9)/(x² + 6x + 9) × (x + 3)/(x - 3)"
+    ]
   },
   {
+    "question": "A physics student models projectile motion. The height h(t) = -16t² + 64t + 80 represents height in feet at time t seconds. At what two times is the projectile at a height of 96 feet?",
+    "id": "8f034cf5-30f7-4ecf-9ef5-e261172df9d2",
     "options": [
       {
         "id": 3864870,
@@ -2715,11 +2683,11 @@
         "order": 3,
         "markscheme": "Incorrect. These times don't produce the correct height."
       }
-    ],
-    "id": "8f034cf5-30f7-4ecf-9ef5-e261172df9d2",
-    "question": "A physics student models projectile motion. The height h(t) = -16t² + 64t + 80 represents height in feet at time t seconds. At what two times is the projectile at a height of 96 feet?"
+    ]
   },
   {
+    "question": "If p(x) = 2x³ - 5x² + 3x - 1 and q(x) = x² - 2x + 1, what is the remainder when p(x) is divided by q(x)?",
+    "id": "afb8b59d-ba6b-4dde-9817-2c3ae2e9d644",
     "options": [
       {
         "id": 3864902,
@@ -2749,11 +2717,11 @@
         "order": 3,
         "markscheme": "Incorrect. This doesn't match the polynomial division result."
       }
-    ],
-    "id": "afb8b59d-ba6b-4dde-9817-2c3ae2e9d644",
-    "question": "If p(x) = 2x³ - 5x² + 3x - 1 and q(x) = x² - 2x + 1, what is the remainder when p(x) is divided by q(x)?"
+    ]
   },
   {
+    "question": "A random sample of 500 voters in a city found that 280 plan to vote for Candidate A. The margin of error for this estimate is 4.5 percentage points. Which of the following is a plausible value for the total number of voters in the city who plan to vote for Candidate A, if the city has 20,000 voters?",
+    "id": "049bd9bb-6756-4495-951c-de12dd2ad87b",
     "options": [
       {
         "id": 3866620,
@@ -2783,11 +2751,11 @@
         "order": 3,
         "markscheme": "Incorrect. This value is outside the plausible range of 10,300 to 12,100."
       }
-    ],
-    "id": "049bd9bb-6756-4495-951c-de12dd2ad87b",
-    "question": "A random sample of 500 voters in a city found that 280 plan to vote for Candidate A. The margin of error for this estimate is 4.5 percentage points. Which of the following is a plausible value for the total number of voters in the city who plan to vote for Candidate A, if the city has 20,000 voters?"
+    ]
   },
   {
+    "question": "The solution to the system of linear equations shown in the graph is the point (x, y). What is the value of x+y?\n\n![](https://s.revisiondojo.com/storage/v1/object/public/question-images/algebra_{system}_{solution}_{001}.png?)",
+    "id": "02ab8fdc-4b6e-4301-853e-1137e385e709",
     "options": [
       {
         "id": 3874399,
@@ -2817,11 +2785,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "02ab8fdc-4b6e-4301-853e-1137e385e709",
-    "question": "The solution to the system of linear equations shown in the graph is the point (x, y). What is the value of x+y?\n\n![](https://s.revisiondojo.com/storage/v1/object/public/question-images/algebra_system_solution_001.png?)"
+    ]
   },
   {
+    "question": "An organic farm grows tomatoes and peppers. Tomatoes require 3 pounds of fertilizer and 5 hours of labor per acre. Peppers require 4 pounds of fertilizer and 3 hours of labor per acre. The farm has 360 pounds of fertilizer and 420 hours of labor available. If tomatoes yield $2,000 profit per acre and peppers yield $1,500 per acre, how many acres of tomatoes should be planted for maximum profit?",
+    "id": "a6a710d7-9c04-443c-9c02-5e11e590d3f2",
     "options": [
       {
         "id": 3865058,
@@ -2851,11 +2819,11 @@
         "order": 3,
         "markscheme": "Incorrect. This is suboptimal for profit maximization."
       }
-    ],
-    "id": "a6a710d7-9c04-443c-9c02-5e11e590d3f2",
-    "question": "An organic farm grows tomatoes and peppers. Tomatoes require 3 pounds of fertilizer and 5 hours of labor per acre. Peppers require 4 pounds of fertilizer and 3 hours of labor per acre. The farm has 360 pounds of fertilizer and 420 hours of labor available. If tomatoes yield $2,000 profit per acre and peppers yield $1,500 per acre, how many acres of tomatoes should be planted for maximum profit?"
+    ]
   },
   {
+    "question": "A biology researcher is studying the population growth of a bacterial colony. The population P (in thousands) after t hours follows the exponential model P(t) = 5e^(0.3t), where e is Euler's number (approximately 2.718). The researcher needs to determine when the population will reach 50 thousand bacteria, and also wants to find the population after 8 hours. Additionally, the researcher wants to know the rate of growth (in thousands per hour) at t = 6 hours. Find the time when population reaches 50 thousand and the population after 8 hours.",
+    "id": "c50cee1a-6e23-4a34-9258-f79d9fe903a3",
     "options": [
       {
         "id": 3865158,
@@ -2885,11 +2853,11 @@
         "order": 3,
         "markscheme": "Incorrect. Both the logarithmic solution and exponential evaluation contain calculation errors."
       }
-    ],
-    "id": "c50cee1a-6e23-4a34-9258-f79d9fe903a3",
-    "question": "A biology researcher is studying the population growth of a bacterial colony. The population P (in thousands) after t hours follows the exponential model P(t) = 5e^(0.3t), where e is Euler's number (approximately 2.718). The researcher needs to determine when the population will reach 50 thousand bacteria, and also wants to find the population after 8 hours. Additionally, the researcher wants to know the rate of growth (in thousands per hour) at t = 6 hours. Find the time when population reaches 50 thousand and the population after 8 hours."
+    ]
   },
   {
+    "question": "A ball is thrown upward with an initial velocity of 64 feet per second from a height of 6 feet. The height h(t) = -16t² + 64t + 6. When does the ball reach its maximum height?",
+    "id": "037590a5-3802-4d84-83b5-d230eb0af0fc",
     "options": [
       {
         "id": 3865190,
@@ -2919,11 +2887,11 @@
         "order": 3,
         "markscheme": "Incorrect. This significantly overestimates the vertex location."
       }
-    ],
-    "id": "037590a5-3802-4d84-83b5-d230eb0af0fc",
-    "question": "A ball is thrown upward with an initial velocity of 64 feet per second from a height of 6 feet. The height h(t) = -16t² + 64t + 6. When does the ball reach its maximum height?"
+    ]
   },
   {
+    "question": "The United States Federal Reserve, colloquially known as the Fed, serves as the nation's central bank and is tasked with a dual mandate: fostering maximum employment and maintaining stable prices to control inflation. To achieve these goals, it primarily manipulates the federal funds rate, the interest rate at which commercial banks lend to each other overnight. By conducting open market operations—buying or selling government securities—the Fed can increase or decrease the total amount of money in the banking system, thereby influencing the federal funds rate. A lower rate encourages borrowing and spending, stimulating the economy but risking inflation. A higher rate discourages borrowing and spending, which can curb inflation but risks slowing economic growth. The Fed must, therefore, perform a delicate balancing act, constantly analyzing economic data to navigate the trade-offs between its two primary objectives.\n\nWhat is the main idea of the passage?",
+    "id": "045c961c-a798-4749-8472-be17c9995e33",
     "options": [
       {
         "id": 3862790,
@@ -2953,11 +2921,11 @@
         "order": 3,
         "markscheme": "Incorrect. The passage explicitly defines the federal funds rate as the rate at which 'commercial banks lend to each other overnight,' not the rate for consumers."
       }
-    ],
-    "id": "045c961c-a798-4749-8472-be17c9995e33",
-    "question": "The United States Federal Reserve, colloquially known as the Fed, serves as the nation's central bank and is tasked with a dual mandate: fostering maximum employment and maintaining stable prices to control inflation. To achieve these goals, it primarily manipulates the federal funds rate, the interest rate at which commercial banks lend to each other overnight. By conducting open market operations—buying or selling government securities—the Fed can increase or decrease the total amount of money in the banking system, thereby influencing the federal funds rate. A lower rate encourages borrowing and spending, stimulating the economy but risking inflation. A higher rate discourages borrowing and spending, which can curb inflation but risks slowing economic growth. The Fed must, therefore, perform a delicate balancing act, constantly analyzing economic data to navigate the trade-offs between its two primary objectives.\n\nWhat is the main idea of the passage?"
+    ]
   },
   {
+    "question": "The graph shows two lines: \\(y = 2x + 1\\) and \\(y = -x + k\\), where \\(k\\) is a constant. If the x-coordinate of the intersection point of the two lines is 2, what is the value of \\(k\\)?\n\n![](\"https://s.revisiondojo.com/storage/v1/object/public/question-images/image_{232}.png?\")",
+    "id": "02f257f7-1b87-461c-82c5-9459c062cb19",
     "options": [
       {
         "id": 3865294,
@@ -2987,11 +2955,11 @@
         "order": 3,
         "markscheme": "Incorrect. If k=9, the intersection point would have a different x-coordinate."
       }
-    ],
-    "id": "02f257f7-1b87-461c-82c5-9459c062cb19",
-    "question": "The graph shows two lines: \\(y = 2x + 1\\) and \\(y = -x + k\\), where \\(k\\) is a constant. If the x-coordinate of the intersection point of the two lines is 2, what is the value of \\(k\\)?\n\n![](\"https://s.revisiondojo.com/storage/v1/object/public/question-images/image_232.png?\")"
+    ]
   },
   {
+    "question": "A electronics factory produces smartphones and tablets using two assembly lines. Line A can produce 40 smartphones or 25 tablets per hour. Line B can produce 30 smartphones or 35 tablets per hour. The factory needs to produce exactly 1,200 smartphones and 900 tablets to fulfill an order. If Line A operates for x hours and Line B operates for y hours, and the total operation time for both lines combined cannot exceed 50 hours, what is the minimum value of x + y needed to meet the production requirements?",
+    "id": "b46d956c-cd23-4675-bebe-a4d59a38dba0",
     "options": [
       {
         "id": 3865330,
@@ -3021,11 +2989,11 @@
         "order": 3,
         "markscheme": "Incorrect. This would not satisfy both production requirements simultaneously."
       }
-    ],
-    "id": "b46d956c-cd23-4675-bebe-a4d59a38dba0",
-    "question": "A electronics factory produces smartphones and tablets using two assembly lines. Line A can produce 40 smartphones or 25 tablets per hour. Line B can produce 30 smartphones or 35 tablets per hour. The factory needs to produce exactly 1,200 smartphones and 900 tablets to fulfill an order. If Line A operates for x hours and Line B operates for y hours, and the total operation time for both lines combined cannot exceed 50 hours, what is the minimum value of x + y needed to meet the production requirements?"
+    ]
   },
   {
+    "question": "An investment firm manages three types of portfolios: conservative, moderate, and aggressive. A client invests a total of $120,000 across these three portfolios. The amount in the moderate portfolio is $15,000 more than twice the amount in the conservative portfolio. The aggressive portfolio contains $5,000 less than the conservative and moderate portfolios combined. If the annual returns are 4% for conservative, 7% for moderate, and 12% for aggressive portfolios, and the client's total annual return is $8,400, how much money is invested in each portfolio?",
+    "id": "d11d0150-68ea-410c-b38f-0684f2ffd7bb",
     "options": [
       {
         "id": 3865326,
@@ -3055,11 +3023,11 @@
         "order": 3,
         "markscheme": "Incorrect. This allocation violates multiple constraints, particularly the relationship between moderate and conservative portfolios."
       }
-    ],
-    "id": "d11d0150-68ea-410c-b38f-0684f2ffd7bb",
-    "question": "An investment firm manages three types of portfolios: conservative, moderate, and aggressive. A client invests a total of $120,000 across these three portfolios. The amount in the moderate portfolio is $15,000 more than twice the amount in the conservative portfolio. The aggressive portfolio contains $5,000 less than the conservative and moderate portfolios combined. If the annual returns are 4% for conservative, 7% for moderate, and 12% for aggressive portfolios, and the client's total annual return is $8,400, how much money is invested in each portfolio?"
+    ]
   },
   {
+    "question": "While many people contributed to the project's success, the lead engineer's innovative design for the new engine was **instrumental** in overcoming the primary technical hurdle that had stumped the team for months.\n\nAs used in the text, what does the word \"instrumental\" most nearly mean?",
+    "id": "0223dd8e-8e24-49a5-b807-c42bee105c23",
     "options": [
       {
         "id": 3863014,
@@ -3089,11 +3057,11 @@
         "order": 3,
         "markscheme": "Incorrect. 'Instrumental' does not mean official or documented."
       }
-    ],
-    "id": "0223dd8e-8e24-49a5-b807-c42bee105c23",
-    "question": "While many people contributed to the project's success, the lead engineer's innovative design for the new engine was **instrumental** in overcoming the primary technical hurdle that had stumped the team for months.\n\nAs used in the text, what does the word \"instrumental\" most nearly mean?"
+    ]
   },
   {
+    "question": "A concrete ramp forms a right triangular prism. The ramp is 8 feet long, 3 feet wide, and rises 2 feet. How many cubic feet of concrete are needed?",
+    "id": "66d9cee4-1ed1-4798-872a-44c60a129e32",
     "options": [
       {
         "id": 3865622,
@@ -3123,11 +3091,11 @@
         "order": 3,
         "markscheme": "Incorrect. This underestimates the required volume."
       }
-    ],
-    "id": "66d9cee4-1ed1-4798-872a-44c60a129e32",
-    "question": "A concrete ramp forms a right triangular prism. The ramp is 8 feet long, 3 feet wide, and rises 2 feet. How many cubic feet of concrete are needed?"
+    ]
   },
   {
+    "question": "A surveyor stands at point A and measures angles to points B and C. If angle BAC = 65°, angle ABC = 75°, and side BC = 120 meters, what is the length of side AC?",
+    "id": "011d2eff-113a-4101-b364-7a1d13acd40f",
     "options": [
       {
         "id": 3865674,
@@ -3157,11 +3125,11 @@
         "order": 3,
         "markscheme": "Incorrect. This significantly underestimates the length."
       }
-    ],
-    "id": "011d2eff-113a-4101-b364-7a1d13acd40f",
-    "question": "A surveyor stands at point A and measures angles to points B and C. If angle BAC = 65°, angle ABC = 75°, and side BC = 120 meters, what is the length of side AC?"
+    ]
   },
   {
+    "question": "A cylindrical water tank has a radius of 6 feet and a height of 15 feet. Due to space limitations, the tank needs to be redesigned as a rectangular prism with the same volume. If the rectangular tank must have a square base with side length $s$ feet, and the height must be 1.5 times the side length, what should be the side length of the base? Round to the nearest tenth of a foot.",
+    "id": "bfb91b3a-04fd-45f9-88e3-7d5be3b099d8",
     "options": [
       {
         "id": 3865778,
@@ -3191,11 +3159,11 @@
         "order": 3,
         "markscheme": "Incorrect. This significantly underestimates the required dimensions for equivalent volume."
       }
-    ],
-    "id": "bfb91b3a-04fd-45f9-88e3-7d5be3b099d8",
-    "question": "A cylindrical water tank has a radius of 6 feet and a height of 15 feet. Due to space limitations, the tank needs to be redesigned as a rectangular prism with the same volume. If the rectangular tank must have a square base with side length $s$ feet, and the height must be 1.5 times the side length, what should be the side length of the base? Round to the nearest tenth of a foot."
+    ]
   },
   {
+    "question": "A scatterplot shows the relationship between the age of a tree in years (x-axis) and its trunk diameter in inches (y-axis). What does a single data point, (20, 12), represent?",
+    "id": "039817a3-89ab-4372-b68e-c4749f98ba40",
     "options": [
       {
         "id": 3865795,
@@ -3225,11 +3193,11 @@
         "order": 3,
         "markscheme": "Correct. Each data point $(x, y)$ on a scatterplot represents an individual observation from the sample. In this context, the point (20, 12) represents a single tree that was measured to be 20 years old and have a trunk diameter of 12 inches."
       }
-    ],
-    "id": "039817a3-89ab-4372-b68e-c4749f98ba40",
-    "question": "A scatterplot shows the relationship between the age of a tree in years (x-axis) and its trunk diameter in inches (y-axis). What does a single data point, (20, 12), represent?"
+    ]
   },
   {
+    "question": "A surveyor is measuring the height of a cell phone tower located on top of a hill. From a point at the base of the hill, the surveyor measures the angle of elevation to the top of the tower to be 32°. The surveyor then moves 150 feet closer to the base of the hill (along the same horizontal line) and measures the angle of elevation to be 45°. Using trigonometry and the fact that from the closer position, the surveyor can determine that the horizontal distance to the base of the tower is equal to the height being measured, find the height of the tower above the surveyor's eye level.",
+    "id": "3f917121-13b0-4a27-b244-9741d40b44ae",
     "options": [
       {
         "id": 3865904,
@@ -3259,11 +3227,11 @@
         "order": 3,
         "markscheme": "Incorrect. This doesn't properly account for the change in distance and angle measurements."
       }
-    ],
-    "id": "3f917121-13b0-4a27-b244-9741d40b44ae",
-    "question": "A surveyor is measuring the height of a cell phone tower located on top of a hill. From a point at the base of the hill, the surveyor measures the angle of elevation to the top of the tower to be 32°. The surveyor then moves 150 feet closer to the base of the hill (along the same horizontal line) and measures the angle of elevation to be 45°. Using trigonometry and the fact that from the closer position, the surveyor can determine that the horizontal distance to the base of the tower is equal to the height being measured, find the height of the tower above the surveyor's eye level."
+    ]
   },
   {
+    "question": "In triangle ABC, angle A = 45°, angle B = 60°, and side BC = 12 cm. Using the properties of triangles and the Law of Sines, find the length of side AC to the nearest tenth of a centimeter. Additionally, determine the area of the triangle using the formula Area = (1/2)ab sin C.",
+    "id": "a29e6121-2410-474d-8e86-a10237318cdb",
     "options": [
       {
         "id": 3865872,
@@ -3293,11 +3261,11 @@
         "order": 3,
         "markscheme": "Incorrect. This overestimates the values, possibly from misapplying the Law of Sines or area formula."
       }
-    ],
-    "id": "a29e6121-2410-474d-8e86-a10237318cdb",
-    "question": "In triangle ABC, angle A = 45°, angle B = 60°, and side BC = 12 cm. Using the properties of triangles and the Law of Sines, find the length of side AC to the nearest tenth of a centimeter. Additionally, determine the area of the triangle using the formula Area = (1/2)ab sin C."
+    ]
   },
   {
+    "question": "A surveyor needs to determine the height of a building from across a river. From point A, the angle of elevation to the top of the building is 35°. The surveyor moves 100 meters closer to the building to point B, where the angle of elevation becomes 52°. Both measurement points are at the same elevation as the base of the building. To the nearest meter, what is the height of the building?",
+    "id": "f1c1ead5-87a8-4318-a1a7-5f9014ed9b27",
     "options": [
       {
         "id": 3865912,
@@ -3327,11 +3295,11 @@
         "order": 3,
         "markscheme": "Incorrect. This doesn't correctly solve the system of trigonometric equations."
       }
-    ],
-    "id": "f1c1ead5-87a8-4318-a1a7-5f9014ed9b27",
-    "question": "A surveyor needs to determine the height of a building from across a river. From point A, the angle of elevation to the top of the building is 35°. The surveyor moves 100 meters closer to the building to point B, where the angle of elevation becomes 52°. Both measurement points are at the same elevation as the base of the building. To the nearest meter, what is the height of the building?"
+    ]
   },
   {
+    "question": "A polling agency surveyed a random sample of 500 registered voters about their support for a new environmental policy. The bar plot below shows the proportion of voters in the sample who support the policy in different age groups. Error bars represent the margin of error calculated using a 95% confidence level for each age group. Based on the plot, which of the following statements is most likely true about the population of registered voters?\n\n![](\"https://s.revisiondojo.com/storage/v1/object/public/question-images/image_{172}.png?\")",
+    "id": "039e94b3-a4ae-4dfc-b067-fdcf0030819a",
     "options": [
       {
         "id": 3865986,
@@ -3361,11 +3329,11 @@
         "order": 3,
         "markscheme": "Incorrect. Because this is a random sample, we can make inferences about the population using the sample statistics and margin of error."
       }
-    ],
-    "id": "039e94b3-a4ae-4dfc-b067-fdcf0030819a",
-    "question": "A polling agency surveyed a random sample of 500 registered voters about their support for a new environmental policy. The bar plot below shows the proportion of voters in the sample who support the policy in different age groups. Error bars represent the margin of error calculated using a 95% confidence level for each age group. Based on the plot, which of the following statements is most likely true about the population of registered voters?\n\n![](\"https://s.revisiondojo.com/storage/v1/object/public/question-images/image_172.png?\")"
+    ]
   },
   {
+    "question": "The angle of elevation from a point on the ground to the top of a building is $35^{\\circ}$. The point on the ground is 200 feet from the base of the building, as shown in the figure. Which of the following equations gives the height $h$ of the building?",
+    "id": "0241d757-f6fd-44ce-8cb1-ab8649f861a6",
     "options": [
       {
         "id": 3866962,
@@ -3395,11 +3363,11 @@
         "order": 3,
         "markscheme": "Correct. In the right triangle formed, the height $h$ is the side opposite the $35^{\\circ}$ angle, and the 200 feet is the side adjacent. The tangent function relates these: $\\tan(\\theta) = \\frac{\\text{opposite}}{\\text{adjacent}}$. So, $\\tan(35^{\\circ}) = \\frac{h}{200}$. Multiplying both sides by 200 gives $h = 200 \\tan(35^{\\circ})$."
       }
-    ],
-    "id": "0241d757-f6fd-44ce-8cb1-ab8649f861a6",
-    "question": "The angle of elevation from a point on the ground to the top of a building is $35^{\\circ}$. The point on the ground is 200 feet from the base of the building, as shown in the figure. Which of the following equations gives the height $h$ of the building?"
+    ]
   },
   {
+    "question": "A survey of 800 registered voters finds 56% support a ballot measure with a margin of error of ±3.5%. To reduce the margin of error to ±2%, approximately how many additional voters should be surveyed?",
+    "id": "05af1efa-1704-4720-a1d9-66c9e669dbfd",
     "options": [
       {
         "id": 3866090,
@@ -3429,11 +3397,11 @@
         "order": 3,
         "markscheme": "This would be closer to the mathematical answer."
       }
-    ],
-    "id": "05af1efa-1704-4720-a1d9-66c9e669dbfd",
-    "question": "A survey of 800 registered voters finds 56% support a ballot measure with a margin of error of ±3.5%. To reduce the margin of error to ±2%, approximately how many additional voters should be surveyed?"
+    ]
   },
   {
+    "question": "The company invested millions in a new marketing campaign, expecting a surge in sales. ______ sales figures for the following quarter remained largely stagnant, much to the management's disappointment. Which choice completes the text with the most logical transition?",
+    "id": "032bca91-4947-4054-83e5-b27923f6cdc9",
     "options": [
       {
         "id": 3863594,
@@ -3463,11 +3431,11 @@
         "order": 3,
         "markscheme": "Incorrect. 'Likewise' suggests a similarity, but the outcome contrasts with the expectation."
       }
-    ],
-    "id": "032bca91-4947-4054-83e5-b27923f6cdc9",
-    "question": "The company invested millions in a new marketing campaign, expecting a surge in sales. ______ sales figures for the following quarter remained largely stagnant, much to the management's disappointment. Which choice completes the text with the most logical transition?"
+    ]
   },
   {
+    "question": "In 2016, director Ava DuVernay released the film The 13th, a documentary that explores the connection between the Thirteenth Amendment to the US Constitution (which abolished slavery) and the disproportionate number of African Americans in US prisons. The film was a critical success. _____ it was nominated for several Emmy awards and won the NAACP Image Award for Outstanding Documentary.\nWhich choice completes the text with the most logical transition?",
+    "id": "821c48ba-4cec-4641-9346-a798659f2e31",
     "options": [
       {
         "id": 3875311,
@@ -3497,11 +3465,11 @@
         "order": 3,
         "markscheme": "\"As a result\" correctly signals a cause-and-effect relationship: the film’s critical success led to its award nominations and wins."
       }
-    ],
-    "id": "821c48ba-4cec-4641-9346-a798659f2e31",
-    "question": "In 2016, director Ava DuVernay released the film The 13th, a documentary that explores the connection between the Thirteenth Amendment to the US Constitution (which abolished slavery) and the disproportionate number of African Americans in US prisons. The film was a critical success. _____ it was nominated for several Emmy awards and won the NAACP Image Award for Outstanding Documentary.\nWhich choice completes the text with the most logical transition?"
+    ]
   },
   {
+    "question": "After a long and difficult hike—one that tested the endurance of even its most experienced members of the team, which had been navigating treacherous terrain since dawn, finally reached the summit and______{exhausted} but exhilarated______{enjoyed} the spectacular view.",
+    "id": "7f67c7cc-efa0-44bf-a9b5-b7f6be12bf3f",
     "options": [
       {
         "id": 3864038,
@@ -3531,11 +3499,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "7f67c7cc-efa0-44bf-a9b5-b7f6be12bf3f",
-    "question": "After a long and difficult hike—one that tested the endurance of even its most experienced members of the team, which had been navigating treacherous terrain since dawn, finally reached the summit and______exhausted but exhilarated______enjoyed the spectacular view."
+    ]
   },
   {
+    "question": "While the term \"novel\" is often used to describe a work of fiction, it has other, non-literary uses as well. _____ in scientific contexts, \"novel\" is used as an adjective to describe something new or unusual. A researcher might use the term to describe a new discovery, for example: \"We have identified a novel virus.\"\n\nWhich choice completes the text with the most logical transition?",
+    "id": "a268f939-cc56-4810-bf2e-96555dee3e79",
     "options": [
       {
         "id": 3875755,
@@ -3565,11 +3533,11 @@
         "order": 3,
         "markscheme": "\"For example\" correctly introduces the scientific use of \"novel\" as a specific instance of the broader point that the word has non-literary meanings."
       }
-    ],
-    "id": "a268f939-cc56-4810-bf2e-96555dee3e79",
-    "question": "While the term \"novel\" is often used to describe a work of fiction, it has other, non-literary uses as well. _____ in scientific contexts, \"novel\" is used as an adjective to describe something new or unusual. A researcher might use the term to describe a new discovery, for example: \"We have identified a novel virus.\"\n\nWhich choice completes the text with the most logical transition?"
+    ]
   },
   {
+    "question": "A chemist needs to create 500 mL of a 15% acid solution by mixing a 10% solution with a 25% solution. How many mL of the 25% solution are needed?",
+    "id": "00f208ca-563a-4138-a0d9-c3ee7440b303",
     "options": [
       {
         "id": 3867262,
@@ -3599,11 +3567,11 @@
         "order": 3,
         "markscheme": "Incorrect. This significantly underestimates the amount."
       }
-    ],
-    "id": "00f208ca-563a-4138-a0d9-c3ee7440b303",
-    "question": "A chemist needs to create 500 mL of a 15% acid solution by mixing a 10% solution with a 25% solution. How many mL of the 25% solution are needed?"
+    ]
   },
   {
+    "question": "The mean score on a test for a class of 20 students was 82. The standard deviation was 5. If a student's score was 92, what is their z-score?",
+    "id": "041b1288-d46f-4b15-92a8-d90f83b1d34c",
     "options": [
       {
         "id": 3867162,
@@ -3633,11 +3601,11 @@
         "order": 3,
         "markscheme": "This is the number of students in the class, which is not used to calculate the z-score."
       }
-    ],
-    "id": "041b1288-d46f-4b15-92a8-d90f83b1d34c",
-    "question": "The mean score on a test for a class of 20 students was 82. The standard deviation was 5. If a student's score was 92, what is their z-score?"
+    ]
   },
   {
+    "question": "A pharmaceutical company is scaling up production of a medication. In the pilot batch, they used 250 kg of active ingredient to produce 10,000 tablets, each containing 15 mg of active ingredient. For commercial production, they need to produce 2.5 million tablets with 18 mg of active ingredient each. Additionally, the production process has a 12% waste rate for the active ingredient. How many kilograms of active ingredient should they purchase for the commercial batch?",
+    "id": "0453a51f-f586-4ed3-af43-eabf4b5ecdd8",
     "options": [
       {
         "id": 3867474,
@@ -3667,11 +3635,11 @@
         "order": 3,
         "markscheme": "Incorrect. This overestimates the amount needed, possibly from calculation errors in applying the waste rate."
       }
-    ],
-    "id": "0453a51f-f586-4ed3-af43-eabf4b5ecdd8",
-    "question": "A pharmaceutical company is scaling up production of a medication. In the pilot batch, they used 250 kg of active ingredient to produce 10,000 tablets, each containing 15 mg of active ingredient. For commercial production, they need to produce 2.5 million tablets with 18 mg of active ingredient each. Additionally, the production process has a 12% waste rate for the active ingredient. How many kilograms of active ingredient should they purchase for the commercial batch?"
+    ]
   },
   {
+    "question": "Efforts to digitize historical archives have undeniably increased accessibility for researchers globally, breaking down geographical barriers to information—the very process of selective digitization—often dictated by limited funding, prevailing historical interests, or the physical condition of materials can inadvertently marginalize certain narratives or create a skewed representation of the past, thereby curating a subtly altered historical record.\n\nWhich choice completes the text with the most logical transition?",
+    "id": "7170b8a9-5be3-4c63-8629-4d437117c23b",
     "options": [
       {
         "id": 3864034,
@@ -3701,11 +3669,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "7170b8a9-5be3-4c63-8629-4d437117c23b",
-    "question": "Efforts to digitize historical archives have undeniably increased accessibility for researchers globally, breaking down geographical barriers to information—the very process of selective digitization—often dictated by limited funding, prevailing historical interests, or the physical condition of materials can inadvertently marginalize certain narratives or create a skewed representation of the past, thereby curating a subtly altered historical record.\n\nWhich choice completes the text with the most logical transition?"
+    ]
   },
   {
+    "question": "A scatterplot shows the number of hours a student spends watching television per week and their grade point average (GPA). The data show a strong, negative linear correlation. Which of the following is a valid conclusion?",
+    "id": "04188e6f-7302-4f66-8664-6db7ab865cec",
     "options": [
       {
         "id": 3867670,
@@ -3735,11 +3703,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "04188e6f-7302-4f66-8664-6db7ab865cec",
-    "question": "A scatterplot shows the number of hours a student spends watching television per week and their grade point average (GPA). The data show a strong, negative linear correlation. Which of the following is a valid conclusion?"
+    ]
   },
   {
+    "question": "A bacterial culture grows according to $N(t) = 1500(1.25)^t$, where t is hours. After how many hours will the population reach 6,000?",
+    "id": "0070a077-4271-4bae-9f5e-d823d8275748",
     "options": [
       {
         "id": 3876287,
@@ -3769,11 +3737,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "0070a077-4271-4bae-9f5e-d823d8275748",
-    "question": "A bacterial culture grows according to $N(t) = 1500(1.25)^t$, where t is hours. After how many hours will the population reach 6,000?"
+    ]
   },
   {
+    "question": "The novel's central theme ___ the corrosive effect of unchecked ambition ___ is explored through the intertwined fates of three main characters.\n\nWhich choice completes the text with the most logical and grammatically correct punctuation?",
+    "id": "5864dfca-3059-4e83-a372-43bd057630cd",
     "options": [
       {
         "id": 3864122,
@@ -3803,11 +3771,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "5864dfca-3059-4e83-a372-43bd057630cd",
-    "question": "The novel's central theme ___ the corrosive effect of unchecked ambition ___ is explored through the intertwined fates of three main characters.\n\nWhich choice completes the text with the most logical and grammatically correct punctuation?"
+    ]
   },
   {
+    "question": "The study's findings robustly demonstrated a correlation between prolonged exposure to algorithmically curated social media feeds and increased feelings of social isolation among adolescents. ______ this observed connection was not uniform across all types of engagement; it was, in fact, significantly more pronounced in individuals who primarily engaged in passive consumption of content—scrolling and viewing—rather than active interaction such as messaging or collaborative creation.\n\nWhich choice completes the text with the most logical transition?",
+    "id": "b5792cba-2ada-42a5-8c12-cef4bfe21267",
     "options": [
       {
         "id": 3864110,
@@ -3837,11 +3805,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "b5792cba-2ada-42a5-8c12-cef4bfe21267",
-    "question": "The study's findings robustly demonstrated a correlation between prolonged exposure to algorithmically curated social media feeds and increased feelings of social isolation among adolescents. ______ this observed connection was not uniform across all types of engagement; it was, in fact, significantly more pronounced in individuals who primarily engaged in passive consumption of content—scrolling and viewing—rather than active interaction such as messaging or collaborative creation.\n\nWhich choice completes the text with the most logical transition?"
+    ]
   },
   {
+    "question": "While researching a topic, a student has taken the following notes:\nIn 1977, director Charles Burnett released the film Killer of Sheep.\nKiller of Sheep is about the African American experience in Los Angeles.\nIn 1991, director Julie Dash released the film Daughters of the Dust.\nDaughters of the Dust is about the experiences of African Americans who lived on islands off the coasts of South Carolina and Georgia.\nThe student wants to introduce these two films. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n",
+    "id": "03a7c44c-9f68-493c-8c23-b744b69a6b6a",
     "options": [
       {
         "id": 3781297,
@@ -3871,11 +3839,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "03a7c44c-9f68-493c-8c23-b744b69a6b6a",
-    "question": "While researching a topic, a student has taken the following notes:\nIn 1977, director Charles Burnett released the film Killer of Sheep.\nKiller of Sheep is about the African American experience in Los Angeles.\nIn 1991, director Julie Dash released the film Daughters of the Dust.\nDaughters of the Dust is about the experiences of African Americans who lived on islands off the coasts of South Carolina and Georgia.\nThe student wants to introduce these two films. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n"
+    ]
   },
   {
+    "question": "To test which odors are most effective at helping people relax, a researcher set up a room in which people could adjust the amount of an odor they were exposed to. The researcher set up the room so that the odors were made by mixing a relaxing odor with a neutral one. The researcher then measured how much of the relaxing odors people chose. The researcher found that people chose the least amount of the odor containing <i>linalool</i> and the most of the odor containing <i>vanillin</i>.\nWhich choice best describes data about people's choices of the odor containing <i>camphene</i> and the odor containing <i>linalool</i> in the graphWhich choice most logically completes the text? ![](https://nauffydavgxfmvdmxosr.supabase.co/storage/v1/object/public/images/english/English_{img}_{32}.jpeg)",
+    "id": "03cdaf90-3a88-4158-a9cd-0f3e6dc3cfcd",
     "options": [
       {
         "id": 3781561,
@@ -3905,11 +3873,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "03cdaf90-3a88-4158-a9cd-0f3e6dc3cfcd",
-    "question": "To test which odors are most effective at helping people relax, a researcher set up a room in which people could adjust the amount of an odor they were exposed to. The researcher set up the room so that the odors were made by mixing a relaxing odor with a neutral one. The researcher then measured how much of the relaxing odors people chose. The researcher found that people chose the least amount of the odor containing <i>linalool</i> and the most of the odor containing <i>vanillin</i>.\nWhich choice best describes data about people's choices of the odor containing <i>camphene</i> and the odor containing <i>linalool</i> in the graphWhich choice most logically completes the text? ![](https://nauffydavgxfmvdmxosr.supabase.co/storage/v1/object/public/images/english/English_img_32.jpeg)"
+    ]
   },
   {
+    "question": "In their 2017 analysis of literature on social change, sociologists José Ornelas and Angelina Vargas noted that the term \"community\" is used in a variety of ways with no clear definition. For instance, some scholars use the term to refer to geographically defined neighborhoods, others to groups of people with shared identities, and still others to people participating in a project. But despite the lack of agreement over the term's meaning, Ornelas and Vargas contend that it is valuable for scholars to continue incorporating the concept of the community into their work because $\\qquad$\nWhich choice most logically completes the textWhich choice most logically completes the text?\n",
+    "id": "0194f717-6cea-496c-8ebe-7b05cd4730d8",
     "options": [
       {
         "id": 3781789,
@@ -3939,11 +3907,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "0194f717-6cea-496c-8ebe-7b05cd4730d8",
-    "question": "In their 2017 analysis of literature on social change, sociologists José Ornelas and Angelina Vargas noted that the term \"community\" is used in a variety of ways with no clear definition. For instance, some scholars use the term to refer to geographically defined neighborhoods, others to groups of people with shared identities, and still others to people participating in a project. But despite the lack of agreement over the term's meaning, Ornelas and Vargas contend that it is valuable for scholars to continue incorporating the concept of the community into their work because $\\qquad$\nWhich choice most logically completes the textWhich choice most logically completes the text?\n"
+    ]
   },
   {
+    "question": "While researching a topic, a student has taken the following notes:\nThe Great Wall of China is a series of fortifications built to protect ancient China.\nIt is approximately 13,000 miles long and was built over hundreds of years.\nThe wall was constructed using a variety of materials, including stone, brick, clay, and wood.\nStone and bricks were used in areas close to cities and towns.\nIn rural areas, the wall was built using whatever materials were available at the time.\nThe student wants to emphasize the variety of materials used in constructing the Great Wall. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n",
+    "id": "015a92ce-7310-43d7-a37f-141a5e49da1e",
     "options": [
       {
         "id": 3781960,
@@ -3973,11 +3941,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "015a92ce-7310-43d7-a37f-141a5e49da1e",
-    "question": "While researching a topic, a student has taken the following notes:\nThe Great Wall of China is a series of fortifications built to protect ancient China.\nIt is approximately 13,000 miles long and was built over hundreds of years.\nThe wall was constructed using a variety of materials, including stone, brick, clay, and wood.\nStone and bricks were used in areas close to cities and towns.\nIn rural areas, the wall was built using whatever materials were available at the time.\nThe student wants to emphasize the variety of materials used in constructing the Great Wall. Which choice most effectively uses relevant information from the notes to accomplish this goal?\n"
+    ]
   },
   {
+    "question": "The following text is adapted from Johann David Wyss's 1812 novel The Swiss Family Robinson. After the protagonists are shipwrecked on an island, they try to build a shelter. One day, the narrator is gathering supplies with his sons Fritz and Ernst.\n\"Father,\" Ernst said to me as we were climbing trees, \"I suppose you want provisions for the night.\"\n\"No, my son,\" I replied, \"my thoughts were occupied by another subject.\"\nWhich choice best states the main purpose of the text?",
+    "id": "011d3143-233f-4c40-a8ee-9076dc38bfbb",
     "options": [
       {
         "id": 3782248,
@@ -4007,11 +3975,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "011d3143-233f-4c40-a8ee-9076dc38bfbb",
-    "question": "The following text is adapted from Johann David Wyss's 1812 novel The Swiss Family Robinson. After the protagonists are shipwrecked on an island, they try to build a shelter. One day, the narrator is gathering supplies with his sons Fritz and Ernst.\n\"Father,\" Ernst said to me as we were climbing trees, \"I suppose you want provisions for the night.\"\n\"No, my son,\" I replied, \"my thoughts were occupied by another subject.\"\nWhich choice best states the main purpose of the text?"
+    ]
   },
   {
+    "question": "One possible explanation for Venus's lack of water is its close proximity to the Sun. The Sun's energy may have split water on Venus into hydrogen and oxygen atoms that escaped the planet's gravity and drifted into space. $\\qquad$ Venus may never have had much water to begin with.\nWhich choice completes the text with the most logical transition?\n",
+    "id": "01e25da5-d35f-462c-b663-0283f7b274e2",
     "options": [
       {
         "id": 3782382,
@@ -4041,11 +4009,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "01e25da5-d35f-462c-b663-0283f7b274e2",
-    "question": "One possible explanation for Venus's lack of water is its close proximity to the Sun. The Sun's energy may have split water on Venus into hydrogen and oxygen atoms that escaped the planet's gravity and drifted into space. $\\qquad$ Venus may never have had much water to begin with.\nWhich choice completes the text with the most logical transition?\n"
+    ]
   },
   {
+    "question": "The graph of \\( y = x^2 + ax + b \\) is shown. One solution to the equation \\( x^2 + ax + b = 0 \\) is \\( x = -2 \\). What is the value of \\( a \\)?\n\n![](https://s.revisiondojo.com/storage/v1/object/public/question-images/nonlinear_{040}.png?\")",
+    "id": "0431fa85-6fa6-4d19-8738-78b1ab2fa4a9",
     "options": [
       {
         "id": 3876355,
@@ -4075,11 +4043,11 @@
         "order": 3,
         "markscheme": "**Incorrect.** This option is wrong because using \\(a = 2\\) does not satisfy the equation when \\(x = -2\\) is substituted, nor is it consistent with the graphical x-intercepts. This mistake may arise from incorrectly extracting information from the graph or misapplying Vieta’s formula."
       }
-    ],
-    "id": "0431fa85-6fa6-4d19-8738-78b1ab2fa4a9",
-    "question": "The graph of \\( y = x^2 + ax + b \\) is shown. One solution to the equation \\( x^2 + ax + b = 0 \\) is \\( x = -2 \\). What is the value of \\( a \\)?\n\n![](https://s.revisiondojo.com/storage/v1/object/public/question-images/nonlinear_040.png?\")"
+    ]
   },
   {
+    "question": "Passage: The new city park is a wonderful addition to our community. It features a modern playground, beautiful walking trails, and picnic areas. While some residents were concerned about the cost, I believe it is a valuable investment that will enhance the quality of life for everyone.  Which of the following statements from the passage most clearly expresses an opinion rather than a fact?",
+    "id": "a3a6d648-9cd1-4abf-b266-2e1d84ba523b",
     "options": [
       {
         "id": 3861958,
@@ -4109,11 +4077,11 @@
         "order": 3,
         "markscheme": "Incorrect. While this is a prediction, the phrase 'I believe it is a valuable investment that will enhance...' shows the author framing it as their belief/opinion. However, option 2 is a more direct and clear expression of pure opinion ('wonderful'). Option 4 could be argued as a prediction based on an opinion."
       }
-    ],
-    "id": "a3a6d648-9cd1-4abf-b266-2e1d84ba523b",
-    "question": "Passage: The new city park is a wonderful addition to our community. It features a modern playground, beautiful walking trails, and picnic areas. While some residents were concerned about the cost, I believe it is a valuable investment that will enhance the quality of life for everyone. \n\nWhich of the following statements from the passage most clearly expresses an opinion rather than a fact?"
+    ]
   },
   {
+    "question": "The candidate's platform includes several popular proposals. ________, it is true that her plan to fund these initiatives remains vague and has drawn criticism from fiscal analysts.\n\nWhich choice completes the text with the most logical transition?",
+    "id": "004459ea-f071-488e-ab77-3432cc726356",
     "options": [
       {
         "id": 3863570,
@@ -4143,11 +4111,11 @@
         "order": 3,
         "markscheme": "'Admittedly' is used to concede a point that may weaken one's overall argument or add a layer of complexity. Here, the author is acknowledging a valid criticism of the candidate's platform after having mentioned its popular aspects. This is the most precise and sophisticated transition."
       }
-    ],
-    "id": "004459ea-f071-488e-ab77-3432cc726356",
-    "question": "The candidate's platform includes several popular proposals. ________, it is true that her plan to fund these initiatives remains vague and has drawn criticism from fiscal analysts.\n\nWhich choice completes the text with the most logical transition?"
+    ]
   },
   {
+    "question": "Which value of $x$ satisfies the equation $x^2 = 9x - 20$?",
+    "id": "4855b017-236a-4265-98ad-1c7b77142e1a",
     "options": [
       {
         "id": 3948528,
@@ -4177,11 +4145,11 @@
         "order": 3,
         "markscheme": "Incorrect. Substituting $x = 0$ gives $0 = 0 - 20 = -20$. Thus, $x = 0$ is not a solution."
       }
-    ],
-    "id": "4855b017-236a-4265-98ad-1c7b77142e1a",
-    "question": "Which value of $x$ satisfies the equation $x^2 = 9x - 20$?"
+    ]
   },
   {
+    "question": "Consider the following system of inequalities:\n\n\\[\n\\begin{aligned}\n4x - y &\\geq 6 \nx + 2y &< 10\n\\end{aligned}\n\\]\n\nWhich of the following points satisfy the system of inequalities above?\n\nI. $(2, 3)$\n\nII. $(1, 4)$\n\nIII. $(3, 1)$",
+    "id": "497910fe-ef29-46c8-b463-15248c6eb6d3",
     "options": [
       {
         "id": 3948564,
@@ -4211,11 +4179,11 @@
         "order": 3,
         "markscheme": "Option III is correct, so this is incorrect."
       }
-    ],
-    "id": "497910fe-ef29-46c8-b463-15248c6eb6d3",
-    "question": "Consider the following system of inequalities:\n\n\\[\n\\begin{aligned}\n4x - y &\\geq 6 \\\\\nx + 2y &< 10\n\\end{aligned}\n\\]\n\nWhich of the following points satisfy the system of inequalities above?\n\nI. $(2, 3)$\n\nII. $(1, 4)$\n\nIII. $(3, 1)$"
+    ]
   },
   {
+    "question": "The group of talented young  ______ will perform at the city’s annual arts festival next month. Which choice uses the correct punctuation to follow the conventions of Standard English?",
+    "id": "45dc4819-ee88-4648-b859-1a0ad0124ca6",
     "options": [
       {
         "id": 3948576,
@@ -4245,11 +4213,11 @@
         "order": 3,
         "markscheme": "This is incorrect. A semicolon is not used to connect a subject and its verb, so its use here is incorrect."
       }
-    ],
-    "id": "45dc4819-ee88-4648-b859-1a0ad0124ca6",
-    "question": "The group of talented young  ______ will perform at the city’s annual arts festival next month. Which choice uses the correct punctuation to follow the conventions of Standard English?"
+    ]
   },
   {
+    "question": "A ball is thrown upward and its height in meters after $t$ seconds is given by $h = -4.9t^2 + 9.8t + 2$. After how many seconds does the ball hit the ground?",
+    "id": "1f61aff3-66ca-4bca-bc9c-9684610601b1",
     "options": [
       {
         "id": 3948584,
@@ -4279,11 +4247,11 @@
         "order": 3,
         "markscheme": "Incorrect. $t=1$ does not satisfy the equation for $h=0$."
       }
-    ],
-    "id": "1f61aff3-66ca-4bca-bc9c-9684610601b1",
-    "question": "A ball is thrown upward and its height in meters after $t$ seconds is given by $h = -4.9t^2 + 9.8t + 2$. After how many seconds does the ball hit the ground?"
+    ]
   },
   {
+    "question": "Solve for $x$ in the equation $2x^2 - 5x + 3 = 0$. Which of the following is a solution?",
+    "id": "abbdab29-abf7-49c2-b36c-feee4c655c4a",
     "options": [
       {
         "id": 3948592,
@@ -4313,11 +4281,11 @@
         "order": 3,
         "markscheme": "Substitute $x = -1$: $2(-1)^2 - 5(-1) + 3 = 2 + 5 + 3 = 10$. Not a solution."
       }
-    ],
-    "id": "abbdab29-abf7-49c2-b36c-feee4c655c4a",
-    "question": "Solve for $x$ in the equation $2x^2 - 5x + 3 = 0$. Which of the following is a solution?"
+    ]
   },
   {
+    "question": "3,3,5,7,8,9,10,12,13\n\nWhat is the median of the data set?",
+    "id": "e780e15b-bfc7-467d-9c7f-2e24a9f4765b",
     "options": [
       {
         "id": 3948708,
@@ -4347,45 +4315,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "e780e15b-bfc7-467d-9c7f-2e24a9f4765b",
-    "question": "3,3,5,7,8,9,10,12,13\n\nWhat is the median of the data set?"
+    ]
   },
   {
-    "options": [
-      {
-        "id": 3949096,
-        "content": "$V = 3,000(\\sqrt{3})^t$",
-        "correct": true,
-        "order": 0,
-        "markscheme": ""
-      },
-      {
-        "id": 3949097,
-        "content": "$V = 9,000(3)^{t/2}$",
-        "correct": false,
-        "order": 1,
-        "markscheme": ""
-      },
-      {
-        "id": 3949098,
-        "content": "$V = 27,000(\\sqrt{3})^t$",
-        "correct": false,
-        "order": 2,
-        "markscheme": ""
-      },
-      {
-        "id": 3949099,
-        "content": "$V = 3,000(3)^t$",
-        "correct": false,
-        "order": 3,
-        "markscheme": ""
-      }
-    ],
-    "id": "33967b3f-3e80-466f-85d1-2c31f534f40f",
-    "question": "A certain investment triples in value every 2 years. If the value of the investment at the end of 4 years is $27,000, which equation best models the value V (in dollars) of the investment t years after the start, where V(0) is the initial value and t is the number of years since the investment started?"
-  },
-  {
+    "question": "Although the experiment was successful and the results were ______, the researchers cautioned that further studies would be necessary to confirm their findings. Which choice uses the correct punctuation to follow the conventions of Standard English?",
+    "id": "49bd3c4e-bc68-4d00-9aa6-be37a5684565",
     "options": [
       {
         "id": 3950588,
@@ -4415,11 +4349,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "49bd3c4e-bc68-4d00-9aa6-be37a5684565",
-    "question": "Although the experiment was successful and the results were ______, the researchers cautioned that further studies would be necessary to confirm their findings. Which choice uses the correct punctuation to follow the conventions of Standard English?"
+    ]
   },
   {
+    "question": "Solve the equation $x^2 - 5x + 6 = 0$. Which of the following is a solution to the equation?",
+    "id": "fa92db1e-31e5-402e-a187-470bd9d6da0c",
     "options": [
       {
         "id": 3951696,
@@ -4449,11 +4383,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "fa92db1e-31e5-402e-a187-470bd9d6da0c",
-    "question": "Solve the equation $x^2 - 5x + 6 = 0$. Which of the following is a solution to the equation?"
+    ]
   },
   {
+    "question": "If $x^2 + 4x = 5$, which of the following is a solution for $x$?",
+    "id": "828ebeb0-9fdb-4a99-a742-661b4071123b",
     "options": [
       {
         "id": 3952156,
@@ -4483,11 +4417,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "828ebeb0-9fdb-4a99-a742-661b4071123b",
-    "question": "If $x^2 + 4x = 5$, which of the following is a solution for $x$?"
+    ]
   },
   {
+    "question": "Solve the following equation for $x$: $x^2 - 5x + 6 = 0$. Select the correct solution from the options below.",
+    "id": "5df98d92-12b0-4203-b336-d9720b6ddc44",
     "options": [
       {
         "id": 3952056,
@@ -4517,11 +4451,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "5df98d92-12b0-4203-b336-d9720b6ddc44",
-    "question": "Solve the following equation for $x$: $x^2 - 5x + 6 = 0$. Select the correct solution from the options below."
+    ]
   },
   {
+    "question": "Which value of $x$ satisfies the equation $x^2 - 4x = 5$?",
+    "id": "9f723982-8f7a-4fde-ac6c-87b0c87cf3eb",
     "options": [
       {
         "id": 3952020,
@@ -4551,11 +4485,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "9f723982-8f7a-4fde-ac6c-87b0c87cf3eb",
-    "question": "Which value of $x$ satisfies the equation $x^2 - 4x = 5$?"
+    ]
   },
   {
+    "question": "A retail store emailed a product satisfaction survey to 5,000 customers and received 1,000 responses. Of those who responded, 90% reported being satisfied with their purchase. What is the best interpretation of these survey results?",
+    "id": "d409d6fc-449c-4bf6-9824-0d7b42eee20d",
     "options": [
       {
         "id": 3951836,
@@ -4585,11 +4519,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "d409d6fc-449c-4bf6-9824-0d7b42eee20d",
-    "question": "A retail store emailed a product satisfaction survey to 5,000 customers and received 1,000 responses. Of those who responded, 90% reported being satisfied with their purchase. What is the best interpretation of these survey results?"
+    ]
   },
   {
+    "question": "$\\triangle GHI$ is similar to $\\triangle JKL$. $\\overline{GH}=5\\overline{JK}$, $\\overline{HI}=5\\overline{KL}$, and $\\overline{GI}=5\\overline{JL}$. If $\\angle H=40^\\circ$ and $\\angle I=90^\\circ$, what is the measure of $\\angle K$?",
+    "id": "73e338a4-7efb-4ba3-94e2-a98ce90a0013",
     "options": [
       {
         "id": 3951120,
@@ -4619,11 +4553,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "73e338a4-7efb-4ba3-94e2-a98ce90a0013",
-    "question": "$\\triangle GHI$ is similar to $\\triangle JKL$. $\\overline{GH}=5\\overline{JK}$, $\\overline{HI}=5\\overline{KL}$, and $\\overline{GI}=5\\overline{JL}$. If $\\angle H=40^\\circ$ and $\\angle I=90^\\circ$, what is the measure of $\\angle K$?"
+    ]
   },
   {
+    "question": "If $90 = 35 + 5(z - 11)$, what is the value of $5(z - 11)$?",
+    "id": "e38b71a6-6750-46a9-84d7-11045b828421",
     "options": [
       {
         "id": 3952580,
@@ -4653,11 +4587,11 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "e38b71a6-6750-46a9-84d7-11045b828421",
-    "question": "If $90 = 35 + 5(z - 11)$, what is the value of $5(z - 11)$?"
+    ]
   },
   {
+    "question": "In a school, there are two types of rectangular tiles: Tile A and Tile B. The sum of the perimeters of Tile A and Tile B is 96 centimeters. The equation below represents this situation, where $a$ is the number of sides of Tile A and $b$ is the number of sides of Tile B. Which statement best describes the meaning of 8 in this context?\n\n`6a + 8b = 96`",
+    "id": "97a1e83b-6c1b-4697-be02-4ec7a88f7df6",
     "options": [
       {
         "id": 3952076,
@@ -4687,42 +4621,6 @@
         "order": 3,
         "markscheme": ""
       }
-    ],
-    "id": "97a1e83b-6c1b-4697-be02-4ec7a88f7df6",
-    "question": "In a school, there are two types of rectangular tiles: Tile A and Tile B. The sum of the perimeters of Tile A and Tile B is 96 centimeters. The equation below represents this situation, where $a$ is the number of sides of Tile A and $b$ is the number of sides of Tile B. Which statement best describes the meaning of 8 in this context?\n\n`6a + 8b = 96`"
-  },
-  {
-    "options": [
-      {
-        "id": 3876359,
-        "content": "$3,500",
-        "correct": true,
-        "order": 0,
-        "markscheme": ""
-      },
-      {
-        "id": 3876360,
-        "content": "$3,575",
-        "correct": false,
-        "order": 1,
-        "markscheme": ""
-      },
-      {
-        "id": 3876361,
-        "content": "$3,250",
-        "correct": false,
-        "order": 2,
-        "markscheme": ""
-      },
-      {
-        "id": 3876362,
-        "content": "$3,000",
-        "correct": false,
-        "order": 3,
-        "markscheme": ""
-      }
-    ],
-    "id": "04c60aab-d16d-43e2-997d-c00ee3162d92",
-    "question": "A solar panel installation company charges a fixed setup fee of \\$1,000 plus a rate per square foot of panel area. The total cost C (in dollars) for installing x square feet of panels is modeled on a standard rate of \\$50 per square foot. A customer's total bill was \\$3,250 because they received a 10% discount on the per-square-foot rate only. What would the customer's bill have been without the discount?"
+    ]
   }
 ]

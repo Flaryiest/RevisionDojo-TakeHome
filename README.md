@@ -127,3 +127,5 @@ This approach prioritizes question quality over quantity. It ensures the remaini
 - ex: 97a1e83b-6c1b-4697-be02-4ec7a88f7df6
 
 - Questions being wrongly flagged as ambiguous (particularly grammatical questions)
+
+- (Minor) Questions with HTML/base 64 content that might not render properly
