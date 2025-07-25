@@ -10,10 +10,12 @@ The validator detects and handles the following issues:
 - **Answer Issues**: No correct answer or multiple correct answers
 - **Duplicate Option Orders**: Multiple options with the same order value
 - **Duplicate Option Content**: Options with identical content
+- **Malformed LaTeX**: Unmatched LaTeX delimiters or syntax errors
 - **Invalid Data Types**: Non-string specifications, invalid option structures
 
 ### Minor Issues (Questions Retained but Flagged)
 - **Non-Sequential Ordering**: Options with gaps in order sequence (automatically fixed)
+- **Minor LaTeX Warnings**: Detected but not problematic LaTeX usage
 
 ## Installation
 
@@ -26,6 +28,12 @@ The validator detects and handles the following issues:
 ### Basic Usage
 ```bash
 node src/check.js
+```
+  
+or  
+  
+```bash
+npm run start
 ```
 
 ### Custom File Paths
@@ -94,23 +102,11 @@ Questions are removed if they have any critical issues that make them unanswerab
 4. **Format Issues**: Severe LaTeX errors, invalid JSON
 
 ### Justification
-This approach prioritizes question quality over quantity. A 30% removal rate is acceptable if it ensures the remaining questions are:
+This approach prioritizes question quality over quantity. It ensures the remaining questions are:
 - Objectively answerable
 - Properly formatted
 - Structurally sound
 - Free from ambiguity
-
-## Example Results
-
-From the provided dataset of 197 questions:
-- **Valid questions**: 139 (70.6%)
-- **Removed questions**: 58 (29.4%)
-
-### Common Issues Found
-1. **Duplicate option orders** (most common): All options had order=0
-2. **Empty specifications**: Questions with blank question text
-3. **Null options**: Questions missing answer choices entirely
-4. **LaTeX syntax errors**: Unmatched delimiters in mathematical expressions
 
 ## Technical Details
 
@@ -119,18 +115,15 @@ From the provided dataset of 197 questions:
 - **Dependencies**: None (uses built-in `fs` module)
 - **Output**: JSON format with proper indentation
 
-## Error Handling
+## Current Issues
 
-The tool includes robust error handling for:
-- File read/write operations
-- JSON parsing errors
-- Invalid data structures
-- Command line argument parsing
+- Questions referencing an image or graph without it existing
+- ex: 047cac71-264b-435c-83b7-224a166de720
+  
+- Questions referencing data that doesn't exist
+- ex: 005c762e-c7d6-4189-9747-086531cf5258
+  
+- Questions with a confusing or incorrect wording
+- ex: 97a1e83b-6c1b-4697-be02-4ec7a88f7df6
 
-## Extensibility
-
-The validation logic is modular and can be easily extended:
-- Add new validation rules in `validateQuestion.js`
-- Modify removal thresholds
-- Add custom LaTeX pattern detection
-- Implement additional cleaning operations
+- Questions being wrongly flagged as ambiguous (particularly grammatical questions)

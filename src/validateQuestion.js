@@ -65,6 +65,16 @@ function validateSpecification(specification) {
         return { issues, shouldRemove, cleaned };
     }
     
+    // Malformed LaTeX
+    const latexIssues = validateLatex(specification);
+    if (latexIssues.shouldRemove) {
+        issues.push(...latexIssues.issues);
+        shouldRemove = true;
+        return { issues, shouldRemove, cleaned };
+    } else if (latexIssues.issues.length > 0) {
+        issues.push(...latexIssues.issues);
+        cleaned = latexIssues.cleaned || specification;
+    }
     
     // Overly short or nonsensical text
     if (specification.trim().length < 10) {
@@ -81,6 +91,57 @@ function validateSpecification(specification) {
     if (!hasQuestionWords && !hasQuestionMark && !hasTaskInstruction) {
         issues.push("Specification appears to lack clear question structure");
         // Don't remove - many valid questions might not have explicit question words
+    }
+    
+    return { issues, shouldRemove, cleaned };
+}
+
+function validateLatex(text) {
+    const issues = [];
+    let shouldRemove = false;
+    let cleaned = text;
+    
+    // Unmatched $$ delimiters
+    const dollarMatches = text.match(/\$\$/g);
+    if (dollarMatches && dollarMatches.length % 2 !== 0) {
+        issues.push("Unmatched LaTeX delimiters ($$)");
+        shouldRemove = true;
+        return { issues, shouldRemove, cleaned };
+    }
+    
+    // Unmatched \( \) delimiters
+    const openParens = (text.match(/\\\(/g) || []).length;
+    const closeParens = (text.match(/\\\)/g) || []).length;
+    if (openParens !== closeParens) {
+        issues.push("Unmatched LaTeX delimiters (\\( \\))");
+        shouldRemove = true;
+        return { issues, shouldRemove, cleaned };
+    }
+    
+    // Unmatched {} braces within LaTeX contexts
+    const dollarSections = text.split(/\$\$/);
+    for (let i = 1; i < dollarSections.length; i += 2) { // Only check LaTeX sections
+        const section = dollarSections[i];
+        const openBraces = (section.match(/\{/g) || []).length;
+        const closeBraces = (section.match(/\}/g) || []).length;
+        if (openBraces !== closeBraces) {
+            issues.push("Unmatched braces in LaTeX");
+            shouldRemove = true;
+            return { issues, shouldRemove, cleaned };
+        }
+    }
+    
+    // Only flag truly problematic LaTeX patterns, not simple backslashes for line breaks
+    const problematicPatterns = [
+        /\$[^$]*\$[^$]*\$[^$]*\$/,  // Mixed $ and $$ usage (3+ $ in sequence)
+        /\\[a-zA-Z]+\s*\{[^}]*$/,   // Unclosed braces after LaTeX commands
+    ];
+    
+    for (const pattern of problematicPatterns) {
+        if (pattern.test(text)) {
+            issues.push("Potentially malformed LaTeX syntax detected");
+            break;
+        }
     }
     
     return { issues, shouldRemove, cleaned };

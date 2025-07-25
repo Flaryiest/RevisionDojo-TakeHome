@@ -5,7 +5,9 @@
   "02b61fd6-7e4f-4537-a00e-ecc2e06fa899": [
     "Non-sequential option ordering"
   ],
-  "1c3a9333-2a97-4ede-93a9-44ff2709df48": [],
+  "1c3a9333-2a97-4ede-93a9-44ff2709df48": [
+    "Potentially malformed LaTeX syntax detected"
+  ],
   "dc5a87e1-2272-41cf-8ec3-3d0fc8a11cd5": [],
   "d4a31989-43a6-461f-8501-ba5e5eb45901": [],
   "cac4913a-4372-4ab0-b161-07d142691711": [],
@@ -29,6 +31,7 @@
     "Non-sequential option ordering"
   ],
   "7971cd91-c9d5-47b6-be42-676f853fcdaf": [
+    "Potentially malformed LaTeX syntax detected",
     "Non-sequential option ordering"
   ],
   "71d6ddfd-116e-40bd-9e87-5264e85bef2e": [
@@ -38,6 +41,7 @@
     "Non-sequential option ordering"
   ],
   "d435d5c7-3c4e-40df-a9f5-d5bc4edbff0b": [
+    "Potentially malformed LaTeX syntax detected",
     "Non-sequential option ordering"
   ],
   "caccfbfd-b351-4cde-a4ef-02696e3767aa": [
@@ -47,9 +51,11 @@
     "Non-sequential option ordering"
   ],
   "ecc46ca1-4004-4102-81a0-85ba3baf0771": [
+    "Potentially malformed LaTeX syntax detected",
     "Non-sequential option ordering"
   ],
   "655e29b4-ad2a-4a4f-b158-47083fe3e40c": [
+    "Potentially malformed LaTeX syntax detected",
     "Non-sequential option ordering"
   ],
   "03c19676-f872-4efb-b011-6b70c3ed8f2a": [
@@ -65,9 +71,11 @@
     "Non-sequential option ordering"
   ],
   "dc247c77-8112-4f28-887d-29132ac3dd05": [
+    "Potentially malformed LaTeX syntax detected",
     "Non-sequential option ordering"
   ],
   "94a7ec7d-a351-4988-87e4-a169ff4c4d59": [
+    "Potentially malformed LaTeX syntax detected",
     "Non-sequential option ordering"
   ],
   "91e04793-ac8c-4ad2-9686-7caa23c0c663": [
@@ -93,7 +101,9 @@
     "Non-sequential option ordering"
   ],
   "b1ec23b8-73ab-4153-9b41-3782508e1a66": [],
-  "80bc0815-f635-4091-8da4-4cc37c82010b": [],
+  "80bc0815-f635-4091-8da4-4cc37c82010b": [
+    "Potentially malformed LaTeX syntax detected"
+  ],
   "6dca3baf-252a-4696-9d88-c2eccf8c7187": [],
   "04b8b939-4ca5-4067-b356-74bae0fa4bf4": [
     "Non-sequential option ordering"
@@ -111,7 +121,9 @@
   "d749c419-bf7e-4c99-aab7-6eb966b646c7": [
     "Non-sequential option ordering"
   ],
-  "f3a546f2-4e15-4dde-889f-59dffef5e8f5": [],
+  "f3a546f2-4e15-4dde-889f-59dffef5e8f5": [
+    "Potentially malformed LaTeX syntax detected"
+  ],
   "058e734f-7a6c-414c-a2c9-4015ff72c574": [
     "Non-sequential option ordering"
   ],
@@ -132,9 +144,11 @@
     "Non-sequential option ordering"
   ],
   "2d74b349-936c-4b87-8d3b-f66dc8ccaf2c": [
+    "Potentially malformed LaTeX syntax detected",
     "Non-sequential option ordering"
   ],
   "8527bf26-b9ef-44d7-82bb-a99b7238af62": [
+    "Potentially malformed LaTeX syntax detected",
     "Non-sequential option ordering"
   ],
   "1c476f7c-918d-4f05-99fb-b5fe54aed7b3": [
@@ -151,12 +165,15 @@
     "Non-sequential option ordering"
   ],
   "00855d4e-5929-472c-be2a-bf90a9e2c9e1": [
+    "Potentially malformed LaTeX syntax detected",
     "Non-sequential option ordering"
   ],
   "1cd09e77-e6a7-461f-bb94-d0d0b5abd679": [
+    "Potentially malformed LaTeX syntax detected",
     "Non-sequential option ordering"
   ],
   "4f949214-38b6-4ef4-a033-eff66d6272cd": [
+    "Potentially malformed LaTeX syntax detected",
     "Non-sequential option ordering"
   ],
   "7b62136f-70f9-44e4-9211-3379f3036ffc": [
@@ -166,6 +183,7 @@
     "Non-sequential option ordering"
   ],
   "e2bbf1d8-fb29-4903-ba41-b37e55db995f": [
+    "Potentially malformed LaTeX syntax detected",
     "Non-sequential option ordering"
   ],
   "3f66e949-c96a-47bf-8078-9ef1c5a0f241": [
@@ -184,9 +202,11 @@
     "Non-sequential option ordering"
   ],
   "017de77c-d551-4b52-ad59-308cf4bfacec": [
+    "Potentially malformed LaTeX syntax detected",
     "Non-sequential option ordering"
   ],
   "02af485f-ea7e-4bf7-899a-39d7d8e56f6a": [
+    "Potentially malformed LaTeX syntax detected",
     "Non-sequential option ordering"
   ],
   "f78c1ccf-2819-4350-a941-886f67628066": [
@@ -199,9 +219,11 @@
     "Non-sequential option ordering"
   ],
   "0627093b-869e-4f66-ac6d-e7209eccdc2b": [
+    "Potentially malformed LaTeX syntax detected",
     "Non-sequential option ordering"
   ],
   "7542a58e-4bef-4cdb-8568-a148b8ad35be": [
+    "Potentially malformed LaTeX syntax detected",
     "Non-sequential option ordering"
   ],
   "026d7a15-41f4-42bb-9374-6744b71f375a": [
@@ -237,6 +259,7 @@
     "Non-sequential option ordering"
   ],
   "d11d0150-68ea-410c-b38f-0684f2ffd7bb": [
+    "Potentially malformed LaTeX syntax detected",
     "Non-sequential option ordering"
   ],
   "0223dd8e-8e24-49a5-b807-c42bee105c23": [
@@ -267,6 +290,7 @@
     "Non-sequential option ordering"
   ],
   "0241d757-f6fd-44ce-8cb1-ab8649f861a6": [
+    "Potentially malformed LaTeX syntax detected",
     "Non-sequential option ordering"
   ],
   "05af1efa-1704-4720-a1d9-66c9e669dbfd": [
@@ -302,27 +326,34 @@
   ],
   "7f67c7cc-efa0-44bf-a9b5-b7f6be12bf3f": [],
   "0034c453-7339-468c-adf0-79a7bbcab237": [
+    "Potentially malformed LaTeX syntax detected",
     "Duplicate option order: 0"
   ],
   "01064677-574c-4141-b5f1-ca81785654b9": [
+    "Potentially malformed LaTeX syntax detected",
     "Duplicate option order: 0"
   ],
   "034dcc2a-68a2-4e22-bb5c-9ce14c35e1d7": [
     "Duplicate option order: 0"
   ],
   "03c7fc29-bb4c-4363-9d4a-360f6745ffc7": [
+    "Potentially malformed LaTeX syntax detected",
     "Duplicate option order: 0"
   ],
   "0064039e-361d-409f-9c4e-37119550b1a4": [
+    "Potentially malformed LaTeX syntax detected",
     "Duplicate option order: 0"
   ],
   "024ab595-6b4e-4c54-a222-8839629d57eb": [
+    "Potentially malformed LaTeX syntax detected",
     "Duplicate option order: 0"
   ],
   "0457c0b3-ab3c-4072-8c52-20ad0e9d116a": [
+    "Potentially malformed LaTeX syntax detected",
     "Duplicate option order: 0"
   ],
   "04a8236e-cdec-4d64-b5db-24d2c4e29434": [
+    "Potentially malformed LaTeX syntax detected",
     "Duplicate option order: 0"
   ],
   "a268f939-cc56-4810-bf2e-96555dee3e79": [
@@ -352,15 +383,18 @@
   "5864dfca-3059-4e83-a372-43bd057630cd": [],
   "b5792cba-2ada-42a5-8c12-cef4bfe21267": [],
   "01701bfc-c99e-4ccd-9623-78d6048cdbd6": [
+    "Potentially malformed LaTeX syntax detected",
     "Duplicate option order: 0"
   ],
   "01817bf3-80c0-4f29-9390-c1fb91e95d2b": [
     "Duplicate option order: 0"
   ],
   "0197f1e4-32d5-4efe-a7e8-d20ddc020a80": [
+    "Potentially malformed LaTeX syntax detected",
     "Duplicate option order: 0"
   ],
   "0392f34d-6d6b-485b-a50b-29c4010a6c51": [
+    "Potentially malformed LaTeX syntax detected",
     "Duplicate option order: 0"
   ],
   "00623654-5b0a-4241-a5c2-11a2f8c90947": [
@@ -480,6 +514,7 @@
     "Options are null or undefined"
   ],
   "00451c86-6534-4ef5-867d-18976fcfd7af": [
+    "Potentially malformed LaTeX syntax detected",
     "Options are null or undefined"
   ],
   "03cb10b5-4ba8-49ff-a3f3-ef90b28077c5": [
@@ -495,26 +530,48 @@
   "040e73f3-000b-42c8-9858-8bc1f3f7a4d0": [
     "Options are null or undefined"
   ],
-  "4855b017-236a-4265-98ad-1c7b77142e1a": [],
-  "497910fe-ef29-46c8-b463-15248c6eb6d3": [],
+  "4855b017-236a-4265-98ad-1c7b77142e1a": [
+    "Potentially malformed LaTeX syntax detected"
+  ],
+  "497910fe-ef29-46c8-b463-15248c6eb6d3": [
+    "Potentially malformed LaTeX syntax detected"
+  ],
   "45dc4819-ee88-4648-b859-1a0ad0124ca6": [],
-  "1f61aff3-66ca-4bca-bc9c-9684610601b1": [],
-  "abbdab29-abf7-49c2-b36c-feee4c655c4a": [],
+  "1f61aff3-66ca-4bca-bc9c-9684610601b1": [
+    "Potentially malformed LaTeX syntax detected"
+  ],
+  "abbdab29-abf7-49c2-b36c-feee4c655c4a": [
+    "Potentially malformed LaTeX syntax detected"
+  ],
   "7bd55769-9b7c-4bd1-8eaa-cb4267fa972e": [
+    "Potentially malformed LaTeX syntax detected",
     "Duplicate option content detected"
   ],
   "e780e15b-bfc7-467d-9c7f-2e24a9f4765b": [],
   "33967b3f-3e80-466f-85d1-2c31f534f40f": [],
   "49bd3c4e-bc68-4d00-9aa6-be37a5684565": [],
   "fa92db1e-31e5-402e-a187-470bd9d6da0c": [],
-  "828ebeb0-9fdb-4a99-a742-661b4071123b": [],
-  "5df98d92-12b0-4203-b336-d9720b6ddc44": [],
-  "9f723982-8f7a-4fde-ac6c-87b0c87cf3eb": [],
+  "828ebeb0-9fdb-4a99-a742-661b4071123b": [
+    "Potentially malformed LaTeX syntax detected"
+  ],
+  "5df98d92-12b0-4203-b336-d9720b6ddc44": [
+    "Potentially malformed LaTeX syntax detected"
+  ],
+  "9f723982-8f7a-4fde-ac6c-87b0c87cf3eb": [
+    "Potentially malformed LaTeX syntax detected"
+  ],
   "d409d6fc-449c-4bf6-9824-0d7b42eee20d": [],
-  "73e338a4-7efb-4ba3-94e2-a98ce90a0013": [],
-  "e38b71a6-6750-46a9-84d7-11045b828421": [],
-  "97a1e83b-6c1b-4697-be02-4ec7a88f7df6": [],
+  "73e338a4-7efb-4ba3-94e2-a98ce90a0013": [
+    "Potentially malformed LaTeX syntax detected"
+  ],
+  "e38b71a6-6750-46a9-84d7-11045b828421": [
+    "Potentially malformed LaTeX syntax detected"
+  ],
+  "97a1e83b-6c1b-4697-be02-4ec7a88f7df6": [
+    "Potentially malformed LaTeX syntax detected"
+  ],
   "023bbf11-1969-48b9-aef4-a0811c8714a7": [
+    "Potentially malformed LaTeX syntax detected",
     "Options are null or undefined"
   ],
   "04c60aab-d16d-43e2-997d-c00ee3162d92": []
