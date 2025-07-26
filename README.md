@@ -1,21 +1,8 @@
 # Question Validation Tool
 
-## Features
+## Issue Detection & Removal
 
-The validator detects and handles the following issues:
-
-### Critical Issues (Questions Removed)
-- **Null/Empty Specifications**: Questions with no question text
-- **Invalid Options**: Null options, malformed JSON, or missing required fields
-- **Answer Issues**: No correct answer or multiple correct answers
-- **Duplicate Option Orders**: Multiple options with the same order value
-- **Duplicate Option Content**: Options with identical content
-- **Malformed LaTeX**: Unmatched LaTeX delimiters or syntax errors
-- **Invalid Data Types**: Non-string specifications, invalid option structures
-
-### Minor Issues (Questions Retained but Flagged)
-- **Non-Sequential Ordering**: Options with gaps in order sequence (automatically fixed)
-- **Minor LaTeX Warnings**: Detected but not problematic LaTeX usage
+This validator implements a comprehensive quality assurance system that identifies and removes questions exhibiting various structural, formatting, and content issues. The system uses a tiered approach with four severity levels to ensure only high-quality, answerable questions remain in the dataset.
 
 ## Installation
 
@@ -91,41 +78,89 @@ Validation issues for each question:
 }
 ```
 
-## Validation Logic
+## Validation Logic & Removal Threshold
 
-### Removal Threshold
-Questions are removed if they have any critical issues that make them unanswerable or ambiguous:
+### Removal Strategy
+Questions are removed if they exhibit **any Critical or Serious issues**. This strict threshold is implemented because:
 
-1. **Data Integrity Issues**: Missing IDs, null/empty content
-2. **Answer Logic Issues**: No correct answer, multiple correct answers
-3. **Structural Issues**: Duplicate orders, malformed options
-4. **Format Issues**: Severe LaTeX errors, invalid JSON
-
-### Justification
-This approach prioritizes question quality over quantity. It ensures the remaining questions are:
-- Objectively answerable
-- Properly formatted
-- Structurally sound
-- Free from ambiguity
+1. **Critical Issues** make questions fundamentally broken - they cannot be answered, will cause rendering failures, or have structural problems that prevent proper functionality
+2. **Serious Issues** create significant user confusion or inconsistent experiences, even if technically renderable
 
 ## Technical Details
 
 - **Language**: JavaScript (ES6 modules)
-- **Runtime**: Node.js
-- **Dependencies**: None (uses built-in `fs` module)
+- **Runtime**: Node.js (version 14+ recommended)
+- **Dependencies**: Prettier (development only)
 - **Output**: JSON format with proper indentation
+- **Error Reporting**: Standardized severity-based error messages with auto-fix tagging
 
-## Current Issues
+## Development Commands
 
-- Questions referencing an image or graph without it existing
-- ex: 047cac71-264b-435c-83b7-224a166de720
+```bash
+# Run validation
+npm run start
+# or
+node src/check.js
+
+# Format code with Prettier
+npm run format
+
+# Custom file paths
+node src/check.js --input custom.json --output clean.json --report report.json
+```
+
+## Validation Coverage & Limitations
+
+### Critical Issues (Questions Removed - Will Break Functionality)
+These issues make questions completely unanswerable or cause rendering failures:
+
+- **Null/Empty Specifications**: Questions with no question text or empty strings
+- **Invalid Question IDs**: Missing or malformed question identifiers
+- **Invalid Options Structure**: Null options, malformed JSON, or missing required fields (id, content, correct, order)
+- **Answer Logic Failures**: No correct answer specified or multiple correct answers flagged
+- **Duplicate Option Orders**: Multiple options with identical order values
+- **Duplicate Option Content**: Options with identical text content (case-insensitive)
+- **Malformed LaTeX**: Unmatched delimiters ($$, \( \), single $) that break rendering
+- **Incomplete LaTeX Commands**: Commands missing required arguments (\frac without denominator, etc.)
+- **Invalid Data Types**: Non-string specifications, invalid option structures
+- **Insufficient Options**: Less than 2 options provided
+- **Excessive Options**: More than 10 options (unwieldy for users)
+
+### Serious Issues (Questions Removed - Likely User Confusion)
+These issues will likely render but cause significant user confusion:
+
+- **Mixed LaTeX Notation**: Inconsistent use of single ($) and double ($$) dollar delimiters in same question
+- **LaTeX Outside Delimiters**: LaTeX commands found outside proper math delimiters
+- **Extremely Long LaTeX**: LaTeX expressions exceeding 200 characters (performance issues)
+- **Invalid LaTeX Syntax**: Triple backslashes, empty LaTeX blocks, other syntax errors
+
+### Moderate Issues (Questions Retained but Flagged)
+These issues are noticeable but don't prevent answering:
+
+- **Unclear Question Structure**: Lacks question words, question marks, or task instructions
+- **Long Single-Dollar LaTeX**: Single-dollar expressions over 50 characters (style preference)
+- **Multi-line LaTeX**: LaTeX expressions spanning multiple lines (formatting concern)
+
+### Auto-Fixed Issues (Automatically Corrected)
+These issues are detected and automatically corrected without removing questions:
+
+- **Formatting Cleanup**: Removes excessive line breaks, malformed escapes, unnecessary spaces
+- **Super/Subscript Braces**: Adds missing braces to multi-character superscripts/subscripts
+- **Non-Sequential Ordering**: Fixes gaps in option order sequences (0, 1, 2, 3...)
+- **Image URL Formatting**: Cleans up malformed image reference syntax
+
+### Known Limitations
+The following issues require manual review and are not automatically detected:
+
+- **Content Quality**: Questions referencing non-existent images or graphs
+  - Example: `047cac71-264b-435c-83b7-224a166de720`
   
-- Questions referencing data that doesn't exist
-- ex: 005c762e-c7d6-4189-9747-086531cf5258
+- **Missing Context**: Questions referencing data that doesn't exist in the question
+  - Example: `005c762e-c7d6-4189-9747-086531cf5258`
   
-- Questions with a confusing or incorrect wording
-- ex: 97a1e83b-6c1b-4697-be02-4ec7a88f7df6
+- **Semantic Issues**: Questions with confusing or incorrect wording
+  - Example: `97a1e83b-6c1b-4697-be02-4ec7a88f7df6`
 
-- Questions being wrongly flagged as ambiguous (particularly grammatical questions)
+- **False Positives**: Some grammatical questions may be incorrectly flagged as ambiguous (rare due to improved detection logic)
 
-- (Minor) Questions with HTML/base 64 content that might not render properly
+- **Rich Content**: Questions with HTML/base64 content that might not render properly in all contexts

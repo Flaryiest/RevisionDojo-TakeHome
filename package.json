@@ -19,7 +19,7 @@
   "author": "",
   "license": "ISC",
   "type": "module",
-  "dependencies": {
+  "devDependencies": {
     "prettier": "^3.6.2"
   }
 }
