@@ -3332,40 +3332,6 @@
     ]
   },
   {
-    "question": "The angle of elevation from a point on the ground to the top of a building is $35^{\\circ}$. The point on the ground is 200 feet from the base of the building, as shown in the figure. Which of the following equations gives the height $h$ of the building?",
-    "id": "0241d757-f6fd-44ce-8cb1-ab8649f861a6",
-    "options": [
-      {
-        "id": 3866962,
-        "content": "$h = 200 \\sin(35^{\\circ})$",
-        "correct": false,
-        "order": 0,
-        "markscheme": "Incorrect. This would be correct if 200 feet were the length of the hypotenuse, not the adjacent side."
-      },
-      {
-        "id": 3866963,
-        "content": "$h = 200 \\cos(35^{\\circ})$",
-        "correct": false,
-        "order": 1,
-        "markscheme": "Incorrect. This equation would be used to find the adjacent side if the hypotenuse were 200."
-      },
-      {
-        "id": 3866964,
-        "content": "$h = \\frac{200}{\\tan(35^{\\circ})}$",
-        "correct": false,
-        "order": 2,
-        "markscheme": "Incorrect. This incorrectly sets up the tangent ratio as adjacent/opposite instead of opposite/adjacent."
-      },
-      {
-        "id": 3866965,
-        "content": "$h = 200 \\tan(35^{\\circ})$",
-        "correct": true,
-        "order": 3,
-        "markscheme": "Correct. In the right triangle formed, the height $h$ is the side opposite the $35^{\\circ}$ angle, and the 200 feet is the side adjacent. The tangent function relates these: $\\tan(\\theta) = \\frac{\\text{opposite}}{\\text{adjacent}}$. So, $\\tan(35^{\\circ}) = \\frac{h}{200}$. Multiplying both sides by 200 gives $h = 200 \\tan(35^{\\circ})$."
-      }
-    ]
-  },
-  {
     "question": "A survey of 800 registered voters finds 56% support a ballot measure with a margin of error of ±3.5%. To reduce the margin of error to ±2%, approximately how many additional voters should be surveyed?",
     "id": "05af1efa-1704-4720-a1d9-66c9e669dbfd",
     "options": [

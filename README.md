@@ -133,7 +133,8 @@ These issues will likely render but cause significant user confusion:
 - **LaTeX Outside Delimiters**: LaTeX commands found outside proper math delimiters
 - **Extremely Long LaTeX**: LaTeX expressions exceeding 200 characters (performance issues)
 - **Invalid LaTeX Syntax**: Triple backslashes, empty LaTeX blocks, other syntax errors
-
+- **Missing Visual Content**: Questions referencing figures, graphs, charts, tables, datasets, or diagrams that are not provided
+  
 ### Moderate Issues (Questions Retained but Flagged)
 These issues are noticeable but don't prevent answering:
 
@@ -152,12 +153,6 @@ These issues are detected and automatically corrected without removing questions
 ### Known Limitations
 The following issues require manual review and are not automatically detected:
 
-- **Content Quality**: Questions referencing non-existent images or graphs
-  - Example: `047cac71-264b-435c-83b7-224a166de720`
-  
-- **Missing Context**: Questions referencing data that doesn't exist in the question
-  - Example: `005c762e-c7d6-4189-9747-086531cf5258`
-  
 - **Semantic Issues**: Questions with confusing or incorrect wording
   - Example: `97a1e83b-6c1b-4697-be02-4ec7a88f7df6`
 

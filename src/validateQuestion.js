@@ -9,14 +9,12 @@ const CONFIG = {
     MIN_SUPER_SUBSCRIPT_LENGTH: 2,
   },
   REGEX: {
-    QUESTION_WORDS:
-      /\b(what|how|when|where|why|which|who|does|is|are|can|will|would|should)\b/i,
-    TASK_INSTRUCTIONS:
-      /\b(task|choose|select|find|determine|calculate|solve)\b/i,
     MATH_COMMANDS:
       /\\(?:frac|sqrt|sum|int|lim|sin|cos|tan|log|ln|alpha|beta|gamma|delta|theta|pi|infty|cdot|times|div|pm|leq|geq|neq|approx|equiv)\b/,
     LATEX_DELIMITERS: /\$|\\\(|\\\[/,
     LONG_SINGLE_DOLLAR_EXPRESSION: /\$[^$]{50,}\$/,
+    MISSING_VISUAL_CONTENT:
+      /\b(in the (figure|graph|chart|table|diagram|image|plot|scatterplot|histogram)\s+(above|below|shown)|the (figure|graph|chart|table|diagram|image|plot|scatterplot|histogram)\s+(above|below|shown)|as shown in the (figure|graph|chart|table|diagram|plot)|the following (figure|graph|chart|table|diagram|image|plot)\s+shows|shown in the (graph|figure|chart|table|diagram|plot)|the (bar|line|scatter)\s+(plot|chart|graph)\s+(below|above)\s+shows|data set [A-Z]|dataset [A-Z]|the data (below|above)|from the data|using the data|based on the data|the (given|provided) data|according to the data)\b/i,
   },
 };
 
@@ -110,16 +108,21 @@ function validateSpecification(specification) {
     return { issues, shouldRemove, cleaned };
   }
 
-  // Missing question mark or unclear question structure
-  const hasQuestionWords = CONFIG.REGEX.QUESTION_WORDS.test(specification);
-  const hasQuestionMark = specification.includes("?");
-  const hasTaskInstruction = CONFIG.REGEX.TASK_INSTRUCTIONS.test(specification);
+  // Check for references to missing visual content
+  if (CONFIG.REGEX.MISSING_VISUAL_CONTENT.test(specification)) {
+    // Check if there's actually visual content (images, embedded data, etc.)
+    const hasVisualContent =
+      /!\[.*?\]\(.*?\)|<img\b[^>]*>|data:image\/|<svg\b[^>]*>|https?:\/\/.*\.(png|jpg|jpeg|gif|svg)/i.test(
+        specification,
+      );
 
-  if (!hasQuestionWords && !hasQuestionMark && !hasTaskInstruction) {
-    issues.push(
-      "Moderate: Specification appears to lack clear question structure",
-    );
-    // Don't remove - many valid questions might not have explicit question words
+    if (!hasVisualContent) {
+      issues.push(
+        "Serious: References missing visual content (figure, graph, chart, table, or data)",
+      );
+      shouldRemove = true;
+      return { issues, shouldRemove, cleaned };
+    }
   }
 
   return { issues, shouldRemove, cleaned };

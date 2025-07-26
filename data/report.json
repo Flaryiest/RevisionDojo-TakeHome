@@ -27,7 +27,6 @@
   ],
   "a2cd35f0-c49e-4e0c-a50b-eac79f463d8b": [],
   "b73cdf2a-6abe-410d-b30e-2ff43bb047ba": [
-    "Moderate: Specification appears to lack clear question structure",
     "Auto-fixed: Improper option ordering"
   ],
   "01f6a7ea-d6f3-470a-8b43-2e055fc70130": [
@@ -166,7 +165,6 @@
     "Auto-fixed: Improper option ordering"
   ],
   "005529f9-606b-4ca2-96a6-e9dc3f456489": [
-    "Moderate: Specification appears to lack clear question structure",
     "Auto-fixed: Improper option ordering"
   ],
   "00855d4e-5929-472c-be2a-bf90a9e2c9e1": [
@@ -227,7 +225,6 @@
     "Auto-fixed: Improper option ordering"
   ],
   "026d7a15-41f4-42bb-9374-6744b71f375a": [
-    "Moderate: Specification appears to lack clear question structure",
     "Auto-fixed: Improper option ordering"
   ],
   "8f034cf5-30f7-4ecf-9ef5-e261172df9d2": [
@@ -296,6 +293,7 @@
   ],
   "0241d757-f6fd-44ce-8cb1-ab8649f861a6": [
     "Moderate: Long single-dollar LaTeX expression - consider using double dollars",
+    "Serious: References missing visual content (figure, graph, chart, table, or data)",
     "Auto-fixed: Improper option ordering"
   ],
   "05af1efa-1704-4720-a1d9-66c9e669dbfd": [
@@ -313,6 +311,7 @@
   ],
   "047cac71-264b-435c-83b7-224a166de720": [
     "Auto-fixed: Added braces to multi-character super/subscripts",
+    "Serious: References missing visual content (figure, graph, chart, table, or data)",
     "Critical: Duplicate option order: 0"
   ],
   "0087dad3-b026-466b-97c9-3f5d78636b67": [
@@ -454,6 +453,7 @@
   ],
   "005c762e-c7d6-4189-9747-086531cf5258": [
     "Auto-fixed: Added braces to multi-character super/subscripts",
+    "Serious: References missing visual content (figure, graph, chart, table, or data)",
     "Critical: Duplicate option order: 0"
   ],
   "00985a7b-c102-4ef0-8549-c876e3bffde9": [
@@ -525,6 +525,7 @@
   ],
   "0431ee71-953e-4fb7-bddc-8bedcfc46871": [
     "Auto-fixed: Added braces to multi-character super/subscripts",
+    "Serious: References missing visual content (figure, graph, chart, table, or data)",
     "Critical: Duplicate option order: 0"
   ],
   "0431fa85-6fa6-4d19-8738-78b1ab2fa4a9": [
