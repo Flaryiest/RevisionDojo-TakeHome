@@ -79,12 +79,16 @@ Validation issues for each question:
 ```
 
 ## Validation Logic & Removal Threshold
-
+    
+The removal threshold is based on whether a question is product ready, in that users would be able to answer the question, and notice no major flaws. As such, questions are removed if they are unanswerable, or if there are any major display issues. The majority of questions with simple formatting issues are autofixed, leaving only completely unanswerable questions to be removed.  
+  
 ### Removal Strategy
 Questions are removed if they exhibit **any Critical or Serious issues**. This strict threshold is implemented because:
 
 1. **Critical Issues** make questions fundamentally broken - they cannot be answered, will cause rendering failures, or have structural problems that prevent proper functionality
 2. **Serious Issues** create significant user confusion or inconsistent experiences, even if technically renderable
+3. **Moderate Issues** are flagged but questions remain valid - these are style preferences or minor formatting concerns that don't affect functionality
+4. **Auto-Fixed Issues** are automatically corrected during validation - questions are improved and kept in the dataset with reported fixes
 
 ## Technical Details
 
