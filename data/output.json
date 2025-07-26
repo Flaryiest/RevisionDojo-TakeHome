@@ -1258,40 +1258,6 @@
     ]
   },
   {
-    "question": "A paragraph from an essay about a film director:\n\n[1] The director is renowned for her use of long, uninterrupted takes, a stylistic choice that stands in stark contrast to the rapid-fire editing common in modern blockbusters. [2] In one notable scene, the camera follows a character through a crowded market for over five minutes without a single cut. [3] This technique immerses the viewer in the character's perspective, creating a sense of immediacy and realism. [4] This approach demands meticulous choreography from the actors and immense precision from the camera crew.\n\nThe writer wants to insert the following sentence:\n\"The effect is not merely technical showmanship; it is a deliberate narrative strategy.\"\n\nTo make the paragraph most logical, this sentence should be placed:",
-    "id": "a4730980-c099-425a-a4c3-edf2ed2ab90e",
-    "options": [
-      {
-        "id": 3861110,
-        "content": "after sentence 1.",
-        "correct": false,
-        "order": 0,
-        "markscheme": "Incorrect. It would be premature to discuss the 'effect' before a specific example of the technique has been given."
-      },
-      {
-        "id": 3861111,
-        "content": "after sentence 2.",
-        "correct": true,
-        "order": 1,
-        "markscheme": "Correct. Sentence [2] provides a concrete example of the long take. The new sentence then logically serves as a bridge, commenting on the purpose of this technique before sentence [3] goes on to explain that purpose in more detail (immersion and realism)."
-      },
-      {
-        "id": 3861112,
-        "content": "after sentence 3.",
-        "correct": false,
-        "order": 2,
-        "markscheme": "Incorrect. Sentence [3] already explains the narrative effect. The new sentence would be redundant or awkwardly placed here."
-      },
-      {
-        "id": 3861113,
-        "content": "after sentence 4.",
-        "correct": false,
-        "order": 3,
-        "markscheme": "Incorrect. Sentence [4] discusses the technical demands. Placing the new sentence after this would disrupt the logical flow from the technique itself to its narrative purpose."
-      }
-    ]
-  },
-  {
     "question": "If $\\frac{5}{x} = \\frac{x+3}{2}$, what is one possible value for x?",
     "id": "b1ec23b8-73ab-4153-9b41-3782508e1a66",
     "options": [
@@ -1390,40 +1356,6 @@
         "correct": false,
         "order": 3,
         "markscheme": ""
-      }
-    ]
-  },
-  {
-    "question": "A recent study on urban bird populations found that sparrows living in noisier city environments tended to sing at a higher pitch than their counterparts in quieter, suburban areas. Researchers noted that lower-frequency city sounds, such as traffic rumble, can mask the lower-frequency components of bird songs, making them harder for other birds to hear. By shifting their songs to a higher pitch, the urban sparrows may be adapting to ensure their territorial calls and mating songs are more effectively communicated amidst the urban din. This suggests a remarkable vocal flexibility in these common birds.\n\nIt can be reasonably inferred that the researchers believe the higher-pitched songs of urban sparrows are:",
-    "id": "04b8b939-4ca5-4067-b356-74bae0fa4bf4",
-    "options": [
-      {
-        "id": 3860210,
-        "content": "A sign of distress caused by city noise pollution.",
-        "correct": false,
-        "order": 0,
-        "markscheme": "Incorrect. The passage frames it as an 'adaptation' for more effective communication, a functional response rather than just distress."
-      },
-      {
-        "id": 3860211,
-        "content": "Less complex than the songs of suburban sparrows.",
-        "correct": false,
-        "order": 1,
-        "markscheme": "Incorrect. The passage discusses a change in pitch, not a reduction in complexity."
-      },
-      {
-        "id": 3860212,
-        "content": "A learned behavior that helps them communicate more successfully in noisy environments.",
-        "correct": true,
-        "order": 2,
-        "markscheme": "Correct. The idea that they 'may be adapting to ensure their...songs are more effectively communicated' due to masking by city sounds implies this is a functional, likely learned or selected-for, behavioral shift."
-      },
-      {
-        "id": 3860213,
-        "content": "An indication that urban sparrows have better hearing than suburban sparrows.",
-        "correct": false,
-        "order": 3,
-        "markscheme": "Incorrect. The adaptation is in their song production to overcome noise, not a change in their hearing ability."
       }
     ]
   },
@@ -1798,6 +1730,40 @@
         "correct": false,
         "order": 3,
         "markscheme": "Semicolons are used to separate items in a list only when the items themselves contain commas. Since these items are simple phrases, commas are the correct punctuation."
+      }
+    ]
+  },
+  {
+    "question": "Archaeologists have long assumed that the Norse ruins at L'Anse aux Meadows in Newfoundland were constructed around the year 1000 CE. Their assumption was based on a reading of the Norse sagas, which describe a short, exploratory trip around that time. _____ recent research has provided archaeological evidence to support this assumption: wooden artifacts at the site have been dated by researchers to the year 1021 CE.\nWhich choice completes the text with the most logical transition?\n",
+    "id": "01d57b11-6dd3-4e29-9654-6c972074396a",
+    "options": [
+      {
+        "id": 3875531,
+        "content": "Similarly,",
+        "correct": false,
+        "order": 0,
+        "markscheme": "Choice A is incorrect because \"similarly\" signals that the new information is comparable to the previous information, but it does not clearly indicate that the information strengthens the archaeologists' assumption."
+      },
+      {
+        "id": 3875532,
+        "content": "For example,",
+        "correct": false,
+        "order": 1,
+        "markscheme": "Choice B is incorrect because \"for example\" introduces an illustration of a previous statement, yet the sentence is not an example but rather new evidence supporting the assumption."
+      },
+      {
+        "id": 3875533,
+        "content": "In addition,",
+        "correct": true,
+        "order": 2,
+        "markscheme": "Choice C is the best answer because \"in addition\" logically indicates that the sentence presents further information—specifically, new evidence—that supports the archaeologists' long-held assumption."
+      },
+      {
+        "id": 3875534,
+        "content": "However,",
+        "correct": false,
+        "order": 3,
+        "markscheme": "Choice D is incorrect because \"however\" signals a contrast, but the information about the artifacts supports (rather than contradicts) the archaeologists' assumption."
       }
     ]
   },
@@ -3434,6 +3400,176 @@
     ]
   },
   {
+    "question": "<p class=\"stem_{paragraph} \">In the expression&nbsp;<span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALsAAAAeCAYAAAB0QW83AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAAPUJuPDwAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAAD/0lEQVR4Xu2XgZGrOgxFU9WvgYIoJ72kle3EH1nIVmTJyA7ssHk6M54FArZ0dS3Yxx1IrzXBHxxreqUEx0HwXaSfZ1oeS3r+oMGz8Zdn2k7D8MF3kc29voqx09bX1+juwR2Qnfhs/qXOnrYsn8sjbXv9z+d6tS9GONT1tdI3Mww9aOy67JNjnxQOaSzbj/DbDDj/dxSf867te35S07OBta2aoEFZbOwNO8LVORxBebh0xWLUTwf8h7G9kQtXjS6fmzO8FvA3oGsrCnPR26xXDxkHNZqZ2vU21G+AGrfeaXTVdwUamSeA97Gi5fN2Q/w8l+187Jsbhfd3hju8ATwxWPfk4mwX99Oi95n5YB3QBNKIWn2BqdoJX3zKaG1p08KQz7h0LV2bFSQLwc4tcPGafC6s6Fq4E9Hc1qbp4RWEF5V2Pwz+3FF8+6UGl9mVRgLk+YWWWTdxbZbaPDDGxuxOzT3aaL7w6G4xYvZi5qeuM3CoK+7wdzEgaE8AUiAZvJwbz6sgOPqdwm92vA8OrfWP4rPwxoDFrvmgEdvnzu6QAMXYmL00pKoPjOa+/feeNpovPLpbeHUF8pzgNaOpAKauGNB7kADuIEegRiHLBtiDkqKO4hWEOitfj3ed/dJUfMNF2e7FoeuI8x1rPALF2Jh4r9Pbpjdy72lj+cKru4a7tuw+Wk975lBXepjav6cQRcD9GU6Zz/j9CEoMDntDJls7WL2uie6JbyYGWuutsytGADTjzOZN0PPNWnut5HXclEKvjjaWL7y6A7M55k24x0Mxajpoujbw146VFFE6lxCDk4PTXicTkEBachwuCGGJPhqfJwarCKqpPEUZhGK0zC7jwuttDJY2li9GdJf4da3rfmx2nriVFIBC9JOor/GDRZ24BNnFbURXhJmJzxWDYR7tek/jWSjGxuyGObS4etpoMY/oruHRtcakjY6umGA7Oe8+lIB+T9/oND/co+34GTyC0D1yvRwz/wd6Mj5XDF1Tyc4O8/nfLB4oxsbsxnVeczg/0kbzhVd3C4+ukn5nZ7qWnWgYAM4BSJaf0wJSMI5MHOdtO8QoHkEwviWt61rWk+t/Ep+3KPjmYwYydMtrO8wwAsWo1YhqTPHLuLza6L7o697DqyuHYteeaXQtht8OacgH5UPU1fUBxd3F4oWmdXYBrwQFhrV5borRfyE+NHwdmvmkac6gZ3YANWrjGtFG+uJI9yvomX1KV0pWm/COZIOd3CmvAs11rSGuQvriTrp/pKvcxXeFCnB2p7wKeEv+lVg1qi/upfvHuuLny727EL2G7/4WKp8Gf+QN1AN98Z/5OfGbfJOuQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRB8wOPxP8OdKugazubDAAAAAElFTkSuQmCC\" alt=\"\"></span> , <span class=\"italic\">p</span> is a constant. This expression is equivalent to the expression <span class=\"math_{expression} \"><span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG0AAAAeCAYAAAAmTpA5AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAAPUJuPDwAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAACPElEQVRoQ+2Wga2EIAyGHc+BGMddXOU24VFKAaHFyqm5l/RLyCki9OenPZc78bvz8IPN+d17uDZ+Ff/Z/LqsfvugUdHAdfPh1oz7VaJJbs8G+ZBnzrLtf2GZ9gJY3uj/KLQqa66CWbb4MMXthu1u8Wuowek2Q2vC5aF12T8e8zQ+HONtPa7P6SHIl24v6QOCHpC40WQS4iI3QHGypsV1x+VYM+ZJimElhpEmAA5p+DnuJ03UvvTZ1nB/TSAGUD5G7gTjkU+mphxrxsyiqS54aPr9kfaaDIV2NE2YqCU63gjGU4DvaueZoRwGuQLEWIKydMuiHjPQmbo6vvlLQH1H0yiZ3Ab72pqWXzjW+3Zj2qDwdBQhdSaUdi1Tz5DKdq4WzkWB0AWtHqcZA5zplPjGNO6gxHWhLyYDaxoIKIFh1vSC8uTC86eRTcP+WnirQTOGmNE5axrtf/1ePRfFyJrWBsbVWZoALme+uPLGnTRJOL2v2USA09Ayq/NbLUBOmGaNeGhS39C0dnLs78sC1vd7y56Wq6ZJGmru0llnR+oagoelNwxN6qve0TSuM8CJyQudbMRTvGXajM4rpuGB4HWUtbmW4pE2oi0bKA7H1en7JlKs0sGrNWjGwP2sTq1pZApnGIcUdw6UHtBAmpgCynVWcYKfQDQtfRlym581qcbM69SY1u6rBtE0gARQ6wyrxdIGJHFvIZkGFFNKa4WOxryhc1z6yro1Q9MMwzAMwzAMwzAMwzAMwzAMw/hXLMsfBCqtYKw67iMAAAAASUVORK5CYII=\" alt=\"6 x squared minus 155 x plus 24\"></span></span>. What is the value of <span class=\"italic\">p</span>&nbsp;?</p>\n",
+    "id": "0087dad3-b026-466b-97c9-3f5d78636b67",
+    "options": [
+      {
+        "id": 1402817,
+        "content": "<p><span class=\"choice_cell align:right \"><span class=\"math_expression \"><span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAWCAYAAADNX8xBAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAALV/ZLFgAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAAApElEQVQ4T+2S0Q3FIAhFGY+BGIddXMVNbrFobQ00bd7fS29CVMQTQGhVEQJrRT9e1O5s6cawsDCOUGQPikAOERT4Y48NYFW5OXZbQagKtkWM0l0EVCgvsZNeIAEo0gCR0btrCpb4U5BXkPTpCejcgnOpF73JaPTt59Ka0vLegtIRyEBjvtaeeEZztg6loPHVrLbzR3fDe1vaAbPtsPTXPn36ExFt5HDjI8Uw5HsAAAAASUVORK5CYII=\" alt=\"13\"></span></span> </span></p>",
+        "correct": false,
+        "order": 0,
+        "markscheme": null
+      },
+      {
+        "id": 1402816,
+        "content": "<p><span class=\"choice_cell align:right \"><span class=\"math_expression \"><span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAYCAYAAADDLGwtAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAAMyZLetQAAAG1JREFUeNpjYICA/3jwDwYkYIEFx0IVLmUgADqhCu3xKWIF4pdAfJOQacFQ00oIKdwBxD+BWBSfInkg/gvEKwmZ1gS11gWfImYgfgLEd4GYEZ9CH6hplYSs3QjEv4FYAp8iSSD+A8TrGEbBiAYA7Hgcv3HSdbQAAAAASUVORK5CYII=\" alt=\"7\"></span></span> </span></p>",
+        "correct": true,
+        "order": 1,
+        "markscheme": null
+      },
+      {
+        "id": 1402818,
+        "content": "<p><span class=\"choice_cell align:right \"><span class=\"math_expression \"><span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAWCAYAAAAxSueLAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAALV/ZLFgAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAAAw0lEQVRIS+2S3RHEIAiELY+CKIdebMVOCCrx78Th7uke/GacGLOyZjGsRAwMlFhfG8yRUR55Og2MTevRNDhi+bg1S8QQUMrx50bFoykkgmKUx9YsHwSI08nModE/AqZUY9iZ5Xi3cQx4NI0389WM5awEso4oMWkfFp1HM2GbaeOHiGp/utajmbDMLGqfzxfC1Hxr1nttm5mavzB7s5eLNq2PEXk0ulQxzfSmjZvqiXtxj2biFGMv1sdaxKO5XC6XXwjhAWWibv5OAn/sAAAAAElFTkSuQmCC\" alt=\"155\"></span></span> </span></p>",
+        "correct": false,
+        "order": 2,
+        "markscheme": null
+      },
+      {
+        "id": 1402815,
+        "content": "<p><span class=\"choice_cell align:right \"><span class=\"math_expression \"><span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAAJufgqOgAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAAAa0lEQVQ4T+2RyxHAIAhEKY+CKIdebMVONhjG/MwF9OibYdCDy7JSFBRBa14MrWjnGKgKJkGBP3bR+54GJiFZV0+q8pwjX/Eno3eAY4mNtD4w7aizLKO00Pe7z9VYYTpxR55Lz29BPpvNBdEB8Wl3qQ7pDmoAAAAASUVORK5CYII=\" alt=\"negative 3\"></span></span> </span></p>",
+        "correct": false,
+        "order": 3,
+        "markscheme": null
+      }
+    ]
+  },
+  {
+    "question": "The purple sea urchin has a contingency plan for dealing with acidic oceans. When exposed to acidic ocean water, the urchin's larvae turn on genes that help them adapt to the toxic water. _____ they turn off genes that hinder their ability to adapt. This allows the urchin to survive in water that would be deadly to other sea creatures.\\nWhich choice completes the text with the most logical transition?",
+    "id": "03941511-815c-48f5-86b4-53d4879b4061",
+    "options": [
+      {
+        "id": 3875407,
+        "content": "However,",
+        "correct": false,
+        "order": 0,
+        "markscheme": "Choice A is incorrect because \"however\" illogically signals that the information about the larvae turning off genes that hinder adaptation contrasts with or is an exception to the previous information about the larvae turning on genes that help them adapt. Instead, these two pieces of information are both about the genetic adaptation of the urchin's larvae to acidic water."
+      },
+      {
+        "id": 3875408,
+        "content": "For instance,",
+        "correct": false,
+        "order": 1,
+        "markscheme": "Choice B is incorrect because \"for instance\" illogically signals that the information about the larvae turning off genes that hinder adaptation is an example of the previous information about the larvae turning on genes that help them adapt. Instead, these two pieces of information are both about the genetic adaptation of the urchin's larvae to acidic water."
+      },
+      {
+        "id": 3875409,
+        "content": "Instead,",
+        "correct": false,
+        "order": 2,
+        "markscheme": "Choice C is incorrect because \"instead\" illogically signals that the information about the larvae turning off genes that hinder adaptation is an alternative to the previous information about the larvae turning on genes that help them adapt. Instead, these two pieces of information are both about the genetic adaptation of the urchin's larvae to acidic water."
+      },
+      {
+        "id": 3875410,
+        "content": "Additionally,",
+        "correct": true,
+        "order": 3,
+        "markscheme": "Choice D is the best answer. \"Additionally\" logically signals that the information in this sentence-that the larvae of the purple sea urchin turn off genes that hinder adaptation to toxic water-is in addition to the previous sentence's information that the larvae turn on genes that help them adapt to toxic water. Together, these two pieces of information describe the genetic adaptation of the urchin's larvae to acidic water."
+      }
+    ]
+  },
+  {
+    "question": "When a star dies, it can collapse into a very dense core called a neutron star. Over many years, the neutron star's core will cool and dim. _____ the neutron star will reach a final, cold, dark state known as a black dwarf.\\nWhich choice completes the text with the most logical transition?",
+    "id": "30d2b1ff-d75c-4691-8b6d-1075e4453ad1",
+    "options": [
+      {
+        "id": 3875491,
+        "content": "However,",
+        "correct": false,
+        "order": 0,
+        "markscheme": "Choice A is incorrect. This choice uses a disagreement transition. But this sentence agrees with the previous sentence; it describes the final step in a process that the previous sentence also describes."
+      },
+      {
+        "id": 3875492,
+        "content": "For example,",
+        "correct": false,
+        "order": 1,
+        "markscheme": "Choice B is incorrect. This choice uses a transition that introduces an example related to the previous sentence. But this sentence isn't an example of a neutron star's core cooling and dimming; instead, it describes what happens after a neutron star's core cools and dims."
+      },
+      {
+        "id": 3875493,
+        "content": "Nevertheless,",
+        "correct": false,
+        "order": 2,
+        "markscheme": "Choice C is incorrect. This choice uses a disagreement transition. But this sentence agrees with the previous sentence; it describes the final step in a process that the previous sentence also describes."
+      },
+      {
+        "id": 3875494,
+        "content": "Eventually,",
+        "correct": true,
+        "order": 3,
+        "markscheme": "Choice D is the best answer. \"Eventually\" is a transition that indicates the last step in a process. This makes sense in context, because this sentence explains the last step in the process that the previous sentence describes: after a neutron star's core cools and dims, the star will reach a final, dark state known as a black dwarf."
+      }
+    ]
+  },
+  {
+    "question": "In the 1960s, Kim Eunho was a student at Hongik University in Seoul, South Korea. _____ he was also a member of the student mountaineering club. While Kim enjoyed mountaineering, he was disappointed by the lack of outdoor clothing stores in South Korea. In 1973, he decided to open his own. He called it K2 after the mountain located on the border of China and Pakistan.\\nWhich choice completes the text with the most logical transition?",
+    "id": "044ca096-88bb-43b7-a422-021638450eab",
+    "options": [
+      {
+        "id": 3875487,
+        "content": "For example,",
+        "correct": false,
+        "order": 0,
+        "markscheme": "Choice A is incorrect because \"for example\" illogically signals that the information about Kim being in a mountaineering club exemplifies the claim about him being a student. Instead, this information is additional information about Kim that is also true."
+      },
+      {
+        "id": 3875488,
+        "content": "However,",
+        "correct": false,
+        "order": 1,
+        "markscheme": "Choice B is incorrect because \"however\" illogically signals that the information about Kim being in a mountaineering club contrasts with the claim about him being a student. Instead, this information is additional information about Kim that is also true."
+      },
+      {
+        "id": 3875489,
+        "content": "Second,",
+        "correct": false,
+        "order": 2,
+        "markscheme": "Choice C is incorrect because \"second\" illogically signals that the information about Kim being in a mountaineering club is the second step in a process or order of events. Instead, this information is additional information about Kim that is also true."
+      },
+      {
+        "id": 3875490,
+        "content": "In addition,",
+        "correct": true,
+        "order": 3,
+        "markscheme": "Choice D is the best answer. \"In addition\" logically signals that the information about Kim being in a mountaineering club is additional information about Kim that is also true: Kim was a student at Hongik University AND a member of the mountaineering club."
+      }
+    ]
+  },
+  {
+    "question": "In 1993, the Vienna Philharmonic Orchestra celebrated its 151st anniversary. _____ in its long history, the orchestra had included just a smattering of female musicians. That began to change in February 1997, when a woman named Anna Lelkes joined the orchestra as its first-ever full member. Lelkes, a harpist, was 61 at the time.\\nWhich choice completes the text with the most logical transition?\\n",
+    "id": "006d8a89-c7a0-41c3-9bc3-984ed711311c",
+    "options": [
+      {
+        "id": 3875603,
+        "content": "Similarly,",
+        "correct": false,
+        "order": 0,
+        "markscheme": "Choice A is incorrect because \"similarly\" illogically signals that the information in this sentence is similar to the information in the previous sentence. Instead, this sentence signals that the following information is an exception to the previous sentence about the orchestra's 151st anniversary."
+      },
+      {
+        "id": 3875604,
+        "content": "For example,",
+        "correct": false,
+        "order": 1,
+        "markscheme": "Choice B is incorrect because \"for example\" illogically signals that this sentence provides an example supporting the previous sentence's claim about the orchestra's 151st anniversary. Instead, this sentence signals that the following information is an exception to the previous sentence."
+      },
+      {
+        "id": 3875605,
+        "content": "Conversely,",
+        "correct": false,
+        "order": 2,
+        "markscheme": "Choice C is incorrect because \"conversely\" illogically signals that the information in this sentence is the opposite of the information in the previous sentence. Instead, this sentence signals that the following information is an exception to the previous sentence about the orchestra's 151st anniversary."
+      },
+      {
+        "id": 3875606,
+        "content": "However,",
+        "correct": true,
+        "order": 3,
+        "markscheme": "Choice D is the best answer. \"However\" logically signals that the information in this sentence-that in its long history, the orchestra had included only a smattering of female musicians-is an exception to the information in the previous sentence about the orchestra's 151st anniversary."
+      }
+    ]
+  },
+  {
     "question": "After a long and difficult hike—one that tested the endurance of even its most experienced members of the team, which had been navigating treacherous terrain since dawn, finally reached the summit and______{exhausted} but exhilarated______{enjoyed} the spectacular view.",
     "id": "7f67c7cc-efa0-44bf-a9b5-b7f6be12bf3f",
     "options": [
@@ -3461,6 +3597,40 @@
       {
         "id": 3864041,
         "content": "exhausted but exhilarated",
+        "correct": false,
+        "order": 3,
+        "markscheme": ""
+      }
+    ]
+  },
+  {
+    "question": "In a right triangle, the length of one leg is 7 cm, and the length of the hypotenuse is 25 cm. What is the length of the other leg?",
+    "id": "034dcc2a-68a2-4e22-bb5c-9ce14c35e1d7",
+    "options": [
+      {
+        "id": 1421534,
+        "content": "30 cm",
+        "correct": false,
+        "order": 0,
+        "markscheme": ""
+      },
+      {
+        "id": 1421531,
+        "content": "24 cm",
+        "correct": true,
+        "order": 1,
+        "markscheme": ""
+      },
+      {
+        "id": 1421532,
+        "content": "20 cm",
+        "correct": false,
+        "order": 2,
+        "markscheme": ""
+      },
+      {
+        "id": 1421533,
+        "content": "18 cm",
         "correct": false,
         "order": 3,
         "markscheme": ""
@@ -3536,6 +3706,40 @@
     ]
   },
   {
+    "question": "In the design of medical studies, researchers often use a double-blind method. In a double-blind study, neither the participants nor the researchers know which participants are receiving the treatment being tested and which are receiving a placebo. _____ the double-blind method helps ensure that the study results are not influenced by the expectations of either party.",
+    "id": "4e844e09-b92a-4f1e-845a-5ce6177b7692",
+    "options": [
+      {
+        "id": 3875843,
+        "content": "In short,",
+        "correct": true,
+        "order": 0,
+        "markscheme": "Choice A is the best answer. \"In short\" is a transition that indicates a summary or conclusion. This sentence offers a summary of the information about the double-blind method in the previous two sentences, so this choice fits perfectly."
+      },
+      {
+        "id": 3875844,
+        "content": "For example,",
+        "correct": false,
+        "order": 1,
+        "markscheme": "Choice B is incorrect because \"for example\" doesn't make sense here. This sentence is not an example of the double-blind method."
+      },
+      {
+        "id": 3875845,
+        "content": "In the first place,",
+        "correct": false,
+        "order": 2,
+        "markscheme": "Choice C is incorrect because \"in the first place\" doesn't make sense here. This sentence is not the first point in a list."
+      },
+      {
+        "id": 3875846,
+        "content": "In reality,",
+        "correct": false,
+        "order": 3,
+        "markscheme": "Choice D is incorrect because \"in reality\" doesn't make sense here. This sentence doesn't contradict the previous information about the double-blind method."
+      }
+    ]
+  },
+  {
     "question": "The mean score on a test for a class of 20 students was 82. The standard deviation was 5. If a student's score was 92, what is their z-score?",
     "id": "041b1288-d46f-4b15-92a8-d90f83b1d34c",
     "options": [
@@ -3600,6 +3804,74 @@
         "correct": false,
         "order": 3,
         "markscheme": "Incorrect. This overestimates the amount needed, possibly from calculation errors in applying the waste rate."
+      }
+    ]
+  },
+  {
+    "question": "When she was just ten years old, Janaki Ammal took the entrance examination for secondary school, earning her the nickname \"the girl who passed the Little Matric.\" Ammal would go on to live up to that name many times over. _____ in 1931, she became the first woman to be awarded a doctorate by the University of Michigan. \\nWhich choice completes the text with the most logical transition?",
+    "id": "02ada342-33b7-48fd-b545-5d69b00cd714",
+    "options": [
+      {
+        "id": 3876007,
+        "content": "Nevertheless,",
+        "correct": false,
+        "order": 0,
+        "markscheme": "Choice A is incorrect. This choice uses a transition that means \"despite the previous statement.\" But this sentence doesn't contrast with the previous statement. Instead, the fact that Ammal earned her doctorate is an additional example of her living up to her nickname. So \"nevertheless\" doesn't make sense here."
+      },
+      {
+        "id": 3876008,
+        "content": "For instance,",
+        "correct": true,
+        "order": 1,
+        "markscheme": "Choice B is the best answer. \"For instance\" is a transition that indicates the introduction of an example. In this sentence, \"for instance\" introduces an example of Ammal living up to her nickname: earning her doctorate."
+      },
+      {
+        "id": 3876009,
+        "content": "Similarly,",
+        "correct": false,
+        "order": 2,
+        "markscheme": "Choice C is incorrect. This choice uses a transition that means \"in addition to the previous statement.\" However, the fact that Ammal earned her doctorate isn't an additional, similar fact-this is the example that illustrates the general statement in the previous sentence. So \"similarly\" doesn't make sense here."
+      },
+      {
+        "id": 3876010,
+        "content": "On the contrary,",
+        "correct": false,
+        "order": 3,
+        "markscheme": "Choice D is incorrect. This choice uses a transition that means \"the opposite is true.\" But this sentence doesn't express the opposite of the previous statement. Instead, the fact that Ammal earned her doctorate is an example of her living up to her nickname. So \"on the contrary\" doesn't make sense here."
+      }
+    ]
+  },
+  {
+    "question": "While nuclear fusion offers a promising alternative to current energy sources, it is not without risk. Fusion reactors consist of plasma that is hotter than the Sun, and the components that make up these reactors are susceptible to melting. _____ as fusion scientist Gianluca Pinton explains, engineers use computer simulations to estimate how close each component can safely be to the plasma.\nWhich choice completes the text with the most logical transition?\n",
+    "id": "027f690c-6553-4c66-90cd-2dfb04bf8b3b",
+    "options": [
+      {
+        "id": 3876127,
+        "content": "Nevertheless,",
+        "correct": false,
+        "order": 0,
+        "markscheme": "Choice A is incorrect. \"Nevertheless\" signals a contrast, but the third sentence does not contradict the statement that reactor components can melt; instead, it describes a precaution taken because of that danger."
+      },
+      {
+        "id": 3876128,
+        "content": "By comparison,",
+        "correct": false,
+        "order": 1,
+        "markscheme": "Choice B is incorrect. \"By comparison\" sets up a contrast between two similar ideas, yet the third sentence does not compare reactor components to anything else—it describes an action taken in response to the risk mentioned earlier."
+      },
+      {
+        "id": 3876129,
+        "content": "To illustrate,",
+        "correct": false,
+        "order": 2,
+        "markscheme": "Choice C is incorrect. \"To illustrate\" introduces an example of something just discussed, but the third sentence is not merely an example; it is a direct response to the danger described, so a cause-and-effect connector is more precise."
+      },
+      {
+        "id": 3876130,
+        "content": "Accordingly,",
+        "correct": true,
+        "order": 3,
+        "markscheme": "Choice D is the best answer. \"Accordingly\" conveys a cause-and-effect relationship: because reactor components are at risk of melting, engineers therefore use computer simulations to determine safe distances from the plasma."
       }
     ]
   },
@@ -3770,6 +4042,686 @@
         "correct": true,
         "order": 3,
         "markscheme": ""
+      }
+    ]
+  },
+  {
+    "question": "A bag contains 4 red balls, 3 blue balls, and 5 green balls. If two balls are drawn at random without replacement, what is the probability that one ball is red and the other is green?",
+    "id": "01817bf3-80c0-4f29-9390-c1fb91e95d2b",
+    "options": [
+      {
+        "id": 1422557,
+        "content": "$$\\frac{10}{33}$$",
+        "correct": true,
+        "order": 0,
+        "markscheme": ""
+      },
+      {
+        "id": 1422558,
+        "content": "$$\\frac{2}{5}$$",
+        "correct": false,
+        "order": 1,
+        "markscheme": ""
+      },
+      {
+        "id": 1422559,
+        "content": "$$\\frac{1}{3}$$",
+        "correct": false,
+        "order": 2,
+        "markscheme": ""
+      },
+      {
+        "id": 1422560,
+        "content": "$$\\frac{7}{24}$$",
+        "correct": false,
+        "order": 3,
+        "markscheme": ""
+      }
+    ]
+  },
+  {
+    "question": "<p>The radiation that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> during the decay of radioactive atomic nuclei is known as gamma radiation.</p>\n\n<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "id": "00623654-5b0a-4241-a5c2-11a2f8c90947",
+    "options": [
+      {
+        "id": 1406738,
+        "content": "<p>are occurring</p>",
+        "correct": false,
+        "order": 0,
+        "markscheme": "<p>Choice A is the best answer. The convention being tested is subject-verb agreement. The singular verb \"occurs\" agrees in number with the singular subject \"radiation.\"</p><p>Choice B is incorrect because the plural verb \"have occurred\" doesn&rsquo;t agree in number with the singular subject \"radiation.\" Choice C is incorrect because the plural verb \"occur\" doesn&rsquo;t agree in number with the singular subject \"radiation.\" Choice D is incorrect because the plural verb \"are occurring\" doesn&rsquo;t agree in number with the singular subject \"radiation.\"</p>"
+      },
+      {
+        "id": 1406735,
+        "content": "<p>occurs</p>",
+        "correct": true,
+        "order": 1,
+        "markscheme": "<p>Choice A is the best answer. The convention being tested is subject-verb agreement. The singular verb \"occurs\" agrees in number with the singular subject \"radiation.\"</p><p>Choice B is incorrect because the plural verb \"have occurred\" doesn&rsquo;t agree in number with the singular subject \"radiation.\" Choice C is incorrect because the plural verb \"occur\" doesn&rsquo;t agree in number with the singular subject \"radiation.\" Choice D is incorrect because the plural verb \"are occurring\" doesn&rsquo;t agree in number with the singular subject \"radiation.\"</p>"
+      },
+      {
+        "id": 1406736,
+        "content": "<p>have occurred</p>",
+        "correct": false,
+        "order": 2,
+        "markscheme": "<p>Choice A is the best answer. The convention being tested is subject-verb agreement. The singular verb \"occurs\" agrees in number with the singular subject \"radiation.\"</p><p>Choice B is incorrect because the plural verb \"have occurred\" doesn&rsquo;t agree in number with the singular subject \"radiation.\" Choice C is incorrect because the plural verb \"occur\" doesn&rsquo;t agree in number with the singular subject \"radiation.\" Choice D is incorrect because the plural verb \"are occurring\" doesn&rsquo;t agree in number with the singular subject \"radiation.\"</p>"
+      },
+      {
+        "id": 1406737,
+        "content": "<p>occur</p>",
+        "correct": false,
+        "order": 3,
+        "markscheme": "<p>Choice A is the best answer. The convention being tested is subject-verb agreement. The singular verb \"occurs\" agrees in number with the singular subject \"radiation.\"</p><p>Choice B is incorrect because the plural verb \"have occurred\" doesn&rsquo;t agree in number with the singular subject \"radiation.\" Choice C is incorrect because the plural verb \"occur\" doesn&rsquo;t agree in number with the singular subject \"radiation.\" Choice D is incorrect because the plural verb \"are occurring\" doesn&rsquo;t agree in number with the singular subject \"radiation.\"</p>"
+      }
+    ]
+  },
+  {
+    "question": "<p>One challenge when researching whether holding elected office changes a person&rsquo;s behavior is the problem of ensuring that the experiment has an appropriate control group. To reveal the effect of holding office, researchers must compare people who hold elected office with people who do not hold office but who are otherwise similar to the office-holders. Since researchers are unable to control which politicians win elections, they therefore <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>\n\n<p>Which choice most logically completes the text?</p>",
+    "id": "014d0815-7b93-44ae-bc45-f7ea57e6cc58",
+    "options": [
+      {
+        "id": 1404079,
+        "content": "<p>struggle to find valid data about the behavior of politicians who do not currently hold office.</p>",
+        "correct": false,
+        "order": 0,
+        "markscheme": "<p>Choice D is the best answer because it presents the conclusion that most logically follows from the text&rsquo;s discussion of the challenge researchers face when studying the effects of holding elected office on a person&rsquo;s behavior. The text explains that it&rsquo;s hard for researchers to test for the effects that elected office has on people because finding people to serve as a control group is difficult. The text indicates that a control group needs to be made up of people who share characteristics of the group being tested but don&rsquo;t have the variable being tested (in this case, holding elected office). Because researchers aren&rsquo;t able to influence who wins elections, they&rsquo;re also unable to determine who would serve as an appropriately similar member of a control group. Thus, it logically follows that researchers will find it difficult to identify a group of people who can function as an appropriate control group for their studies. </p><p>Choice A is incorrect because the text focuses on the struggle to put together a control group for experiments; it doesn&rsquo;t suggest that finding information about politicians&rsquo; behavior is difficult.&nbsp;Choice B is incorrect because the experiments mentioned in the text are testing the effects of holding elected office on a person&rsquo;s behavior. Studying people who have already held elected office wouldn&rsquo;t provide an opportunity to note any behavioral changes that the position might cause.&nbsp;Choice C is incorrect because the text defines people in a control group as those &ldquo;who are otherwise similar to the office-holders&rdquo;; selecting people who differ from the office-holders wouldn&rsquo;t fit the criteria for an appropriate control group.&nbsp;</p>"
+      },
+      {
+        "id": 1404081,
+        "content": "<p>should select a control group of people who differ from office holders in several significant ways.</p>",
+        "correct": false,
+        "order": 1,
+        "markscheme": "<p>Choice D is the best answer because it presents the conclusion that most logically follows from the text&rsquo;s discussion of the challenge researchers face when studying the effects of holding elected office on a person&rsquo;s behavior. The text explains that it&rsquo;s hard for researchers to test for the effects that elected office has on people because finding people to serve as a control group is difficult. The text indicates that a control group needs to be made up of people who share characteristics of the group being tested but don&rsquo;t have the variable being tested (in this case, holding elected office). Because researchers aren&rsquo;t able to influence who wins elections, they&rsquo;re also unable to determine who would serve as an appropriately similar member of a control group. Thus, it logically follows that researchers will find it difficult to identify a group of people who can function as an appropriate control group for their studies. </p><p>Choice A is incorrect because the text focuses on the struggle to put together a control group for experiments; it doesn&rsquo;t suggest that finding information about politicians&rsquo; behavior is difficult.&nbsp;Choice B is incorrect because the experiments mentioned in the text are testing the effects of holding elected office on a person&rsquo;s behavior. Studying people who have already held elected office wouldn&rsquo;t provide an opportunity to note any behavioral changes that the position might cause.&nbsp;Choice C is incorrect because the text defines people in a control group as those &ldquo;who are otherwise similar to the office-holders&rdquo;; selecting people who differ from the office-holders wouldn&rsquo;t fit the criteria for an appropriate control group.&nbsp;</p>"
+      },
+      {
+        "id": 1404082,
+        "content": "<p>will find it difficult to identify a group of people who can function as an appropriate control group for their studies.</p>",
+        "correct": true,
+        "order": 2,
+        "markscheme": "<p>Choice D is the best answer because it presents the conclusion that most logically follows from the text&rsquo;s discussion of the challenge researchers face when studying the effects of holding elected office on a person&rsquo;s behavior. The text explains that it&rsquo;s hard for researchers to test for the effects that elected office has on people because finding people to serve as a control group is difficult. The text indicates that a control group needs to be made up of people who share characteristics of the group being tested but don&rsquo;t have the variable being tested (in this case, holding elected office). Because researchers aren&rsquo;t able to influence who wins elections, they&rsquo;re also unable to determine who would serve as an appropriately similar member of a control group. Thus, it logically follows that researchers will find it difficult to identify a group of people who can function as an appropriate control group for their studies. </p><p>Choice A is incorrect because the text focuses on the struggle to put together a control group for experiments; it doesn&rsquo;t suggest that finding information about politicians&rsquo; behavior is difficult.&nbsp;Choice B is incorrect because the experiments mentioned in the text are testing the effects of holding elected office on a person&rsquo;s behavior. Studying people who have already held elected office wouldn&rsquo;t provide an opportunity to note any behavioral changes that the position might cause.&nbsp;Choice C is incorrect because the text defines people in a control group as those &ldquo;who are otherwise similar to the office-holders&rdquo;; selecting people who differ from the office-holders wouldn&rsquo;t fit the criteria for an appropriate control group.&nbsp;</p>"
+      },
+      {
+        "id": 1404080,
+        "content": "<p>can only conduct valid studies with people who have previously held office rather than people who presently hold office.</p>",
+        "correct": false,
+        "order": 3,
+        "markscheme": "<p>Choice D is the best answer because it presents the conclusion that most logically follows from the text&rsquo;s discussion of the challenge researchers face when studying the effects of holding elected office on a person&rsquo;s behavior. The text explains that it&rsquo;s hard for researchers to test for the effects that elected office has on people because finding people to serve as a control group is difficult. The text indicates that a control group needs to be made up of people who share characteristics of the group being tested but don&rsquo;t have the variable being tested (in this case, holding elected office). Because researchers aren&rsquo;t able to influence who wins elections, they&rsquo;re also unable to determine who would serve as an appropriately similar member of a control group. Thus, it logically follows that researchers will find it difficult to identify a group of people who can function as an appropriate control group for their studies. </p><p>Choice A is incorrect because the text focuses on the struggle to put together a control group for experiments; it doesn&rsquo;t suggest that finding information about politicians&rsquo; behavior is difficult.&nbsp;Choice B is incorrect because the experiments mentioned in the text are testing the effects of holding elected office on a person&rsquo;s behavior. Studying people who have already held elected office wouldn&rsquo;t provide an opportunity to note any behavioral changes that the position might cause.&nbsp;Choice C is incorrect because the text defines people in a control group as those &ldquo;who are otherwise similar to the office-holders&rdquo;; selecting people who differ from the office-holders wouldn&rsquo;t fit the criteria for an appropriate control group.&nbsp;</p>"
+      }
+    ]
+  },
+  {
+    "question": "<p>Given that stars and planets initially form from the same gas and dust in space, some astronomers have posited that host stars (such as the Sun) and their planets (such as those in our solar system) are composed of the same materials, with the planets containing equal or smaller quantities of the materials that make up the host star. This idea is also supported by evidence that rocky planets in our solar system are composed of some of the same materials as the Sun.</p>\n\n<p>Which finding, if true, would most directly weaken the astronomers&rsquo; claim?</p>",
+    "id": "0172be23-2876-4bec-b45d-a7169fe9cf6f",
+    "options": [
+      {
+        "id": 1404930,
+        "content": "<p>The method for determining the composition of rocky planets is discovered to be less effective when used to analyze other kinds of planets.</p>",
+        "correct": false,
+        "order": 0,
+        "markscheme": "<p>Choice C is the best answer because it presents a finding that, if true, would weaken the astronomers&rsquo; claim about the makeup of host stars and their planets. The text explains that because stars and planets begin forming from the same gas and dust, astronomers believe planets should be composed of the same materials as their host stars, but in equal or smaller quantities. The finding that the amount of iron in some rocky planets is much higher than the amount in their host star would weaken the astronomers&rsquo; claim because it would show that some planets contain the same material as their host star, but in higher quantities. </p><p>Choice A is incorrect because a finding only about the makeup of stars, whether they&rsquo;ve cooled or not, would provide no information about the makeup of planets. Thus, it wouldn&rsquo;t have any bearing on the claim that planets and their host stars are composed of the same materials in differing quantities. Choice B is incorrect because a finding about two host stars having similar proportions of certain materials wouldn&rsquo;t provide any information about the makeup of planets. Thus, it wouldn&rsquo;t be relevant to the claim that planets and their host stars are composed of the same materials in differing quantities. Choice D is incorrect because the text indicates that the astronomers&rsquo; claim is based on a fact&mdash;that stars and planets begin forming from the same gas and dust in space&mdash;which would remain true regardless of the effectiveness of a method for analysis of compositions. The text does cite analysis of rocky planets in our solar system and the Sun, but only as a single piece of evidence that is consistent with the claim and not as the source of the claim; the finding that the method used for that analysis is less effective in other scenarios wouldn&rsquo;t weaken a claim that&rsquo;s based on knowledge of how stars and planets initially form. </p>"
+      },
+      {
+        "id": 1404929,
+        "content": "<p>Evidence emerges that the amount of iron in some rocky planets is considerably higher than the amount in their host star.</p>",
+        "correct": true,
+        "order": 1,
+        "markscheme": "<p>Choice C is the best answer because it presents a finding that, if true, would weaken the astronomers&rsquo; claim about the makeup of host stars and their planets. The text explains that because stars and planets begin forming from the same gas and dust, astronomers believe planets should be composed of the same materials as their host stars, but in equal or smaller quantities. The finding that the amount of iron in some rocky planets is much higher than the amount in their host star would weaken the astronomers&rsquo; claim because it would show that some planets contain the same material as their host star, but in higher quantities. </p><p>Choice A is incorrect because a finding only about the makeup of stars, whether they&rsquo;ve cooled or not, would provide no information about the makeup of planets. Thus, it wouldn&rsquo;t have any bearing on the claim that planets and their host stars are composed of the same materials in differing quantities. Choice B is incorrect because a finding about two host stars having similar proportions of certain materials wouldn&rsquo;t provide any information about the makeup of planets. Thus, it wouldn&rsquo;t be relevant to the claim that planets and their host stars are composed of the same materials in differing quantities. Choice D is incorrect because the text indicates that the astronomers&rsquo; claim is based on a fact&mdash;that stars and planets begin forming from the same gas and dust in space&mdash;which would remain true regardless of the effectiveness of a method for analysis of compositions. The text does cite analysis of rocky planets in our solar system and the Sun, but only as a single piece of evidence that is consistent with the claim and not as the source of the claim; the finding that the method used for that analysis is less effective in other scenarios wouldn&rsquo;t weaken a claim that&rsquo;s based on knowledge of how stars and planets initially form. </p>"
+      },
+      {
+        "id": 1404927,
+        "content": "<p>Most stars are made of hydrogen and helium, but when cooled they are revealed to contain small amounts of iron and silicate.</p>",
+        "correct": false,
+        "order": 2,
+        "markscheme": "<p>Choice C is the best answer because it presents a finding that, if true, would weaken the astronomers&rsquo; claim about the makeup of host stars and their planets. The text explains that because stars and planets begin forming from the same gas and dust, astronomers believe planets should be composed of the same materials as their host stars, but in equal or smaller quantities. The finding that the amount of iron in some rocky planets is much higher than the amount in their host star would weaken the astronomers&rsquo; claim because it would show that some planets contain the same material as their host star, but in higher quantities. </p><p>Choice A is incorrect because a finding only about the makeup of stars, whether they&rsquo;ve cooled or not, would provide no information about the makeup of planets. Thus, it wouldn&rsquo;t have any bearing on the claim that planets and their host stars are composed of the same materials in differing quantities. Choice B is incorrect because a finding about two host stars having similar proportions of certain materials wouldn&rsquo;t provide any information about the makeup of planets. Thus, it wouldn&rsquo;t be relevant to the claim that planets and their host stars are composed of the same materials in differing quantities. Choice D is incorrect because the text indicates that the astronomers&rsquo; claim is based on a fact&mdash;that stars and planets begin forming from the same gas and dust in space&mdash;which would remain true regardless of the effectiveness of a method for analysis of compositions. The text does cite analysis of rocky planets in our solar system and the Sun, but only as a single piece of evidence that is consistent with the claim and not as the source of the claim; the finding that the method used for that analysis is less effective in other scenarios wouldn&rsquo;t weaken a claim that&rsquo;s based on knowledge of how stars and planets initially form. </p>"
+      },
+      {
+        "id": 1404928,
+        "content": "<p>A nearby host star is observed to contain the same proportion of hydrogen and helium as that of the Sun.</p>",
+        "correct": false,
+        "order": 3,
+        "markscheme": "<p>Choice C is the best answer because it presents a finding that, if true, would weaken the astronomers&rsquo; claim about the makeup of host stars and their planets. The text explains that because stars and planets begin forming from the same gas and dust, astronomers believe planets should be composed of the same materials as their host stars, but in equal or smaller quantities. The finding that the amount of iron in some rocky planets is much higher than the amount in their host star would weaken the astronomers&rsquo; claim because it would show that some planets contain the same material as their host star, but in higher quantities. </p><p>Choice A is incorrect because a finding only about the makeup of stars, whether they&rsquo;ve cooled or not, would provide no information about the makeup of planets. Thus, it wouldn&rsquo;t have any bearing on the claim that planets and their host stars are composed of the same materials in differing quantities. Choice B is incorrect because a finding about two host stars having similar proportions of certain materials wouldn&rsquo;t provide any information about the makeup of planets. Thus, it wouldn&rsquo;t be relevant to the claim that planets and their host stars are composed of the same materials in differing quantities. Choice D is incorrect because the text indicates that the astronomers&rsquo; claim is based on a fact&mdash;that stars and planets begin forming from the same gas and dust in space&mdash;which would remain true regardless of the effectiveness of a method for analysis of compositions. The text does cite analysis of rocky planets in our solar system and the Sun, but only as a single piece of evidence that is consistent with the claim and not as the source of the claim; the finding that the method used for that analysis is less effective in other scenarios wouldn&rsquo;t weaken a claim that&rsquo;s based on knowledge of how stars and planets initially form. </p>"
+      }
+    ]
+  },
+  {
+    "question": "<p>Nuhād al-Ḥaddād, known as Fairuz, was one of the most beloved Lebanese singers of the twentieth century. Her broad singing repertoire&mdash;which included traditional forms, such as the Arabic <em>qasida</em> and <em>maqam</em>, alongside modern pop and jazz styles&mdash;lent Fairuz a timeless, cross-generational appeal, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span>&nbsp;her the moniker &ldquo;the soul of Lebanon.&rdquo;</p>\n\n<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "id": "01922983-514c-46c5-9819-b88cb7d92037",
+    "options": [
+      {
+        "id": 1407407,
+        "content": "<p>earned</p>",
+        "correct": false,
+        "order": 0,
+        "markscheme": "<p>Choice C is the best answer. The word \"earning\" is being used to introduce an additional modifying phrase, which describes how Fairuz&rsquo;s repertoire lent her cross-generational appeal. When a verb ends in -ing and doesn&rsquo;t have a helper verb like \"is\" before it, it can be used to modify a noun or verb. This is appropriate here.</p><p>Choice A is incorrect. The underlined verb is being used to introduce additional descriptive information, which is set off from the rest of the sentence by a comma. Because there is no subject here, a finite form of the verb (like \"earned\") creates an error. We need another form of the verb that doesn&rsquo;t require a subject and can introduce descriptive information. Choice B is incorrect. The underlined verb is being used to introduce additional descriptive information, which is set off from the rest of the sentence by a comma. Because there is no subject here, a finite form of the verb (like \"had earned\") creates an error. We need another form of the verb that doesn&rsquo;t require a subject and can introduce descriptive information. Choice D is incorrect. The underlined verb is being used to introduce additional descriptive information, which is set off from the rest of the sentence by a comma. Because there is no subject here, a finite form of the verb (like \"earn\") creates an error. We need another form of the verb that doesn&rsquo;t require a subject and can introduce descriptive information.</p>"
+      },
+      {
+        "id": 1407408,
+        "content": "<p>had earned</p>",
+        "correct": false,
+        "order": 1,
+        "markscheme": "<p>Choice C is the best answer. The word \"earning\" is being used to introduce an additional modifying phrase, which describes how Fairuz&rsquo;s repertoire lent her cross-generational appeal. When a verb ends in -ing and doesn&rsquo;t have a helper verb like \"is\" before it, it can be used to modify a noun or verb. This is appropriate here.</p><p>Choice A is incorrect. The underlined verb is being used to introduce additional descriptive information, which is set off from the rest of the sentence by a comma. Because there is no subject here, a finite form of the verb (like \"earned\") creates an error. We need another form of the verb that doesn&rsquo;t require a subject and can introduce descriptive information. Choice B is incorrect. The underlined verb is being used to introduce additional descriptive information, which is set off from the rest of the sentence by a comma. Because there is no subject here, a finite form of the verb (like \"had earned\") creates an error. We need another form of the verb that doesn&rsquo;t require a subject and can introduce descriptive information. Choice D is incorrect. The underlined verb is being used to introduce additional descriptive information, which is set off from the rest of the sentence by a comma. Because there is no subject here, a finite form of the verb (like \"earn\") creates an error. We need another form of the verb that doesn&rsquo;t require a subject and can introduce descriptive information.</p>"
+      },
+      {
+        "id": 1407409,
+        "content": "<p>earning</p>",
+        "correct": true,
+        "order": 2,
+        "markscheme": "<p>Choice C is the best answer. The word \"earning\" is being used to introduce an additional modifying phrase, which describes how Fairuz&rsquo;s repertoire lent her cross-generational appeal. When a verb ends in -ing and doesn&rsquo;t have a helper verb like \"is\" before it, it can be used to modify a noun or verb. This is appropriate here.</p><p>Choice A is incorrect. The underlined verb is being used to introduce additional descriptive information, which is set off from the rest of the sentence by a comma. Because there is no subject here, a finite form of the verb (like \"earned\") creates an error. We need another form of the verb that doesn&rsquo;t require a subject and can introduce descriptive information. Choice B is incorrect. The underlined verb is being used to introduce additional descriptive information, which is set off from the rest of the sentence by a comma. Because there is no subject here, a finite form of the verb (like \"had earned\") creates an error. We need another form of the verb that doesn&rsquo;t require a subject and can introduce descriptive information. Choice D is incorrect. The underlined verb is being used to introduce additional descriptive information, which is set off from the rest of the sentence by a comma. Because there is no subject here, a finite form of the verb (like \"earn\") creates an error. We need another form of the verb that doesn&rsquo;t require a subject and can introduce descriptive information.</p>"
+      },
+      {
+        "id": 1407410,
+        "content": "<p>earn</p>",
+        "correct": false,
+        "order": 3,
+        "markscheme": "<p>Choice C is the best answer. The word \"earning\" is being used to introduce an additional modifying phrase, which describes how Fairuz&rsquo;s repertoire lent her cross-generational appeal. When a verb ends in -ing and doesn&rsquo;t have a helper verb like \"is\" before it, it can be used to modify a noun or verb. This is appropriate here.</p><p>Choice A is incorrect. The underlined verb is being used to introduce additional descriptive information, which is set off from the rest of the sentence by a comma. Because there is no subject here, a finite form of the verb (like \"earned\") creates an error. We need another form of the verb that doesn&rsquo;t require a subject and can introduce descriptive information. Choice B is incorrect. The underlined verb is being used to introduce additional descriptive information, which is set off from the rest of the sentence by a comma. Because there is no subject here, a finite form of the verb (like \"had earned\") creates an error. We need another form of the verb that doesn&rsquo;t require a subject and can introduce descriptive information. Choice D is incorrect. The underlined verb is being used to introduce additional descriptive information, which is set off from the rest of the sentence by a comma. Because there is no subject here, a finite form of the verb (like \"earn\") creates an error. We need another form of the verb that doesn&rsquo;t require a subject and can introduce descriptive information.</p>"
+      }
+    ]
+  },
+  {
+    "question": "<p>In a study of new technology adoption, Davit Marikyan et al. examined negative disconfirmation (which occurs when experiences fall short of one&rsquo;s expectations) to determine whether it could lead to positive outcomes for users. The team focused on established users of&nbsp; &ldquo;smart home&rdquo; technology, which presents inherent utilization challenges but tends to attract users with high expectations, often leading to feelings of dissonance. The researchers found that many users employed cognitive mechanisms to mitigate those feelings, ultimately reversing their initial sense of disappointment.</p>\n\n<p>Which choice best states the main idea of the text?</p>",
+    "id": "019ac921-0417-431d-b0f1-852c3a8b3d26",
+    "options": [
+      {
+        "id": 1404804,
+        "content": "<p>Although most smart home technology is aimed at meeting or exceeding users&rsquo; high expectations, those expectations in general remain poorly understood.</p>",
+        "correct": false,
+        "order": 0,
+        "markscheme": "<p>Choice C is the best answer. The passage begins by describing the study, and concludes with its results: \"many users employed cognitive mechanisms to mitigate those feelings [of negative disconfirmation].\"</p><p>Choice A is incorrect. This is the opposite of what the text claims. Rather, the researchers found that \"many users\" reversed \"their initial sense of disappointment.\" Choice B is incorrect. This choice doesn&rsquo;t reflect the text. What the expectations of smart home tech users are is not discussed. Choice D is incorrect. This choice doesn&rsquo;t reflect the text. How often these topics have been studied is not mentioned.</p>"
+      },
+      {
+        "id": 1404805,
+        "content": "<p>Research suggests that users with high expectations for a new technology can feel content with that technology even after experiencing negative disconfirmation.</p>",
+        "correct": true,
+        "order": 1,
+        "markscheme": "<p>Choice C is the best answer. The passage begins by describing the study, and concludes with its results: \"many users employed cognitive mechanisms to mitigate those feelings [of negative disconfirmation].\"</p><p>Choice A is incorrect. This is the opposite of what the text claims. Rather, the researchers found that \"many users\" reversed \"their initial sense of disappointment.\" Choice B is incorrect. This choice doesn&rsquo;t reflect the text. What the expectations of smart home tech users are is not discussed. Choice D is incorrect. This choice doesn&rsquo;t reflect the text. How often these topics have been studied is not mentioned.</p>"
+      },
+      {
+        "id": 1404803,
+        "content": "<p>Research suggests that most users of smart home technology will not achieve a feeling of satisfaction given the utilization challenges of such technology.</p>",
+        "correct": false,
+        "order": 2,
+        "markscheme": "<p>Choice C is the best answer. The passage begins by describing the study, and concludes with its results: \"many users employed cognitive mechanisms to mitigate those feelings [of negative disconfirmation].\"</p><p>Choice A is incorrect. This is the opposite of what the text claims. Rather, the researchers found that \"many users\" reversed \"their initial sense of disappointment.\" Choice B is incorrect. This choice doesn&rsquo;t reflect the text. What the expectations of smart home tech users are is not discussed. Choice D is incorrect. This choice doesn&rsquo;t reflect the text. How often these topics have been studied is not mentioned.</p>"
+      },
+      {
+        "id": 1404806,
+        "content": "<p>Although negative disconfirmation has often been studied, little is known about the cognitive mechanisms shaping users&rsquo; reactions to it in the context of new technology adoption.</p>",
+        "correct": false,
+        "order": 3,
+        "markscheme": "<p>Choice C is the best answer. The passage begins by describing the study, and concludes with its results: \"many users employed cognitive mechanisms to mitigate those feelings [of negative disconfirmation].\"</p><p>Choice A is incorrect. This is the opposite of what the text claims. Rather, the researchers found that \"many users\" reversed \"their initial sense of disappointment.\" Choice B is incorrect. This choice doesn&rsquo;t reflect the text. What the expectations of smart home tech users are is not discussed. Choice D is incorrect. This choice doesn&rsquo;t reflect the text. How often these topics have been studied is not mentioned.</p>"
+      }
+    ]
+  },
+  {
+    "question": "<p>North American gray wolves usually have mixed gray and white fur, but some members of the species have a version of a gene, or gene variant, that gives them a mostly black coat instead. Sarah Cubaynes and her team studied twelve populations of North American gray wolves. They found that the black-furred wolves are more common in areas where outbreaks of distemper virus happen regularly. The team also discovered that the black-furred wolves are more likely to be immune to distemper than the gray-furred wolves are. Taken together, these findings suggest that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>\n\n<p>Which choice most logically completes the text?</p>",
+    "id": "01b5e2e5-7e79-4329-a564-4e7e1bee628c",
+    "options": [
+      {
+        "id": 1404297,
+        "content": "<p>the average life span of gray wolves is likely to increase over time because of a particular gene variant.</p>",
+        "correct": false,
+        "order": 0,
+        "markscheme": "<p>Choice B is the best answer. The text tells us that the black-furred wolves are more common in areas with regular outbreaks of distemper virus and are more likely to be immune to distemper than the gray-furred wolves. This suggests that the gene variant that results in black fur may be linked to immunity to the distemper virus.</p><p>Choice A is incorrect. The text never compares North American gray wolves to other wolf species&mdash;in fact, it never discusses other wolf species at all, so there&rsquo;s no basis for this inference. Choice C is incorrect. The life span of gray wolves is never mentioned in this text, so we have no basis for this inference. Choice D is incorrect. This is too extreme. The text says that \"black-furred wolves are more likely to be immune to distemper than the gray-furred wolves,\" but that alone doesn&rsquo;t mean that black-furred wolves will replace gray-furred wolves across North America.</p>"
+      },
+      {
+        "id": 1404296,
+        "content": "<p>the gene variant that results in black fur may be linked to immunity to the distemper virus.</p>",
+        "correct": true,
+        "order": 1,
+        "markscheme": "<p>Choice B is the best answer. The text tells us that the black-furred wolves are more common in areas with regular outbreaks of distemper virus and are more likely to be immune to distemper than the gray-furred wolves. This suggests that the gene variant that results in black fur may be linked to immunity to the distemper virus.</p><p>Choice A is incorrect. The text never compares North American gray wolves to other wolf species&mdash;in fact, it never discusses other wolf species at all, so there&rsquo;s no basis for this inference. Choice C is incorrect. The life span of gray wolves is never mentioned in this text, so we have no basis for this inference. Choice D is incorrect. This is too extreme. The text says that \"black-furred wolves are more likely to be immune to distemper than the gray-furred wolves,\" but that alone doesn&rsquo;t mean that black-furred wolves will replace gray-furred wolves across North America.</p>"
+      },
+      {
+        "id": 1404295,
+        "content": "<p>North American gray wolves experience more outbreaks of distemper virus than other wolf species do.</p>",
+        "correct": false,
+        "order": 2,
+        "markscheme": "<p>Choice B is the best answer. The text tells us that the black-furred wolves are more common in areas with regular outbreaks of distemper virus and are more likely to be immune to distemper than the gray-furred wolves. This suggests that the gene variant that results in black fur may be linked to immunity to the distemper virus.</p><p>Choice A is incorrect. The text never compares North American gray wolves to other wolf species&mdash;in fact, it never discusses other wolf species at all, so there&rsquo;s no basis for this inference. Choice C is incorrect. The life span of gray wolves is never mentioned in this text, so we have no basis for this inference. Choice D is incorrect. This is too extreme. The text says that \"black-furred wolves are more likely to be immune to distemper than the gray-furred wolves,\" but that alone doesn&rsquo;t mean that black-furred wolves will replace gray-furred wolves across North America.</p>"
+      },
+      {
+        "id": 1404298,
+        "content": "<p>gray-furred wolves will soon replace black-furred wolves across North America.</p>",
+        "correct": false,
+        "order": 3,
+        "markscheme": "<p>Choice B is the best answer. The text tells us that the black-furred wolves are more common in areas with regular outbreaks of distemper virus and are more likely to be immune to distemper than the gray-furred wolves. This suggests that the gene variant that results in black fur may be linked to immunity to the distemper virus.</p><p>Choice A is incorrect. The text never compares North American gray wolves to other wolf species&mdash;in fact, it never discusses other wolf species at all, so there&rsquo;s no basis for this inference. Choice C is incorrect. The life span of gray wolves is never mentioned in this text, so we have no basis for this inference. Choice D is incorrect. This is too extreme. The text says that \"black-furred wolves are more likely to be immune to distemper than the gray-furred wolves,\" but that alone doesn&rsquo;t mean that black-furred wolves will replace gray-furred wolves across North America.</p>"
+      }
+    ]
+  },
+  {
+    "question": "<p>The following text is from Shyam Selvadurai&rsquo;s 1994 novel <em>Funny Boy. </em>The seven-year-old narrator lives with his family in Sri Lanka. Radha Aunty is the narrator&rsquo;s aunt.</p>\n<p>Radha Aunty, who was the youngest in my father&rsquo;s family, had left for America four years ago when I was three, and I could not remember what she looked like. I went into the corridor to look at the family photographs that were hung there. But all the pictures were old ones, taken when Radha Aunty was a baby or young girl. Try as I might, I couldn&rsquo;t get an idea of what she looked like now. My imagination, however, was quick to fill in this void.</p>\n<p>&copy;1994 by Shyam Selvadurai.<em>&nbsp;</em></p>\n\n<p>According to the text, why does the narrator consult some family photographs?</p>",
+    "id": "02a0245f-2f1b-44db-8917-b1860ab11294",
+    "options": [
+      {
+        "id": 1404532,
+        "content": "<p>He is curious about how his father dressed a long time ago.&nbsp;</p>",
+        "correct": false,
+        "order": 0,
+        "markscheme": "<p>Choice C is the best answer. The text states that the narrator couldn&rsquo;t remember what his Radha Aunty looked like, so he went to look at the family photographs she was in. </p><p>Choice A is incorrect. There&rsquo;s no mention of any story that the narrator is writing. Rather, we&rsquo;re told that the narrator couldn&rsquo;t remember what his aunt looked like, so he went to look at the family photographs she was in. Choice B is incorrect. The text doesn&rsquo;t mention how the narrator&rsquo;s father dressed. Rather, we&rsquo;re told that the narrator couldn&rsquo;t remember what his aunt looked like, so he went to look at the family photographs she was in. Choice D is incorrect. The text doesn&rsquo;t mention any events shown in the photographs. Rather, we&rsquo;re told that the narrator couldn&rsquo;t remember what his aunt looked like, so he went to look at the family photographs she was in. </p>"
+      },
+      {
+        "id": 1404531,
+        "content": "<p>He wants to use the photographs as inspiration for a story he is writing.&nbsp;</p>",
+        "correct": false,
+        "order": 1,
+        "markscheme": "<p>Choice C is the best answer. The text states that the narrator couldn&rsquo;t remember what his Radha Aunty looked like, so he went to look at the family photographs she was in. </p><p>Choice A is incorrect. There&rsquo;s no mention of any story that the narrator is writing. Rather, we&rsquo;re told that the narrator couldn&rsquo;t remember what his aunt looked like, so he went to look at the family photographs she was in. Choice B is incorrect. The text doesn&rsquo;t mention how the narrator&rsquo;s father dressed. Rather, we&rsquo;re told that the narrator couldn&rsquo;t remember what his aunt looked like, so he went to look at the family photographs she was in. Choice D is incorrect. The text doesn&rsquo;t mention any events shown in the photographs. Rather, we&rsquo;re told that the narrator couldn&rsquo;t remember what his aunt looked like, so he went to look at the family photographs she was in. </p>"
+      },
+      {
+        "id": 1404534,
+        "content": "<p>He wants to remind his aunt of an event that is shown in an old photograph.&nbsp;</p>",
+        "correct": false,
+        "order": 2,
+        "markscheme": "<p>Choice C is the best answer. The text states that the narrator couldn&rsquo;t remember what his Radha Aunty looked like, so he went to look at the family photographs she was in. </p><p>Choice A is incorrect. There&rsquo;s no mention of any story that the narrator is writing. Rather, we&rsquo;re told that the narrator couldn&rsquo;t remember what his aunt looked like, so he went to look at the family photographs she was in. Choice B is incorrect. The text doesn&rsquo;t mention how the narrator&rsquo;s father dressed. Rather, we&rsquo;re told that the narrator couldn&rsquo;t remember what his aunt looked like, so he went to look at the family photographs she was in. Choice D is incorrect. The text doesn&rsquo;t mention any events shown in the photographs. Rather, we&rsquo;re told that the narrator couldn&rsquo;t remember what his aunt looked like, so he went to look at the family photographs she was in. </p>"
+      },
+      {
+        "id": 1404533,
+        "content": "<p>He hopes the photographs will help him recall what his aunt looked like. &nbsp;</p>",
+        "correct": true,
+        "order": 3,
+        "markscheme": "<p>Choice C is the best answer. The text states that the narrator couldn&rsquo;t remember what his Radha Aunty looked like, so he went to look at the family photographs she was in. </p><p>Choice A is incorrect. There&rsquo;s no mention of any story that the narrator is writing. Rather, we&rsquo;re told that the narrator couldn&rsquo;t remember what his aunt looked like, so he went to look at the family photographs she was in. Choice B is incorrect. The text doesn&rsquo;t mention how the narrator&rsquo;s father dressed. Rather, we&rsquo;re told that the narrator couldn&rsquo;t remember what his aunt looked like, so he went to look at the family photographs she was in. Choice D is incorrect. The text doesn&rsquo;t mention any events shown in the photographs. Rather, we&rsquo;re told that the narrator couldn&rsquo;t remember what his aunt looked like, so he went to look at the family photographs she was in. </p>"
+      }
+    ]
+  },
+  {
+    "question": "<p><strong><span role=\"heading\" aria-level=\"2\">Text 1</span></strong></p>\n<p>For decades, bluegrass musicians have debated whether their genre should exclude influences from mainstream genres such as rock. Many insist that bluegrass is defined by its adherence to the folk music of the US South, out of which bluegrass emerged. Such &ldquo;purists,&rdquo; as they are known, regard the recordings of Bill Monroe, which established the bluegrass sound in the 1940s, as a standard against which the genre should still be measured.</p>\n<p>&nbsp;</p>\n<p><strong><span role=\"heading\" aria-level=\"2\">Text 2</span></strong></p>\n<p>Bluegrass isn&rsquo;t simply an extension of folk traditions into the era of recorded music. In reality, Bill Monroe created the bluegrass sound in the 1940s by combining Southern folk music with commercial genres that had arisen only a few decades before, such as jazz and the blues. Since bluegrass has always been a mixed genre, contemporary bluegrass musicians should not be forbidden from incorporating into it influences from rock and other mainstream genres.</p>\n\n<p>Based on the texts, how would the author of Text 2 most likely regard the perspective of bluegrass purists, as described in Text 1?</p>",
+    "id": "02af92f5-b50f-413c-a1e9-100245d54172",
+    "options": [
+      {
+        "id": 1405501,
+        "content": "<p>As shortsighted, because bluegrass could enlarge its audience by including influences from mainstream genres</p>",
+        "correct": false,
+        "order": 0,
+        "markscheme": "<p>Choice D is the best answer. According to Author 1, the &ldquo;purists&rdquo; argue that bluegrass should stick to its folk music roots. But Author 2 points out that this isn&rsquo;t how bluegrass emerged: it actually got its sound from a mix of folk, jazz, and blues. </p><p>Choice A is incorrect. There&rsquo;s nothing in Text 2 about what other genres the purists enjoy, so this inference about Author 2&rsquo;s views isn&rsquo;t supported. Choice B is incorrect. There&rsquo;s nothing in Text 2 about whether or how purists can enforce their preferences, so this inference about Author 2&rsquo;s views isn&rsquo;t supported. Choice C is incorrect. There&rsquo;s nothing in Text 2 about the size of bluegrass&rsquo;s audience, so this inference about Author 2&rsquo;s views isn&rsquo;t supported. </p>"
+      },
+      {
+        "id": 1405500,
+        "content": "<p>As unrealistic, since bluegrass purists have no way of enforcing their musical preferences</p>",
+        "correct": false,
+        "order": 1,
+        "markscheme": "<p>Choice D is the best answer. According to Author 1, the &ldquo;purists&rdquo; argue that bluegrass should stick to its folk music roots. But Author 2 points out that this isn&rsquo;t how bluegrass emerged: it actually got its sound from a mix of folk, jazz, and blues. </p><p>Choice A is incorrect. There&rsquo;s nothing in Text 2 about what other genres the purists enjoy, so this inference about Author 2&rsquo;s views isn&rsquo;t supported. Choice B is incorrect. There&rsquo;s nothing in Text 2 about whether or how purists can enforce their preferences, so this inference about Author 2&rsquo;s views isn&rsquo;t supported. Choice C is incorrect. There&rsquo;s nothing in Text 2 about the size of bluegrass&rsquo;s audience, so this inference about Author 2&rsquo;s views isn&rsquo;t supported. </p>"
+      },
+      {
+        "id": 1405499,
+        "content": "<p>As inconsistent, since bluegrass purists themselves enjoy other musical genres</p>",
+        "correct": false,
+        "order": 2,
+        "markscheme": "<p>Choice D is the best answer. According to Author 1, the &ldquo;purists&rdquo; argue that bluegrass should stick to its folk music roots. But Author 2 points out that this isn&rsquo;t how bluegrass emerged: it actually got its sound from a mix of folk, jazz, and blues. </p><p>Choice A is incorrect. There&rsquo;s nothing in Text 2 about what other genres the purists enjoy, so this inference about Author 2&rsquo;s views isn&rsquo;t supported. Choice B is incorrect. There&rsquo;s nothing in Text 2 about whether or how purists can enforce their preferences, so this inference about Author 2&rsquo;s views isn&rsquo;t supported. Choice C is incorrect. There&rsquo;s nothing in Text 2 about the size of bluegrass&rsquo;s audience, so this inference about Author 2&rsquo;s views isn&rsquo;t supported. </p>"
+      },
+      {
+        "id": 1405502,
+        "content": "<p>As illogical, because the purists overlook crucial aspects of how the bluegrass sound first originated.</p>",
+        "correct": true,
+        "order": 3,
+        "markscheme": "<p>Choice D is the best answer. According to Author 1, the &ldquo;purists&rdquo; argue that bluegrass should stick to its folk music roots. But Author 2 points out that this isn&rsquo;t how bluegrass emerged: it actually got its sound from a mix of folk, jazz, and blues. </p><p>Choice A is incorrect. There&rsquo;s nothing in Text 2 about what other genres the purists enjoy, so this inference about Author 2&rsquo;s views isn&rsquo;t supported. Choice B is incorrect. There&rsquo;s nothing in Text 2 about whether or how purists can enforce their preferences, so this inference about Author 2&rsquo;s views isn&rsquo;t supported. Choice C is incorrect. There&rsquo;s nothing in Text 2 about the size of bluegrass&rsquo;s audience, so this inference about Author 2&rsquo;s views isn&rsquo;t supported. </p>"
+      }
+    ]
+  },
+  {
+    "question": "<p>Winding through the ice atop Norway&rsquo;s Jotunheim Mountains is the Lendbreen pass, an ancient route that was used by hunters, farmers, traders, and travelers in the Middle Ages before eventually falling into disuse. Recently, archeologists have <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> knives, horseshoes, wool tunics, and thousands of other artifacts from the icy pass.</p>\n\n<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "id": "032bba71-97e5-4c15-91ad-c362e00f8be4",
+    "options": [
+      {
+        "id": 1407347,
+        "content": "<p>unearthed:</p>",
+        "correct": false,
+        "order": 0,
+        "markscheme": "<p>Choice D is the best answer. No punctuation should separate the verb \"unearthed\" and its objects (i.e, what was \"unearthed\"): \"knives, horseshoes, wool tunics, and thousands of other artifacts.\"</p><p>Choice A is incorrect. This choice creates a punctuation error, separating the verb \"unearthed\" from its objects (i.e, what was \"unearthed\") with a colon. Choice B is incorrect. This choice creates a punctuation error, separating the verb \"unearthed\" from its objects (i.e, what was \"unearthed\") with a comma. Choice C is incorrect. This choice creates a punctuation error, separating the verb \"unearthed\" from its objects (i.e, what was \"unearthed\") with a dash.</p>"
+      },
+      {
+        "id": 1407348,
+        "content": "<p>unearthed,</p>",
+        "correct": false,
+        "order": 1,
+        "markscheme": "<p>Choice D is the best answer. No punctuation should separate the verb \"unearthed\" and its objects (i.e, what was \"unearthed\"): \"knives, horseshoes, wool tunics, and thousands of other artifacts.\"</p><p>Choice A is incorrect. This choice creates a punctuation error, separating the verb \"unearthed\" from its objects (i.e, what was \"unearthed\") with a colon. Choice B is incorrect. This choice creates a punctuation error, separating the verb \"unearthed\" from its objects (i.e, what was \"unearthed\") with a comma. Choice C is incorrect. This choice creates a punctuation error, separating the verb \"unearthed\" from its objects (i.e, what was \"unearthed\") with a dash.</p>"
+      },
+      {
+        "id": 1407350,
+        "content": "<p>unearthed</p>",
+        "correct": true,
+        "order": 2,
+        "markscheme": "<p>Choice D is the best answer. No punctuation should separate the verb \"unearthed\" and its objects (i.e, what was \"unearthed\"): \"knives, horseshoes, wool tunics, and thousands of other artifacts.\"</p><p>Choice A is incorrect. This choice creates a punctuation error, separating the verb \"unearthed\" from its objects (i.e, what was \"unearthed\") with a colon. Choice B is incorrect. This choice creates a punctuation error, separating the verb \"unearthed\" from its objects (i.e, what was \"unearthed\") with a comma. Choice C is incorrect. This choice creates a punctuation error, separating the verb \"unearthed\" from its objects (i.e, what was \"unearthed\") with a dash.</p>"
+      },
+      {
+        "id": 1407349,
+        "content": "<p>unearthed&mdash;</p>",
+        "correct": false,
+        "order": 3,
+        "markscheme": "<p>Choice D is the best answer. No punctuation should separate the verb \"unearthed\" and its objects (i.e, what was \"unearthed\"): \"knives, horseshoes, wool tunics, and thousands of other artifacts.\"</p><p>Choice A is incorrect. This choice creates a punctuation error, separating the verb \"unearthed\" from its objects (i.e, what was \"unearthed\") with a colon. Choice B is incorrect. This choice creates a punctuation error, separating the verb \"unearthed\" from its objects (i.e, what was \"unearthed\") with a comma. Choice C is incorrect. This choice creates a punctuation error, separating the verb \"unearthed\" from its objects (i.e, what was \"unearthed\") with a dash.</p>"
+      }
+    ]
+  },
+  {
+    "question": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>In the early 1960s, the US had a strict national-origins quota system for immigrants.</li>\n<li>The number of new immigrants allowed from a country each year was based on how many people from that country lived in the US in 1890.</li>\n<li>This system favored immigrants from northern Europe.</li>\n<li>Almost 70% of slots were reserved for immigrants from Great Britain, Ireland, and Germany.</li>\n<li>The 1965 Hart-Celler Act abolished the national-origins quota system.</li>\n</ul>\n\n<p>The student wants to present the significance of the Hart-Celler Act to an audience unfamiliar with the history of US immigration. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+    "id": "0349181d-9f8b-4b67-8bff-efdbe1ac5fe0",
+    "options": [
+      {
+        "id": 1406312,
+        "content": "<p>Prior to the Hart-Celler Act, new immigration quotas were based on how many people from each country lived in the US in 1890.</p>",
+        "correct": false,
+        "order": 0,
+        "markscheme": "<p>Choice D is the best answer. The sentence presents the significance of the Hart-Celler Act to an audience unfamiliar with the history of US immigration, noting that the 1965 act abolished the national-origins quota system and explaining why that mattered, historically: because the old quota system had favored immigrants from northern Europe. </p><p>Choice A is incorrect. The sentence describes an aspect of immigration policy at the time the Hart-Celler Act was proposed; it doesn&rsquo;t present the significance of the Hart-Celler Act to an audience unfamiliar with the history of US immigration. Choice B is incorrect. The sentence describes an aspect of immigration policy before the Hart-Celler Act; it doesn&rsquo;t describe or present the significance of the act to an audience unfamiliar with the history of US immigration. Choice C is incorrect. While the sentence indicates that the Hart-Celler Act abolished the old quota system, it doesn&rsquo;t explain the act or the quota system to an audience unfamiliar with the history of US immigration. </p>"
+      },
+      {
+        "id": 1406314,
+        "content": "<p>The 1965 Hart-Celler Act abolished the national-origins quota system, which favored immigrants from northern Europe.</p>",
+        "correct": true,
+        "order": 1,
+        "markscheme": "<p>Choice D is the best answer. The sentence presents the significance of the Hart-Celler Act to an audience unfamiliar with the history of US immigration, noting that the 1965 act abolished the national-origins quota system and explaining why that mattered, historically: because the old quota system had favored immigrants from northern Europe. </p><p>Choice A is incorrect. The sentence describes an aspect of immigration policy at the time the Hart-Celler Act was proposed; it doesn&rsquo;t present the significance of the Hart-Celler Act to an audience unfamiliar with the history of US immigration. Choice B is incorrect. The sentence describes an aspect of immigration policy before the Hart-Celler Act; it doesn&rsquo;t describe or present the significance of the act to an audience unfamiliar with the history of US immigration. Choice C is incorrect. While the sentence indicates that the Hart-Celler Act abolished the old quota system, it doesn&rsquo;t explain the act or the quota system to an audience unfamiliar with the history of US immigration. </p>"
+      },
+      {
+        "id": 1406313,
+        "content": "<p>The quota system in place in the early 1960s was abolished by the 1965 Hart-Celler Act.&nbsp;</p>",
+        "correct": false,
+        "order": 2,
+        "markscheme": "<p>Choice D is the best answer. The sentence presents the significance of the Hart-Celler Act to an audience unfamiliar with the history of US immigration, noting that the 1965 act abolished the national-origins quota system and explaining why that mattered, historically: because the old quota system had favored immigrants from northern Europe. </p><p>Choice A is incorrect. The sentence describes an aspect of immigration policy at the time the Hart-Celler Act was proposed; it doesn&rsquo;t present the significance of the Hart-Celler Act to an audience unfamiliar with the history of US immigration. Choice B is incorrect. The sentence describes an aspect of immigration policy before the Hart-Celler Act; it doesn&rsquo;t describe or present the significance of the act to an audience unfamiliar with the history of US immigration. Choice C is incorrect. While the sentence indicates that the Hart-Celler Act abolished the old quota system, it doesn&rsquo;t explain the act or the quota system to an audience unfamiliar with the history of US immigration. </p>"
+      },
+      {
+        "id": 1406311,
+        "content": "<p>Almost 70% of slots were reserved for immigrants from Great Britain, Ireland, and Germany at the time the Hart-Celler Act was proposed.</p>",
+        "correct": false,
+        "order": 3,
+        "markscheme": "<p>Choice D is the best answer. The sentence presents the significance of the Hart-Celler Act to an audience unfamiliar with the history of US immigration, noting that the 1965 act abolished the national-origins quota system and explaining why that mattered, historically: because the old quota system had favored immigrants from northern Europe. </p><p>Choice A is incorrect. The sentence describes an aspect of immigration policy at the time the Hart-Celler Act was proposed; it doesn&rsquo;t present the significance of the Hart-Celler Act to an audience unfamiliar with the history of US immigration. Choice B is incorrect. The sentence describes an aspect of immigration policy before the Hart-Celler Act; it doesn&rsquo;t describe or present the significance of the act to an audience unfamiliar with the history of US immigration. Choice C is incorrect. While the sentence indicates that the Hart-Celler Act abolished the old quota system, it doesn&rsquo;t explain the act or the quota system to an audience unfamiliar with the history of US immigration. </p>"
+      }
+    ]
+  },
+  {
+    "question": "<p>Following the principles of community-based participatory research, tribal nations and research institutions are equal partners in health studies conducted on reservations. A collaboration between the Crow Tribe and Montana State University &shy;&shy;&shy;&shy;<span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> this model: tribal citizens worked alongside scientists to design the methodology and continue to assist in data collection.</p>\n\n<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "id": "0355f449-69a4-47b1-b6b9-901461f3f09a",
+    "options": [
+      {
+        "id": 1405177,
+        "content": "<p>fabricates</p>",
+        "correct": false,
+        "order": 0,
+        "markscheme": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of the collaboration between the Crow Tribe and Montana State University. As used in this context, &ldquo;exemplifies&rdquo; means demonstrates. The text conveys how the Crow Tribe&ndash;Montana State University collaboration serves to illustrate the model of community-based participatory research introduced earlier in the text and expanded on later in the text.&nbsp;</p><p>Choice A is incorrect because referring to &ldquo;circumvents,&rdquo; or avoids, wouldn&rsquo;t make sense in context. The text suggests that the Crow Tribe&ndash;Montana State University collaboration serves as an example of the principles of community-based participatory research, not that the collaboration evades this model.&nbsp;Choice B is incorrect because referring to &ldquo;eclipses,&rdquo; or overshadows, wouldn&rsquo;t make sense in context. The text describes the Crow Tribe&ndash;Montana State University collaboration as an equal partnership, which indicates that it&rsquo;s an example of the community-based participatory research model, not that it overshadows the model.&nbsp;Choice C is incorrect because saying that the collaboration &ldquo;fabricates,&rdquo; or creates, the model wouldn&rsquo;t make sense in context. The text indicates that the Crow Tribe&ndash;Montana State University collaboration serves as an example of the model, not that it created the model.&nbsp;</p>"
+      },
+      {
+        "id": 1405176,
+        "content": "<p>eclipses</p>",
+        "correct": false,
+        "order": 1,
+        "markscheme": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of the collaboration between the Crow Tribe and Montana State University. As used in this context, &ldquo;exemplifies&rdquo; means demonstrates. The text conveys how the Crow Tribe&ndash;Montana State University collaboration serves to illustrate the model of community-based participatory research introduced earlier in the text and expanded on later in the text.&nbsp;</p><p>Choice A is incorrect because referring to &ldquo;circumvents,&rdquo; or avoids, wouldn&rsquo;t make sense in context. The text suggests that the Crow Tribe&ndash;Montana State University collaboration serves as an example of the principles of community-based participatory research, not that the collaboration evades this model.&nbsp;Choice B is incorrect because referring to &ldquo;eclipses,&rdquo; or overshadows, wouldn&rsquo;t make sense in context. The text describes the Crow Tribe&ndash;Montana State University collaboration as an equal partnership, which indicates that it&rsquo;s an example of the community-based participatory research model, not that it overshadows the model.&nbsp;Choice C is incorrect because saying that the collaboration &ldquo;fabricates,&rdquo; or creates, the model wouldn&rsquo;t make sense in context. The text indicates that the Crow Tribe&ndash;Montana State University collaboration serves as an example of the model, not that it created the model.&nbsp;</p>"
+      },
+      {
+        "id": 1405175,
+        "content": "<p>circumvents</p>",
+        "correct": false,
+        "order": 2,
+        "markscheme": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of the collaboration between the Crow Tribe and Montana State University. As used in this context, &ldquo;exemplifies&rdquo; means demonstrates. The text conveys how the Crow Tribe&ndash;Montana State University collaboration serves to illustrate the model of community-based participatory research introduced earlier in the text and expanded on later in the text.&nbsp;</p><p>Choice A is incorrect because referring to &ldquo;circumvents,&rdquo; or avoids, wouldn&rsquo;t make sense in context. The text suggests that the Crow Tribe&ndash;Montana State University collaboration serves as an example of the principles of community-based participatory research, not that the collaboration evades this model.&nbsp;Choice B is incorrect because referring to &ldquo;eclipses,&rdquo; or overshadows, wouldn&rsquo;t make sense in context. The text describes the Crow Tribe&ndash;Montana State University collaboration as an equal partnership, which indicates that it&rsquo;s an example of the community-based participatory research model, not that it overshadows the model.&nbsp;Choice C is incorrect because saying that the collaboration &ldquo;fabricates,&rdquo; or creates, the model wouldn&rsquo;t make sense in context. The text indicates that the Crow Tribe&ndash;Montana State University collaboration serves as an example of the model, not that it created the model.&nbsp;</p>"
+      },
+      {
+        "id": 1405178,
+        "content": "<p>exemplifies</p>",
+        "correct": true,
+        "order": 3,
+        "markscheme": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of the collaboration between the Crow Tribe and Montana State University. As used in this context, &ldquo;exemplifies&rdquo; means demonstrates. The text conveys how the Crow Tribe&ndash;Montana State University collaboration serves to illustrate the model of community-based participatory research introduced earlier in the text and expanded on later in the text.&nbsp;</p><p>Choice A is incorrect because referring to &ldquo;circumvents,&rdquo; or avoids, wouldn&rsquo;t make sense in context. The text suggests that the Crow Tribe&ndash;Montana State University collaboration serves as an example of the principles of community-based participatory research, not that the collaboration evades this model.&nbsp;Choice B is incorrect because referring to &ldquo;eclipses,&rdquo; or overshadows, wouldn&rsquo;t make sense in context. The text describes the Crow Tribe&ndash;Montana State University collaboration as an equal partnership, which indicates that it&rsquo;s an example of the community-based participatory research model, not that it overshadows the model.&nbsp;Choice C is incorrect because saying that the collaboration &ldquo;fabricates,&rdquo; or creates, the model wouldn&rsquo;t make sense in context. The text indicates that the Crow Tribe&ndash;Montana State University collaboration serves as an example of the model, not that it created the model.&nbsp;</p>"
+      }
+    ]
+  },
+  {
+    "question": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>John Carver was one of the 41 signatories of the Mayflower Compact.</li>\n<li>The Mayflower Compact was a legal agreement among the pilgrims that immigrated to Plymouth Colony.</li>\n<li>It was created in 1620 to establish a common government.</li>\n<li>It states that the pilgrims who signed it wanted to &ldquo;plant the first colony in the northern parts of Virginia&rdquo; under King James.</li>\n<li>Carver became the first governor of Plymouth Colony.</li>\n</ul>\n\n<p>The student wants to specify the reason the Mayflower Compact was created. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+    "id": "041ed708-877e-4e1f-bf16-a6ffb4791bc9",
+    "options": [
+      {
+        "id": 1406175,
+        "content": "<p>Stating that its signatories wanted to &ldquo;plant the first colony in the northern parts of Virginia,&rdquo; the Mayflower Compact was a legal agreement among the pilgrims that immigrated to Plymouth Colony.</p>",
+        "correct": false,
+        "order": 0,
+        "markscheme": "<p>Choice C is the best answer. The sentence specifies the reason the Mayflower Compact was created, noting that it was created to establish a common government among the pilgrims that immigrated to Plymouth Colony. </p><p>Choice A is incorrect. While the sentence provides background information about the Mayflower Compact and notes the signatories&rsquo; goal for the colony, it doesn&rsquo;t specify why the compact was created. Choice B is incorrect. While the sentence provides background information about the Mayflower Compact and notes the signatories&rsquo; goal for the colony, it doesn&rsquo;t specify why the compact was created. Choice D is incorrect. The sentence specifies the number of pilgrims that signed the Mayflower Compact; it doesn&rsquo;t specify the reason the compact was created. </p>"
+      },
+      {
+        "id": 1406176,
+        "content": "<p>Created in 1620, the Mayflower Compact states that the pilgrims wanted to &ldquo;plant the first colony in the northern parts of Virginia.&rdquo;</p>",
+        "correct": false,
+        "order": 1,
+        "markscheme": "<p>Choice C is the best answer. The sentence specifies the reason the Mayflower Compact was created, noting that it was created to establish a common government among the pilgrims that immigrated to Plymouth Colony. </p><p>Choice A is incorrect. While the sentence provides background information about the Mayflower Compact and notes the signatories&rsquo; goal for the colony, it doesn&rsquo;t specify why the compact was created. Choice B is incorrect. While the sentence provides background information about the Mayflower Compact and notes the signatories&rsquo; goal for the colony, it doesn&rsquo;t specify why the compact was created. Choice D is incorrect. The sentence specifies the number of pilgrims that signed the Mayflower Compact; it doesn&rsquo;t specify the reason the compact was created. </p>"
+      },
+      {
+        "id": 1406177,
+        "content": "<p>The Mayflower Compact was created to establish a common government among the pilgrims that immigrated to Plymouth Colony.</p>",
+        "correct": true,
+        "order": 2,
+        "markscheme": "<p>Choice C is the best answer. The sentence specifies the reason the Mayflower Compact was created, noting that it was created to establish a common government among the pilgrims that immigrated to Plymouth Colony. </p><p>Choice A is incorrect. While the sentence provides background information about the Mayflower Compact and notes the signatories&rsquo; goal for the colony, it doesn&rsquo;t specify why the compact was created. Choice B is incorrect. While the sentence provides background information about the Mayflower Compact and notes the signatories&rsquo; goal for the colony, it doesn&rsquo;t specify why the compact was created. Choice D is incorrect. The sentence specifies the number of pilgrims that signed the Mayflower Compact; it doesn&rsquo;t specify the reason the compact was created. </p>"
+      },
+      {
+        "id": 1406178,
+        "content": "<p>The Mayflower Compact had 41 signatories, including John Carver, the first governor of Plymouth Colony.</p>",
+        "correct": false,
+        "order": 3,
+        "markscheme": "<p>Choice C is the best answer. The sentence specifies the reason the Mayflower Compact was created, noting that it was created to establish a common government among the pilgrims that immigrated to Plymouth Colony. </p><p>Choice A is incorrect. While the sentence provides background information about the Mayflower Compact and notes the signatories&rsquo; goal for the colony, it doesn&rsquo;t specify why the compact was created. Choice B is incorrect. While the sentence provides background information about the Mayflower Compact and notes the signatories&rsquo; goal for the colony, it doesn&rsquo;t specify why the compact was created. Choice D is incorrect. The sentence specifies the number of pilgrims that signed the Mayflower Compact; it doesn&rsquo;t specify the reason the compact was created. </p>"
+      }
+    ]
+  },
+  {
+    "question": "<p>In 1881, French chemist Camille Faure redesigned the rechargeable lead-acid battery. Faure&rsquo;s design greatly increased the amount of electricity that the original battery, which the French physicist Gaston Plant&eacute; <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> fifteen years earlier, could hold.</p>\n\n<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "id": "0433b9ec-97a5-4f2f-871b-9e09ab475baf",
+    "options": [
+      {
+        "id": 1407527,
+        "content": "<p>is inventing</p>",
+        "correct": false,
+        "order": 0,
+        "markscheme": "<p>Choice D is the best answer. Faure redesigned the battery in 1881, and the original battery was invented &ldquo;fifteen years earlier.&rdquo; Notice that this is the only choice in the past tense. To indicate that a past occurrence took place before another past occurrence, we need to use &ldquo;had&rdquo; + the past tense form of the verb. This is called the &ldquo;past perfect&rdquo; tense. </p><p>Choice A is incorrect. This choice creates a tense error. Plant&eacute; invented the original battery in the past, so we shouldn&rsquo;t use the present tense &ldquo;is inventing.&rdquo; Choice B is incorrect. This choice creates a tense error. Plant&eacute; invented the original battery in the past, so we shouldn&rsquo;t use the future tense &ldquo;will invent.&rdquo; Choice C is incorrect. This choice creates a tense error. Plant&eacute; invented the original battery in the past, so we shouldn&rsquo;t use the present tense &ldquo;invents.&rdquo; </p>"
+      },
+      {
+        "id": 1407528,
+        "content": "<p>will invent</p>",
+        "correct": false,
+        "order": 1,
+        "markscheme": "<p>Choice D is the best answer. Faure redesigned the battery in 1881, and the original battery was invented &ldquo;fifteen years earlier.&rdquo; Notice that this is the only choice in the past tense. To indicate that a past occurrence took place before another past occurrence, we need to use &ldquo;had&rdquo; + the past tense form of the verb. This is called the &ldquo;past perfect&rdquo; tense. </p><p>Choice A is incorrect. This choice creates a tense error. Plant&eacute; invented the original battery in the past, so we shouldn&rsquo;t use the present tense &ldquo;is inventing.&rdquo; Choice B is incorrect. This choice creates a tense error. Plant&eacute; invented the original battery in the past, so we shouldn&rsquo;t use the future tense &ldquo;will invent.&rdquo; Choice C is incorrect. This choice creates a tense error. Plant&eacute; invented the original battery in the past, so we shouldn&rsquo;t use the present tense &ldquo;invents.&rdquo; </p>"
+      },
+      {
+        "id": 1407529,
+        "content": "<p>invents</p>",
+        "correct": false,
+        "order": 2,
+        "markscheme": "<p>Choice D is the best answer. Faure redesigned the battery in 1881, and the original battery was invented &ldquo;fifteen years earlier.&rdquo; Notice that this is the only choice in the past tense. To indicate that a past occurrence took place before another past occurrence, we need to use &ldquo;had&rdquo; + the past tense form of the verb. This is called the &ldquo;past perfect&rdquo; tense. </p><p>Choice A is incorrect. This choice creates a tense error. Plant&eacute; invented the original battery in the past, so we shouldn&rsquo;t use the present tense &ldquo;is inventing.&rdquo; Choice B is incorrect. This choice creates a tense error. Plant&eacute; invented the original battery in the past, so we shouldn&rsquo;t use the future tense &ldquo;will invent.&rdquo; Choice C is incorrect. This choice creates a tense error. Plant&eacute; invented the original battery in the past, so we shouldn&rsquo;t use the present tense &ldquo;invents.&rdquo; </p>"
+      },
+      {
+        "id": 1407530,
+        "content": "<p>had invented</p>",
+        "correct": true,
+        "order": 3,
+        "markscheme": "<p>Choice D is the best answer. Faure redesigned the battery in 1881, and the original battery was invented &ldquo;fifteen years earlier.&rdquo; Notice that this is the only choice in the past tense. To indicate that a past occurrence took place before another past occurrence, we need to use &ldquo;had&rdquo; + the past tense form of the verb. This is called the &ldquo;past perfect&rdquo; tense. </p><p>Choice A is incorrect. This choice creates a tense error. Plant&eacute; invented the original battery in the past, so we shouldn&rsquo;t use the present tense &ldquo;is inventing.&rdquo; Choice B is incorrect. This choice creates a tense error. Plant&eacute; invented the original battery in the past, so we shouldn&rsquo;t use the future tense &ldquo;will invent.&rdquo; Choice C is incorrect. This choice creates a tense error. Plant&eacute; invented the original battery in the past, so we shouldn&rsquo;t use the present tense &ldquo;invents.&rdquo; </p>"
+      }
+    ]
+  },
+  {
+    "question": "<p>American writer Edwidge Danticat, who emigrated from Haiti in 1981, has won acclaim for her powerful short stories, novels, and <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> her lyrical yet unflinching depictions of her native country&rsquo;s turbulent history, writer Robert Antoni has compared Danticat to Nobel Prize&ndash;winning novelist Toni Morrison. </p>\n\n<p>Which choice completes the text so that it conforms to the conventions of Standard English?&nbsp;</p>",
+    "id": "044b980a-59f5-470a-9e5a-ca00d50b27c1",
+    "options": [
+      {
+        "id": 1407287,
+        "content": "<p>essays, praising</p>",
+        "correct": false,
+        "order": 0,
+        "markscheme": "<p>Choice D is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period after &ldquo;essays&rdquo; is used correctly to mark the boundary between one sentence (&ldquo;American&hellip;essays&rdquo;) and another (&ldquo;praising&hellip;Morrison&rdquo;). The participial phrase beginning with &ldquo;Praising&rdquo; modifies the subject of the second sentence, &ldquo;writer Robert Antoni.&rdquo; </p><p>Choice A is incorrect because it results in a comma splice. A comma can&rsquo;t be used in this way to mark the boundary between sentences. Choice B is incorrect. Without a comma preceding it, the conjunction &ldquo;and&rdquo; can&rsquo;t be used in this way to join sentences. Choice C is incorrect because it results in a run-on sentence. The sentences (&ldquo;American&hellip;essays&rdquo; and &ldquo;Praising&hellip;Morrison&rdquo;) are fused without punctuation and/or a conjunction. </p>"
+      },
+      {
+        "id": 1407288,
+        "content": "<p>essays and praising</p>",
+        "correct": false,
+        "order": 1,
+        "markscheme": "<p>Choice D is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period after &ldquo;essays&rdquo; is used correctly to mark the boundary between one sentence (&ldquo;American&hellip;essays&rdquo;) and another (&ldquo;praising&hellip;Morrison&rdquo;). The participial phrase beginning with &ldquo;Praising&rdquo; modifies the subject of the second sentence, &ldquo;writer Robert Antoni.&rdquo; </p><p>Choice A is incorrect because it results in a comma splice. A comma can&rsquo;t be used in this way to mark the boundary between sentences. Choice B is incorrect. Without a comma preceding it, the conjunction &ldquo;and&rdquo; can&rsquo;t be used in this way to join sentences. Choice C is incorrect because it results in a run-on sentence. The sentences (&ldquo;American&hellip;essays&rdquo; and &ldquo;Praising&hellip;Morrison&rdquo;) are fused without punctuation and/or a conjunction. </p>"
+      },
+      {
+        "id": 1407289,
+        "content": "<p>essays praising</p>",
+        "correct": false,
+        "order": 2,
+        "markscheme": "<p>Choice D is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period after &ldquo;essays&rdquo; is used correctly to mark the boundary between one sentence (&ldquo;American&hellip;essays&rdquo;) and another (&ldquo;praising&hellip;Morrison&rdquo;). The participial phrase beginning with &ldquo;Praising&rdquo; modifies the subject of the second sentence, &ldquo;writer Robert Antoni.&rdquo; </p><p>Choice A is incorrect because it results in a comma splice. A comma can&rsquo;t be used in this way to mark the boundary between sentences. Choice B is incorrect. Without a comma preceding it, the conjunction &ldquo;and&rdquo; can&rsquo;t be used in this way to join sentences. Choice C is incorrect because it results in a run-on sentence. The sentences (&ldquo;American&hellip;essays&rdquo; and &ldquo;Praising&hellip;Morrison&rdquo;) are fused without punctuation and/or a conjunction. </p>"
+      },
+      {
+        "id": 1407290,
+        "content": "<p>essays. Praising</p>",
+        "correct": true,
+        "order": 3,
+        "markscheme": "<p>Choice D is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period after &ldquo;essays&rdquo; is used correctly to mark the boundary between one sentence (&ldquo;American&hellip;essays&rdquo;) and another (&ldquo;praising&hellip;Morrison&rdquo;). The participial phrase beginning with &ldquo;Praising&rdquo; modifies the subject of the second sentence, &ldquo;writer Robert Antoni.&rdquo; </p><p>Choice A is incorrect because it results in a comma splice. A comma can&rsquo;t be used in this way to mark the boundary between sentences. Choice B is incorrect. Without a comma preceding it, the conjunction &ldquo;and&rdquo; can&rsquo;t be used in this way to join sentences. Choice C is incorrect because it results in a run-on sentence. The sentences (&ldquo;American&hellip;essays&rdquo; and &ldquo;Praising&hellip;Morrison&rdquo;) are fused without punctuation and/or a conjunction. </p>"
+      }
+    ]
+  },
+  {
+    "question": "<p class=\"stem_{paragraph} \">Jennifer bought a box of Crunchy Grain cereal. The nutrition facts on the box state that a serving size of the cereal is <span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAwCAYAAAAVQYoQAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAAY00gKyAAAARxJREFUeNrt1rFLAnEYxvFfRlOLa1igjhEIgkS0COFmguBSY4RTkzQ2NDjVn+DY1FAQjSKok86R/4AYCEKBEESBfYVnkJCIu/eg4ffAB256Trn3vfs593tO0McrvjDBHbZdyNRwgSL2cYwnvGHLGSeFmW5qmriKzy3KVrGGNG4xxqZF8US/cm6IrNXfzyCHEh4wxYGLIG0Moii+wod1aQw9zXPg9DWvBS3IEVrawsMwxQ08411lL1rpPefjEyozIz7/MCvo6gHVLYvPMLIuTupzVLYubuJ+Yd5Nik918tmwLE6otPpjQ0MXP6KjiTArruATuzpWxReOV9e6jgUpvvzDC2cn6Ijll5gX3uh63fr1Wo9itSMr9vHx8THLN4PMWgx2JBYgAAAAAElFTkSuQmCC\" alt=\"three fourths\"></span> cup and provides 210 calories, 50 of which are calories from fat. In addition, each serving of the cereal provides 180 milligrams of potassium, which is 5% of the daily allowance for adults. If <span class=\"italic\">p</span> percent of an adult&rsquo;s daily allowance of potassium is provided by <span class=\"italic\">x</span> servings of Crunchy Grain cereal per day, which of the following expresses <span class=\"italic\">p</span> in terms of <span class=\"italic\">x</span> ?</p>\n",
+    "id": "001a220c-6f6b-4497-b0f8-def5742a9db5",
+    "options": [
+      {
+        "id": 1403125,
+        "content": "<p class=\"choice_paragraph \"><span class=\"math_expression \"><span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEsAAAAcCAYAAAApxUKlAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAAOJ5y/mQAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAAB6UlEQVRoQ+2WDdKEIAiGO54H8jjdpat0Ez4B/0Iw+9q22RmfGafNTOAFbJc3gX0FtzhYd4A49TUAdljdAn472ub54hNsPlzf8TEDsIF/2QnLBxIIVaTnraBfZ/MLuOBlvH0NEsatoZ6KIKm6XKi8133k9vMhb0pGw4XHedWdrU+VgT8PI5RKuBJWO+6ra0R8BXKkchiRZ4O8l4yst5IioXdrAek9FNa2/zWwBetMpuzKksd1UlRkdD2JMFAdtaj1OYVJVduwdoCMhikcdVCfgO1oFWC0gtaug+stsSXloGehkkDWByA+OArExvVSNM8DMWRAmgMcfGuHW8sSq78+J997EhYf49AqRUtgl5SterO62uLUbVSxlPMGuTOfk1m1oRYjcl2sKitx6qfFilMNWmtrPnXR+rsnVs7cyWjbkPes559owzjVoAnKsfTfy6QAGrFi2cqA74KJObS7YefuAa+hioVzo/+pcpUIscj4A3/MpHNWBVtfs5H1VwSVyeuSytqHL0dSXMvAp1BbUdiT9xxkCepsfe6WShheI+xSoVyIkzfBTZMBHBc2+AdkU1RtEoTH0b4UC+mtR4pgZWiVNlxVCJXvA+12Bgf7bFIsspBX4rb6f6KQDndZnpPJZDKZTCaTyWTyyyzLH86KGYIMTjl6AAAAAElFTkSuQmCC\" alt=\"p equals, open parenthesis, 0 point 0 5, close parenthesis, to the x power\"></span></span></p>",
+        "correct": false,
+        "order": 0,
+        "markscheme": null
+      },
+      {
+        "id": 1403124,
+        "content": "<p class=\"choice_paragraph \"><span class=\"math_expression \"><span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAASCAYAAAA31qwVAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAAJufgqOgAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAAA70lEQVRIS+2U6w3DMAiEPR4DeRzv4lW8yQWDaYiD+oiiJj/ySVGLH/Q4SNM/aIXAH+7JqED/fi01J2RWMsJ7ADQUIpR2UBhqRsqFk7y3W87JfvTsBYCzZF6nV971jIpOIF5Yz/IZtrfHgs7BekliKnz1YKUDtAKa87qidV/j3vKNqE5fNOUdf2EsnYK54mdOfpvbvTMimgNpWeDYr62csfZ5YZozMEGr2G6Etp6AzZwVoJ3RwrxYwVywDY0/V/8NsxtS8OiEH34ROHeoDySV6t7Ic0QZ2z9YFRm9gfOcy8LOxquJBv8WRIP/8PBwGSkt3MlePPBnoKcAAAAASUVORK5CYII=\" alt=\"p equals, 5 x\"></span></span></p>",
+        "correct": true,
+        "order": 1,
+        "markscheme": null
+      },
+      {
+        "id": 1403123,
+        "content": "<p class=\"choice_paragraph \"><span class=\"math_expression \"><span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAASCAYAAAAdZl26AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAAJufgqOgAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAABHUlEQVRIS+1UAQ7DIAj0eTzI5/gXv9KfMIRaKbJWk63LEi9pqhX1OI6GJ4CYMdKrDEOINMMy7rAl2GPuYx9FjgEhbUykjEPMLqmyRku/J6wh6gMSfyaGW0JwlEXcMEGLmwbmSMokOuS6fBzH697TE7CEbUIV9Tsc96ukOblWxcOSupLiv7aJ55Bo6/miWQwnwHHmfr1PnePaUPu04F2pZzGagEVVWfcEcySbdcJ6/mOrOBX4loUsqm10AnK3I6ocel64+lvMwBIeray/T4TSSTGqqnVB5vcqjUKLocfa51ZdjtsdoJuYE7HOKAdByuoP9DnyBaJmPbuRtI0q83PcsVe5gXuBCO5T+dCV5V/gNfBfQUrUyriwsLDwIEJ4AeAPAlaDOQKNAAAAAElFTkSuQmCC\" alt=\"p equals, 0 point 5 x\"></span></span></p>",
+        "correct": false,
+        "order": 2,
+        "markscheme": null
+      },
+      {
+        "id": 1403126,
+        "content": "<p class=\"choice_paragraph \"><span class=\"math_expression \"><span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEsAAAAcCAYAAAApxUKlAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAAOJ5y/mQAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAAB9UlEQVRoQ+2Wi63DIAxFGY+BGCe7ZJVswsO/QIwhRG0eqsSRUBs3AXN9TepmEo8teufjdsTIoX8jxiNu3sWwX9emeM4p7iF9zsnxJMY9hslJtHJAgUBF/L0W9N/Zg4s+ZcmX00Bh/Jb8lAURd/nkvOk5UvuFVDe7YqNCUos4HoZD2Bnw9TKSVdIn0mrHY/OViFPARIqES0SAO7H0WaKvgbuiCPhsKSA+B8LOPSYQcI51DqCImGRfLHGDvgfmvWwaRBhwRylqeU5BPmYeZQK4aArBsDb1CXIe6IplZ1CyXbG48jo3Ejs7SYvXIh/017VbLwD+4SoQLW5bsXkeqKE31EyAkXnvxarnIMHFIVz8ELilaFjztgrYRKpVTla6jUMf8xWxjPMJKONnMYs2tPYIPBerqAqHflosDlXoVgXucqqw+rsn1lm5m1G3Ic2p48KQWANtyKEKS1Bas//ciWygEqtxkH4KFKYlxrhYdV6WazSmWBAb/U91ukSJhYu/8Mesl9yQWFxcfU/ZHU8E7RWvQmwd0ptDFLcq8C16rdgSizaZ4zq/6prXKIWhe67r0noP9kmTwKSyAIx3hBJwTcNdo2IBEqNR55sFy8Ny2rCrALTvC+12B2323aK0OIV8su9W/y8MxPbW+bFYLBaLxWKxWCwWv4pzf3FbyfklZ0dgAAAAAElFTkSuQmCC\" alt=\"p equals, open parenthesis, 1 point 0 5, close parenthesis, to the x power\"></span></span></p>",
+        "correct": false,
+        "order": 3,
+        "markscheme": null
+      }
+    ]
+  },
+  {
+    "question": "<p class=\"stem_{paragraph} \">If <span class=\"italic\">a</span> and <span class=\"italic\">c</span> are positive numbers, which of the following is equivalent to <span class=\"math_{expression} \"><span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHwAAAAmCAYAAAAGC/8vAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAATRJrTQAAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAADG0lEQVR4Xu2YrZLCMBDHYQbQSDDMYDHwCMhKHgGJYQaBwPEISAwzPAW6j4BF4pBI5F43yXaakibhroXQ299M55oC6X7lv7k0XmEymUDyp84XQ5zPZ1AJZ/4Du90OVqsVJ/y/MJ1OIY7jr0749RCRdCfXGmIALmATj8cDut0u4F/16OuAeK0lWSR/XU0BB77XcYMrG1e4GtYCuB4gqmCV1yJW2Luxh6vhEzJ4ERyun5dIgCscogYki9dqS1UrfLFYwH6//+6Eo0ThLl0NNSBZI+tAkk3YbJLSjtJWTQ/v9Xpwu92CicXLoPHohBo+Ea8bECWRVcNgEImNDsl6NycV7S57hddCzo/HI8znc6MTVfXBMnBJuyiIkhNeCznHZGPS1VCj7D4opdjdf33JJlXYqlY8FUPZylSFnJcdEyc2J1AWbYZQYPFWXvZe/4pzz3M/K01egYSM0/dVIZSFr5x/OiZWbMepcvJiY2lzRIb6GO7rXOpYJmkimbmeLed7z4bSR85DiIkAJXs4HML9ftc+sB2n2oJp+jfNp9/7OpeVZ/XI/E4RhPck3CXnocREHJlin+73+7BcLrVJ8bOi41Rbwk07YFO/J2fw1nZlnaVK9um/70q4j5yHEpMUTPZgMEh/4DpOLUq4eaVJJ1wG0feyzuSR87srHimy0YVIhOF3RUrokvOQYpKCTjSbzdQZV9VSVeVfIvuULlPymTvw/s75JVHO9+LGJUFu7vR3kBKORiOYzWbafE45DygmGrjCSdZdx6kIBiZfocKRTC+hwjBuHnL8tpqLfpe3pQxOpxN0Op10Ph85DykmGllZtx2nEqaA5l8uKzlxLnmAYxtezlGw1Hy24JkKsgxwv7PZbMS8XrvzgGKiQbJ+uVysx6kETZw3hhzEWzSCHLQZ/QqpQ5l3iA8yyED9QuY8wGRj0vHe97AlhJgYwRU+Ho8Lj1PzmFZ5CODGq4rVTaCsb7fb7z87Vz288DjVRNGu9hN4y9kfwY1bq9X6/rNzlPV2u136mXDd4DgxDMMwDMMwDMMwDMMwDMMwDMMwDMMETKPxAxoFg1fpJ4yKAAAAAElFTkSuQmCC\" alt=\"the square root of, open parenthesis, a plus c, close parenthesis, cubed, end root, times, the square root of a plus c, end root\"></span></span>?</p>\n",
+    "id": "02f8bc24-fdf0-4633-a83e-71744b6be142",
+    "options": [
+      {
+        "id": 1403053,
+        "content": "<span class=\"math_expression \">\n            <span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAeCAYAAACsYQl4AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAAPUJuPDwAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAABsUlEQVRoQ+2Vi63DIAxFMx4DZZzsklWyiR/gmhJqsB2SSn3ykaLmU8zl2obFAuwrpB+8VtgB0r1TMe0RHBuEJcB24MAcMGwQH22B/jG3eJQHrXsZADFXq1f1iUc88oqWmfYIM7VATN4tJkOUsgXa1/AKsf/St19l2iPch54w+d1iuRLiz6+aPe0RGvDe7CU0WW0PEOLYQnz+zhlwZ4eqPfpsYxzUM2TEzAJQMG90TyP/TU6WRecovtojalmasBaAFVZPcJ6EY8bofY3xmYNkpLGYEB/St0QvTo1WpxRf5RGXDXwnV0SPq0a3ZhKSxrzQxlRuTItW59X4J3JmqkwlcuDm3QgSnG5H12hBZDI370gjVZvmAL2i0xK/C1spLzEzga0VXVqPMVnSiN/1c9VodM7EL3AHD74ztASDxehcrfG/vcRKGs0tXKE3es4PFFztPdQm0iEioTWaKnnUPZJGruK081+taEshZdogWCl8C1uwLEDaoiSNxfj2WVEsKp0T8U/QQtJtCkYLGU1+B2VfZq9mqxA0lsVX/0nv7+Lp+I7jOI7jOI7jOI7jOI7jfJ9l+QM/pNf5aCWOmgAAAABJRU5ErkJggg==\" alt=\"a squared plus 2 a c plus c squared\"></span></span>",
+        "correct": true,
+        "order": 0,
+        "markscheme": null
+      },
+      {
+        "id": 1403051,
+        "content": "<span class=\"math_expression \">\n            <span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAASCAYAAAA+PQxvAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAAJufgqOgAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAAAyklEQVRIS+1TwRHEIAi0PAqyHHuxFTvhQNHxCFHukqc748Sgy66I4SkQM0b6xIwooXeAWDBB4KQyAFO5F/nFyDV3JLbBwxzrhp7UI+I1MkzQRgmFHOkfEq1MXCwJQZ2+xW5cC7xGSoKLqKXZ3E1uGZWsYl2Yp6sxG+vVAFKUkA2zGiK4I7uur+bfV0164/sKWmzdqAy/kX2uJjrd32gs3UgG/q2IydMb++vR/WHBZaQfTPItD9rN8JQJ+ik/xRCfNOrCwcHBwSsI4QPpKVHXkltDQwAAAABJRU5ErkJggg==\" alt=\"a plus c\"></span></span>",
+        "correct": false,
+        "order": 1,
+        "markscheme": null
+      },
+      {
+        "id": 1403054,
+        "content": "<span class=\"math_expression \">\n            <span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAeCAYAAACiyHcXAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAAPUJuPDwAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAAA/klEQVRYR+2U7Q3EIAiGHc+BHMddXKWbcAJqrUdSOHL/eBJz1d7Ll9BkAVoB/OFVoAHgsxqvPsFVIacM9WIhGcwV+lZlyKsnSFTaEkDPoxiy8epFfspkw6sfWSToif0WgFM/7tYRgFPPJdyay4paD/2Wap5jhItFZ3dLfGvvxtPoCY70LtV+d1fN9O65NiczgP5n3COt9P1ovjc9IUXKZ7oxIidHt6uzn1DUWxYIGT7OJGYVcvc2juyIVRhXoTHMekfHI9wLz7JbJsFcdglyuN3najLlF02qhPmDdBqZU6LpB+ScDGsSixkIPqKxc1zfWI43G/QiCIIgCIK/kdIH2ca+862yeogAAAAASUVORK5CYII=\" alt=\"a squared times c squared\"></span></span>",
+        "correct": false,
+        "order": 2,
+        "markscheme": null
+      },
+      {
+        "id": 1403052,
+        "content": "<span class=\"math_expression \">\n            <span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAeCAYAAABqpJ3BAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAAPUJuPDwAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAABIElEQVRYR+2VbRLEEAyGHc+BHMddXKU3yZKgao0Grd0feWbMqpY3X7JqBHAGwg8NAw4gzLewrA2HBa002IM24oHagn8cO2iCR7Rxk3F5A/gYmE1ZeEV7ZwZqlrUpAgp8UPYbv6pN9fgj41e1MXXFZbrjyUyxtcFXltWpXYVBm+pOwGHEgW/d85KytcnLU7A04LAa311HvxNwHcjG+w/jknLGP8eLytJueUlr8+2K6wAaWHUVdtQT6HERgQAeXK31SAaHaW+UDqXoa29pXBqnGf1ozMrBnAyQ9n2WulDtX0tltOO04DuwpkPGFjWYL9XiP+1sBjj7LtSHpG40Uv8tWA6kYEWt6eAlJ8I0HFa31DfJRhf6+EIQBEEQBEEQ/hilPq7jElrp7I/9AAAAAElFTkSuQmCC\" alt=\"a squared plus c squared\"></span></span>",
+        "correct": false,
+        "order": 3,
+        "markscheme": null
+      }
+    ]
+  },
+  {
+    "question": "<p class=\"stem_{paragraph} \">Blood volume,<span class=\"math_{expression} \"><span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAWCAYAAAAvg9c4AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAALV/ZLFgAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAAA0klEQVRIS+2T2RGFIAxFKY+CKIdeaIVO8m7CokiCPL49M4wOZrlZdAxRpugduZBILhRSwHcfYUmmzcTKiXIkjwdy7gdkcvRwCAS/wbFX8a9KhlKAg6cIz3ollPsDlYxW4k6vlxAKD3h4SK1XpvptnqreVMpgYXYdI/l9A1YqS8JxqDJoTcC1AWuV0v/HNogIzb6ri+teagG4yvs8Om0D+NVSyZSKql09akCmbYD2EzRKP+cqTKU7lMRzUnNQO6hDqhUi5mFQGebYTz7HAT8+3nDuB4iiIec2hn7YAAAAAElFTkSuQmCC\" alt=\"V sub B\"></span></span>, in a human can be determined using the equation <span class=\"math_{expression} \"><span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAAAuCAYAAABZEFVYAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAAXQ/cXWQAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAAB3UlEQVRoQ+2YiRGDIBBFLY+CLIdebMVOyHKoyOnBZlT+m2GSIUTj57NHhq+h1KykGNQwTspNRUwjfS4krVTZNSCgJJqapRL0QppD0DPMUpBgoyLddsKtLoZLz6OmkQQTSpJybspg5+HSS6SO+JFYCwooOvgjvQiyqpvKuhccJHRlzaUmsdGy3UDcjfErgJJLreD7z5ZNQOwN2CqAsktN/E24Um8KRA1Y3SnLsdSsCwS3341Lsu5ZKgD9tpTxraPdunVA0CRLBVASKBVPm1HLjpov9stWeEZX9tgv55JUM3rsl1NJqim5Ws7Oo7y4BFe/vCWM8vjkpqFfZiB0Zc2lcb/MJn5wn0ePmHP98j6pmUSX2ICuj7/mTr/MnknfyurOC/2ydrkfj4HjTr8MQTNs8e98vwyn3sAKH4ueS1SccG1kqrz0aV5qJpOU+xGkafMHzGEfjEnURCPkY8vJ/Gk+zfIw4finoH5M5xDVXr9UTtK9/3wqWdmOXvmI3sGv193USi00vBquh6s5sRYaXg2fqPa6+m1+NIynT6Im6jFxYscdSlIf/G/ZwOXU7pKUD5eoxSTlXNz6no+BQ9Rqkmpd9D8NHlHL17Sh4aNJSsMias9JCgAAAAAAAAAewDD8ADcXsARwzRMuAAAAAElFTkSuQmCC\" alt=\"V sub B equals, the fraction with numerator V sub P, and denominator 1 minus H, end fraction\"></span></span>, where <span class=\"math_{expression} \"><span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAWCAYAAAAvg9c4AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAALV/ZLFgAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAAAw0lEQVRIS+2S7RHDIAiGHY+BHIddXMVN6IsaWyNSm1z/5bnzkkOQl4+giGRhChJikmIwSBH3xPCUpc+EFySZhfBBzv0HlcyEgCiIGwJ7Fb+qVCRFBJAwIpupUO0XVCpWiTu9dhEUHvEhSG2mpfptzqq+qSyDhdtwrL5/boCnsiYc7w4RU+/fG+CrLP03VKmo6dGujv1eFr9Twho7r2TfAP31Jl4ran79GA8qxwYsHYDVz9vUxOukl1gN6RbWkB4e/koILxP6FQYnNTtKAAAAAElFTkSuQmCC\" alt=\"V sub P\"></span></span> is the plasma volume and <span class=\"italic\">H</span> is the hematocrit (the fraction of blood volume that is red blood cells). Which of the following correctly expresses the hematocrit in terms of the blood volume and the plasma volume?</p>\n",
+    "id": "0375f00a-26c7-4cf9-aee6-0ccded06fd82",
+    "options": [
+      {
+        "id": 1402931,
+        "content": "<p class=\"choice_paragraph \"><span class=\"math_expression \"><span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAAAuCAYAAABZEFVYAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAAXQ/cXWQAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAAB/ElEQVRoQ+2ZjbGDIBCELc+CLMdebMVOeAeHovwcKA9NyH4zTBxCknFZ904z/BpKrWoeBzVMi7JTActE748zrVTJNcBDEk2tsxrphTSHoFdY55EEmxTpdhJudzFceh21TCTYqGZSzk4ZeB4uvUXsEi/JWiCg6MKf6GUkq9qppHtBIb4rcy41hY2WnQZyN+TYAUguZcHP722bgOz1cB2A7FKTvxFX6k2BqB67O2c5S806T3D+bNiS/TxbB6APpYrPjrbr9gFBo2wdgCRQLE8vEWszjrRuOXRGpX77LViTClfm7nm5rWhje96wDxQ1UaSK4eyIOzHXx9VwzKyPEzVSpC5x7Nvs1E4uGu7iIqXN979KzolSNLjAl0cqVjStNu1VyoRp10b0KWpJkWp4r5sTtfJqCNY1HI6aIlV5woYunSoWKevilifcnahZJzZu+jUdiiqfkHuaA1GLebtIaZ4UteRG5olz7o6SGiIVVhAhFWm7i+HS66SK7/ZgBy69QewSL8laIBArjE+0jl3juzLnUlPYaJkbED/KsQOQXMqCn4uaKXSIiRDXAcguNfnrdQNmEyBqyO7OG39Ra5d3c/f3n2wdgD6UXMeOtuvsgKAJtg5Aeq7BeRq6GE6tgIUPRUehqiBapKzDSVOIegcuZuc81QOCAgAAAACA72MY/gCf+KAUFWjTYwAAAABJRU5ErkJggg==\" alt=\"H equals, 1 minus the fraction V sub P over V sub B\"></span></span></p>",
+        "correct": true,
+        "order": 0,
+        "markscheme": null
+      },
+      {
+        "id": 1402933,
+        "content": "<p class=\"choice_paragraph \"><span class=\"math_expression \"><span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAAAuCAYAAABZEFVYAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAAXQ/cXWQAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAACB0lEQVRoQ+2ZC3LDIAxEfTwfyMfxXXKV3ISKn435CGFK6tB9M0w8hLRltUiiWf4bSr3Vvi5q2V7KTSW8Nnp/3WmlKq4BEZxo6r2rlV5IcwjawntfSbBNkW4X4Q4Xw6XtqNdGgq1qJ+XclMHOw6W3yB1xSa4FDIoO/kYvK1nVTRXdC4TErqy51BQ2WnYOiJ8l7AA4l1rBr0XNFDqkiZSzA+BdavJv1A2YIEDUlMOdO59LcwJql4f5GDh8B6AfOddZR7t1bkDQAr4DyF0CPDafpi4WOzXXZoSMbjmeeKSsJqno4kJVu/PatqIc1R5swB4oaq5IOfOVdLpgcwfXVpCokug0EuYsqahNG+vABzse4t8b9m1u6qCWGu5yppS2n/8pUbuoOZFLDX6D+pEbnACtQfsSUSXCjMmnmjlFlRSpgf9jrIkqC3rx70/WDRwnPUWqc8OGKZ3KFinnYumG7zCdqFUnDm76NROKym/IpoZxRUozn6h/XKQ0raL2ILnIfGLP0yGpIY89BU+llNIOF8Ol7ZSKr7/rw6U3yB1xSa4FDLnC+InWcWpiV9ZcagobLbsM5N2UsAPgXGoFv77ng4DcG3F2ALxLTf7NuFIHBaJGHO688RW1/ezYW+ZX4jsA/chV/PDrnnNA0Cy+A+AEyuVT0IkVHq78VUpFCnSQK1IAAAAAAAB8J8vyA/DG4xRE/NlNAAAAAElFTkSuQmCC\" alt=\"H equals, 1 plus the fraction V sub B over V sub P\"></span></span></p>",
+        "correct": false,
+        "order": 1,
+        "markscheme": null
+      },
+      {
+        "id": 1402932,
+        "content": "<p class=\"choice_paragraph \"><span class=\"math_expression \"><span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD0AAAAuCAYAAACbIBHcAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAAXQ/cXWQAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAABxElEQVRoQ+2YC66EIAxFXR4Lcjnsxa24k75C+alQmjHPsQwnIRpkEtvbXnCWtwGwgzULLOsGYerCtuJzY3ElNNeogwsKdgsGL5iTcQJ27NZgQCtgXIfAUhWMprIDthUDMmAxsjDlofkBVXbUSljS66oBLOwVLwalDlNN9YfhrGpPZW98uCwPpckpHZxTmRJyND1vhBrbIDs4r7Lv/5Ob+yRpDDqpa/lergXoqqT0AzVEB3e3nGpUEWFdGCoDdkQHrx1SItTP1yoQK13bJkreuGXQO1+TIjay3pmWtoV21r9B1cSCeK04DlBvcNsCBi3J3oNQ9eVejkMUsKPcF8NUolf6KukpyZV+Nhx+iLP/FLIXf1c/30ZkYv/3DRuS+sjI3DExteXNmliogt8ysRceSm7T247y185IQX/XxC5IDkJPv9MjSDzmdcZ4l1ZLpSoYTWVHyzzjWXs4lR21Epb0umpqO8qQW2fJWdWeyt74cNlhaOz70sE5lSkhx2cxSep6Pzs4r7Lv/4qqLmnqgk7qfvAXMP1W4SkyOri75RybKiKsS0PpsTl/srYDqPXz8FBilKr6KS0TG5qaiU0mk8lkMtHMsvwB4/sw2BlpkWMAAAAASUVORK5CYII=\" alt=\"H equals, the fraction V sub B over V sub P\"></span></span></p>",
+        "correct": false,
+        "order": 2,
+        "markscheme": null
+      },
+      {
+        "id": 1402934,
+        "content": "<p><span><span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAAAYCAYAAACLM7HoAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAAMyZLetQAAAaxJREFUeNpjYMAE34CYiQE7wCdHLjgMxAY45EyB+AIDfQHV3aMCxJfIkKMEzAficBxye4HYhc6BSnX3BADxcjLkKAHxQNyHRdwWiPcz0B9Q3T31QFxOhhwlAOTYdVjEjwOx3gAEKtXdswqaIkmV+08ExgVYgPgdmpgHEC9lGBhAdffcIhAw0jTyyA0g5kDinwFieYaBA1RzD6hW/4In9r7R0BOgstoLyg4F4h4KzaMk51DVPebQ2g0bsCRQSFPqiRIgzoCyTwKxMMPAAqq5JxLanCBVjhrAB4gXQmveagIVKSySQDln7iBzzyr0dvwkIE7GoRkkl0bDQBWG1q5H0coyXJUlEzRnfaFRO5ZU98CKSFDHwA1ZwTqkcgQdbMAjRy3wgYiIA1Wksmh84UHknvvolfk7PLHyjkCMUQO0ElGRwipLNiAuAOLaQeIeENCgcRFJE2COVvEtHSTu+QNtglXTYFyE5gC5smSDFkm2g8Q9QxagV6SzgTh6ELlnSIJ10O4iKIsZA/FTIFYbYPd4DfVAfYdWhoUOAvdwMIyCUTAKRsEoGAWjYBSMAloAAG7biglMmR2gAAAAn3RFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtaT5IPC9taT48bW8+PTwvbW8+PG1zdWI+PG1pPlY8L21pPjxtaT5CPC9taT48L21zdWI+PG1vPi08L21vPjxtc3ViPjxtaT5WPC9taT48bWk+UDwvbWk+PC9tc3ViPjwvbWF0aD4ra0JnAAAAAElFTkSuQmCC\" alt=\"H equals, V sub B, minus V sub P\"></span></span></p>",
+        "correct": false,
+        "order": 3,
+        "markscheme": null
+      }
+    ]
+  },
+  {
+    "question": "<p class=\"stem_{paragraph} \">A sample of 40 fourth-grade students was selected at random from a certain school. The 40 students completed a survey about the morning announcements, and 32 thought the announcements were helpful. Which of the following is the largest population to which the results of the survey can be applied?</p>\n",
+    "id": "043769b4-95ad-4655-b2ff-60c998ad0ff4",
+    "options": [
+      {
+        "id": 1403151,
+        "content": "<p class=\"choice_paragraph \">The 40 students who were surveyed</p>",
+        "correct": false,
+        "order": 0,
+        "markscheme": null
+      },
+      {
+        "id": 1403152,
+        "content": "<p class=\"choice_paragraph \">All fourth-grade students at the school</p>",
+        "correct": true,
+        "order": 1,
+        "markscheme": null
+      },
+      {
+        "id": 1403154,
+        "content": "<p class=\"choice_paragraph \">All fourth-grade students in the county in which the school is located</p>",
+        "correct": false,
+        "order": 2,
+        "markscheme": null
+      },
+      {
+        "id": 1403153,
+        "content": "<p class=\"choice_paragraph \">All students at the school</p>",
+        "correct": false,
+        "order": 3,
+        "markscheme": null
+      }
+    ]
+  },
+  {
+    "question": "<p class=\"stem_{paragraph} \">Which of the following represents the result of increasing the quantity&nbsp;<span class=\"italic\">x</span> by 9%, where <span class=\"math_{expression} \"><span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACUAAAAYCAYAAAB9ejRwAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAAMyZLetQAAAThJREFUeNrt1c0rRFEYx/GJMsVY2VCSzKwtZG3DnpU1ZWci/gALpaasNfE3eFlZkjL8A5SSt4XSlA1S3vme+k3dbo90dG4WzlOfuve559zzdJ/Tubnc30QPNnCPO6yjO9TLy8h7zingHMcYE3d9itYQRV2LT3FzeEcpkSspN5Me7B68YjGVr+IBg8YCeRXkU9wuDoy8y+1YE6rqc4fuF/CMkR8W8imujlUjv4Yba0IXHrGMKX3ScY92Noq7xec3Y15QMfIVfQAzlvCEN0x77rHMiprQC/d/UUwm7RtWtYf4QH/AYpIbvWbka9ZGH9AmX0ELrrCdwZEwr63Rl8gVlZtNHwd1naxNyk2qjUOBD892XOIIo+Kuz9DWGNSJC+ylFmjGiVoZOnqxpc44m/r1xIgRI0aMGP8yvgB+iFiJ592c6QAAAABJRU5ErkJggg==\" alt=\"x is greater than 0\"></span></span> ?</p>\n",
+    "id": "04ac25df-d6f5-4833-b9e3-5e66fb15687a",
+    "options": [
+      {
+        "id": 1403353,
+        "content": "<p class=\"choice_paragraph \"><span class=\"math_expression \"><span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAWCAYAAAClrE55AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAALV/ZLFgAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAAA3UlEQVRIS+2U7Q3FIAhFHc+BHMddXMVNeAhaW8QnJk1/eRKjIQqXj9Z9SY4ecKvLQ8xQzt+SwjM4pECCQnpJDECCsHAIOYLHzaOKaiKoQj4Caut2UiyMMgsNkxDKfvSj2qVD7ue6j68LKVxVmZRSY6c18s402fagHB2+YuuTFrgc/y0ZlNsc8DXbe6xJ1eWDFZaKNNh3WxiDxChC+nc+UamwI0TCMyKSZiPPBSmftEZimpF6R87cEOfqezVOp1nBWpFhRmSMS8T9Ev5NordXxcowI8Y5PBwOh8M+zv0A7FVlx4QFf0UAAAAASUVORK5CYII=\" alt=\"x plus 9\"></span></span></p>",
+        "correct": false,
+        "order": 0,
+        "markscheme": null
+      },
+      {
+        "id": 1403351,
+        "content": "<p class=\"choice_paragraph \"><span class=\"math_expression \"><span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAWCAYAAABDhYU9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAALV/ZLFgAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAABEElEQVRIS+2U7Q3EIAiGHc+BHMddXMVNOBGoFdHaS3/6JCYn8vGC9pwmBQc+ZuDtFEgBfXh5KCFDTI7+0WcbKfgkjvxaMb1HsMnRx0FIfwi8d7kSB5Ah+tGniimV8TfkCN7IU2v4WDK8ENg6TxCexHFhPQFqLkAxgzVJRNtrQ0qsnvhFybopblb4nTipJ41Sg4YwZEvcRuH1dPvYa3qTp3DxlTjc0/XQJOs5F9exzV4Wv1mTr66VTSxQVjmbxOpGTPbFrT8INg1YDVAcihtFd2yJ2/krmeS5+yAklvz02cAsqXQndv2+9B7RVzXEcK2rISNHx644pF0HLjspCZR1EyrCOhvdyHJ6h8PhcDgUnPsBL3wsyuw5t4UAAAAASUVORK5CYII=\" alt=\"1 point 0 9 x\"></span></span></p>",
+        "correct": true,
+        "order": 1,
+        "markscheme": null
+      },
+      {
+        "id": 1403352,
+        "content": "<p class=\"choice_paragraph \"><span class=\"math_expression \"><span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAWCAYAAABDhYU9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAALV/ZLFgAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAABC0lEQVRIS+1UyxHFIAi0PAuyHHtJK3ZCQMQP8cMlN3eG8clbYAEnTgBPADrYPMQE9HsJCz9Ff+QcwYVasL5rWPhPGAVJM+GZ55wCIEH0DjxmKa6MnBwzlWuFhQ8pgsdDc/IkfcQMRoGSSHfEKwmA7sFv4a8mr/25ISV2mDgXWyVaidvzreKQCAEPaZQb7OKsiQQW/366Y2ydXokZnsIf4ujO62mTF8E6tvnRyput+GOtxVUEiuF/i1jdSMV+BStxdn6PWQMcR+K+ov/5lGB5euinnCyWeat6n/ei79KdFDvxCXpVn5jSQG1okqOijZdsJGlxhB1fwALFOqEibPDxRqbTu7i4uLi46ODcC/MHfERcpEwnAAAAAElFTkSuQmCC\" alt=\"0 point 0 9 x\"></span></span></p>",
+        "correct": false,
+        "order": 2,
+        "markscheme": null
+      },
+      {
+        "id": 1403354,
+        "content": "<p class=\"choice_paragraph \"><span class=\"math_expression \"><span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADcAAAAWCAYAAABkKwTVAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAALV/ZLFgAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAABMklEQVRYR+2VwRHEIAhFU54FWY69pBU7YUVEExaRHLJ78c04UYKELzg5fgmcEfBBI0DKgPMpHv+cwtLndSjR8XG5lnj8z3gXxIcRTz3mYwBOiIuAABlSOCCULJqpUpMrG9uy4/GHnCCUh/SplQypRLjkUzcKozwZDZe4loj0oZaKJcLd7vGfVV61yyQpkC0M8YubJTITZ/s/Eof06k1KruES9zARj92uriKON+BUuwsIi8GpNa4ffUMcrunajMqP/BVxiNyw4l9t2UwtXx7l3WRvK6mhXMEvbtZCM3F+/yvqgZGR7lk9jRKZ3ti4xL3xK2jfXcbs94g3it628IhDZEy55q7hZFf+CLXkqNKXTxd2dWon562el9H2OO6JSnGI5c+QQB52y242m81ms9n8m+P4ABlTz5wfboT+AAAAAElFTkSuQmCC\" alt=\"x plus 0 point 0 9\"></span></span></p>",
+        "correct": false,
+        "order": 3,
+        "markscheme": null
       }
     ]
   },
@@ -3974,6 +4926,40 @@
         "correct": true,
         "order": 3,
         "markscheme": ""
+      }
+    ]
+  },
+  {
+    "question": "<p class=\"stem_{paragraph} \">The circle above has center <span class=\"italic\">O</span>, the length of arc <span class=\"math_{expression} \"><span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACUAAAAsCAYAAADikXHLAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAAWNPAnzwAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAABK0lEQVRYR+2WYZLDIAiFczwP5HG8S66Sm7Ai1RL2gZndmfYP34zTNAo8wGqP/0BXo9I/+PE+CrWL+Plz0FkleGnUY/8KTv1tKyKwdHXyNkmSJPkO7yvEvzLWyW5GdIrr036Nerrrb5yVF1eq3ajbQKOx5qjUp9c89W9sg4TNJPTcXO9dWQsx5goFAWbGIEuxN2JflUcJRnMDHSwM/HKEBUsyM0jkh9nNqyqJQ2mjVw2832wLt5WIQIqvVmC/h1j3r4sRBdr5GJQ93B/bdtzb5yW2xQsEhW7aYRP5s6hh2P15QwtAQjV2H6Jqa+D8OitMlRi7P5hwP4EAtp0a5H8gVfJ+Sfe2hgkEFZyd0MJcX3N/oCATXZm1Ho3AB4NstcgkSZIkSZIkSZKHHMcPkQURyQTdgjMAAAAASUVORK5CYII=\" alt=\"A, D C\"></span></span> is <span class=\"math_{expression} \"><span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAASCAYAAAC5DOVpAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAAJufgqOgAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAAAoUlEQVQ4T+1S2w0DMQhjPAZinOySVdjEx6NR86zaqv07S9FxITHGhBxaGPbplqACHn+OKgSx24/f7wEoCjOK/oSsQojB3FrcE69WjCs6gxZwR5CXRs+iIBdonM3cWx2l0r2HUcgSHocIL/BqUFlxJZv3nZhNViRPaB7O8nslxxZRxTaeHvkzoY38Xkn6fHiL46TWQ/NQmq8e7ry9ceN/ILoA+jrgovpP+IYAAAAASUVORK5CYII=\" alt=\"5 pi\"></span></span>, and <span class=\"math_{expression} \"><span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADYAAAAWCAYAAACL6W/rAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAALV/ZLFgAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAABDElEQVRYR+2UURbEEAxFLc+CLMdebMVOMoKUEuoj05mP3HOc0cxr4yUwvyQ4A9ZHqI83IDiM12EhySbdieZ1aFGcsfJfW+j4jJxoXid6i8nzGI0BRPB2jmN3jQs5dqK5yEHr0yvNcY4JV6FVNoDjjEUPNv2k9d3ipRgOUjj5etbUUFKlR0xE4iLiTZEWp7sxJu6hb/DG5rylIL2xvaaGClfXakXGpJIsjS3OSh8/0dRQgVqM02mvCvOqMaScK6adHbQonO7G32zFdlstXAuyNyZ5eWS3JRF7bQqzNCZ53V9bi17c7VUhVsaQMT+3nkfNZaprIVXkm13bGUPascDBF/lEoyiKoiiK8m2M+QBgPUuCiYzvRAAAAABJRU5ErkJggg==\" alt=\"x equals 100\"></span></span>. What is the length of arc <span class=\"math_{expression} \"><span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAsCAYAAAAXb/p7AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAAWNPAnzwAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAABNUlEQVRYR+2V7Y3DMAiGM54H8jjeJatkEwqhpDYGpxeddD/ufSSrKbbJy0fE9hQ6GhX+kcdxFWoHyfPfQHtVIaUR65iEEFtbUbGFlaoVAADA/+MzyuLR1U+MceWjLrxT9/DsLXuVy5UqO2EfkxMLwO8drfD/Smwe7DYi+/FHfEr8Z2MzRZ1JJtRBNFM/Z5yQU/hoz4IRVnshVxnkRvf83r5IM+UErnwId/sTPjNa6vnyaXeliV724wytiF5wZmoS8u6dYPl20IDnTD8i6qvoBVlWvg3wEVkv5KJHm+ED+jWB2vRjufrVZyv7QAQvMKpAz93+ydVTLnuC7Vlv3X11/uOx+32AhvedohlJSuYErZxmfqw6vchVUgas4VcH+6xc58MVBylE96KsAgAAAAAAAAD4mm17AUOHGXe9gYNfAAAAAElFTkSuQmCC\" alt=\"A, B C\"></span></span> ?</p>\n",
+    "id": "034a16a2-6628-4631-b07d-90bea20a2338",
+    "options": [
+      {
+        "id": 1403679,
+        "content": "<p class=\"choice_paragraph \"><span class=\"math_expression \"><span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAWCAYAAADafVyIAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAALV/ZLFgAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAAAwElEQVRIS+2S0Q3DIAxEGc8DMQ67sAqbXAyGAg4Q0eanEk9ChET4fOeYQnAE3vIiuID4/A7e9kXhbRKy/gURBAfijbh6fpVIjsiBNX8TkW7vkczeR/o4Z8uCA8C2QHKcnAU4qs6hzh9KRDpv6XLsICL36nd97pAhZ0tMEV0J6Bk9zkxEmvwWHek4pvGskBlUVy1b8YBLWN60enLEg8nHji/jaWaw+EVHDT0KRG4zGEWTi+ti0pDc3ZrD4XD4C4y5AGv9QkZ/7zfaAAAAAElFTkSuQmCC\" alt=\"9 pi\"></span></span></p>",
+        "correct": false,
+        "order": 0,
+        "markscheme": null
+      },
+      {
+        "id": 1403680,
+        "content": "<p class=\"choice_paragraph \"><span class=\"math_expression \"><span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAWCAYAAABOm/V6AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAALV/ZLFgAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAAA40lEQVRIS+2UYRLEEAxGHc+BHMddXMVNviZCqYkuuj+9mUyXNfEkWtMTnIH1EXn4gP+jRw4LWqau+wSCSxtoEiLgECAby9o/i0RvOVmKXgLRw9LDkUGeMkCEt+OqLVNPFeAUCY0iYcgsTz1oDzWOWtkb0NSshGyityNVznrSfFZrqnozEu0J2/ZoSBuraD9WWalEuSejdjBJOFVENu3HKisSzGtLdlrBrEq8vaZbrWBGEuX70d8BqYRyw4mtVjBDiVzKNsnbh03L81mCuUXoZwnt7Sg5+g2LNIeW/3A4HA6/MeYC9HuCHA9hixUAAAAASUVORK5CYII=\" alt=\"13 pi\"></span></span></p>",
+        "correct": true,
+        "order": 1,
+        "markscheme": null
+      },
+      {
+        "id": 1403681,
+        "content": "<p class=\"choice_paragraph \"><span class=\"math_expression \"><span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAWCAYAAABOm/V6AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAALV/ZLFgAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAAA4ElEQVRIS+2T0Q3FIAhFHc+BHMddXMVNeAJaK4J5rf30NKTBWriAOkkKDnzMUN0B/FZel4UE6r4tIAUKrolgAQFKXvrW9n4qJEdPQdGkCCipg5KQhJXF6u7BVXmImZNNInIE/1DEvSjbemcvWsW74yDRPkIuT/Q9HghfZSUCGavDzs0C7nAH+z7pq1giWgVDJ+qIVlWRaOoI/yN9FVOEcSa4M8pcC7L1f40CMUVcB3dMZq0jr0aBPO0Ei9A78WoUyOpgTrdjcSa0OJ+IQFhIt5UAmbBdaTQr/uFwOBzWOPcDhnWfwl4qskMAAAAASUVORK5CYII=\" alt=\"18 pi\"></span></span></p>",
+        "correct": false,
+        "order": 2,
+        "markscheme": null
+      },
+      {
+        "id": 1403682,
+        "content": "<p class=\"choice_paragraph \"><span class=\"math_expression \"><span class=\"math-container\"><img align=\"middle\" role=\"math\" class=\"math-img\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAsCAYAAAD8WEF4AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAABGJhU0UAAAAWNPAnzwAAAAFzUkdCAK7OHOkAAAAEZ0FNQQAAsY8L/GEFAAABRElEQVRYR+2YARLDEBBFHc+BHMddXMVNtlgbomSkbSwdb2YnkZj0l29XInowSoDUFmLzhL/nDjEkuG7VfkMAo4KQmlgUqsAACsS+TIKtlv5HQ5RiwWqQ7qCc0nhJAFjQsj0Lj5FGyYCqiK1BYoX7B/HSWMBNcq9YnAlG3/aIze2S22I4d0aWfLyEDTysVrgrljV9tcRS/i09iiObcu9QmmIpTUntzlDYVQEZwpUNDsHulII1G2xWJS8o7WBasDmhiIQFet4AsW2IesDKl3Jz2a7hbzwZTYIVshRYtqehnPK/swAbC1ngvTr+RGyttH7jKxJaCqP9hY+Pnp+Elm+yEy6ElunDlM1QXXrA0V1EbPjIMePKLWm9KUzHsWK53mJ7wUW1gFD6Yjhl3c6hEZ1eKObZBYR6Dp9WY5E8u9lsNpsNE0K8AJIUDdyvKg0yAAAAAElFTkSuQmCC\" alt=\"13 halves pi\"></span></span></p>",
+        "correct": false,
+        "order": 3,
+        "markscheme": null
       }
     ]
   },

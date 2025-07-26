@@ -1,3 +1,5 @@
+import { AIChecker } from "./aiChecker.js";
+
 // Configuration constants
 const CONFIG = {
   VALIDATION: {
@@ -18,7 +20,7 @@ const CONFIG = {
   },
 };
 
-export function validateQuestion(question) {
+export async function validateQuestion(question) {
   const issues = [];
   let isValid = true;
   let cleanedQuestion = { ...question };
@@ -31,7 +33,7 @@ export function validateQuestion(question) {
   }
 
   // null, empty, or invalid specification
-  const specificationIssues = validateSpecification(question.specification);
+  const specificationIssues = await validateSpecification(question.specification);
   issues.push(...specificationIssues.issues);
   if (specificationIssues.shouldRemove) {
     isValid = false;
@@ -62,7 +64,7 @@ export function validateQuestion(question) {
   return { isValid, issues, cleanedQuestion };
 }
 
-function validateSpecification(specification) {
+async function validateSpecification(specification) {
   const issues = [];
   let shouldRemove = false;
   let cleaned = specification;
@@ -120,6 +122,32 @@ function validateSpecification(specification) {
       issues.push(
         "Serious: References missing visual content (figure, graph, chart, table, or data)",
       );
+      shouldRemove = true;
+      return { issues, shouldRemove, cleaned };
+    }
+  }
+
+  // Check for confusing wording and ambiguity
+  if (AIChecker.needsImprovement(specification)) {
+    try {
+      const ambiguityReport = AIChecker.getAmbiguityReport(specification);
+      const fixed = await AIChecker.fixQuestion(specification);
+      
+      if (fixed) {
+        cleaned = fixed;
+        issues.push("Auto-fixed: Improved confusing wording with AI");
+      } else {
+        // Add specific ambiguity issues to report
+        const ambiguityIssues = ambiguityReport.issues.map(issue => 
+          `Ambiguity: ${issue}`
+        );
+        issues.push(...ambiguityIssues);
+        issues.push(`Serious: Question ambiguity score: ${(ambiguityReport.score * 100).toFixed(1)}%`);
+        shouldRemove = true;
+        return { issues, shouldRemove, cleaned };
+      }
+    } catch (error) {
+      issues.push("Serious: Ambiguity detection failed");
       shouldRemove = true;
       return { issues, shouldRemove, cleaned };
     }
@@ -390,11 +418,11 @@ function validateOptions(options) {
     return { issues, shouldRemove, cleaned };
   }
 
-  // Validate each option
+  // First pass: Check for critical structural issues that can't be auto-fixed
   const seenIds = new Set();
-  const seenOrders = new Set();
   const seenContent = new Set();
   let correctCount = 0;
+  let hasDuplicateOrders = false;
 
   for (let i = 0; i < parsedOptions.length; i++) {
     const option = parsedOptions[i];
@@ -418,14 +446,6 @@ function validateOptions(options) {
       return { issues, shouldRemove, cleaned };
     }
     seenIds.add(option.id);
-
-    // Duplicate orders
-    if (seenOrders.has(option.order)) {
-      issues.push(`Critical: Duplicate option order: ${option.order}`);
-      shouldRemove = true;
-      return { issues, shouldRemove, cleaned };
-    }
-    seenOrders.add(option.order);
 
     // Duplicate content
     if (seenContent.has(option.content?.trim()?.toLowerCase())) {
@@ -465,6 +485,38 @@ function validateOptions(options) {
     }
   }
 
+  // AUTO-FIX: Check for duplicate orders and fix them
+  const seenOrders = new Set();
+  const orderCounts = {};
+  
+  // Count occurrences of each order value
+  parsedOptions.forEach(option => {
+    orderCounts[option.order] = (orderCounts[option.order] || 0) + 1;
+  });
+  
+  // Check if there are any duplicates
+  const duplicateOrders = Object.keys(orderCounts).filter(order => orderCounts[order] > 1);
+  
+  if (duplicateOrders.length > 0) {
+    hasDuplicateOrders = true;
+    issues.push("Auto-fixed: Duplicate option orders corrected");
+    
+    // Sort options by their current order, then reassign sequential orders
+    parsedOptions.sort((a, b) => {
+      // If orders are different, sort by order
+      if (a.order !== b.order) return a.order - b.order;
+      // If orders are the same, maintain stable sort by using original array position
+      return 0;
+    });
+    
+    // Reassign sequential orders starting from 0
+    parsedOptions.forEach((option, index) => {
+      option.order = index;
+    });
+    
+    cleaned = parsedOptions;
+  }
+
   // Correct answer count
   if (correctCount === 0) {
     issues.push("Critical: No correct answer specified");
@@ -478,17 +530,19 @@ function validateOptions(options) {
     return { issues, shouldRemove, cleaned };
   }
 
-  // Check order sequence
-  const orders = parsedOptions.map((opt) => opt.order).sort((a, b) => a - b);
-  for (let i = 0; i < orders.length; i++) {
-    if (orders[i] !== i) {
-      issues.push("Auto-fixed: Improper option ordering");
-      // Fix the ordering
-      parsedOptions.forEach((opt, idx) => {
-        opt.order = idx;
-      });
-      cleaned = parsedOptions;
-      break;
+  // Check order sequence - only if we haven't already fixed duplicate orders
+  if (!hasDuplicateOrders) {
+    const orders = parsedOptions.map((opt) => opt.order).sort((a, b) => a - b);
+    for (let i = 0; i < orders.length; i++) {
+      if (orders[i] !== i) {
+        issues.push("Auto-fixed: Improper option ordering");
+        // Fix the ordering
+        parsedOptions.forEach((opt, idx) => {
+          opt.order = idx;
+        });
+        cleaned = parsedOptions;
+        break;
+      }
     }
   }
 

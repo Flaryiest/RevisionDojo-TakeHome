@@ -103,6 +103,9 @@
   ],
   "1acae734-90bd-45fe-aa06-a0c6139a207b": [],
   "a4730980-c099-425a-a4c3-edf2ed2ab90e": [
+    "Ambiguity: Multiple vague pronouns detected",
+    "Ambiguity: Unclear question structure",
+    "Serious: Question ambiguity score: 70.0%",
     "Auto-fixed: Improper option ordering"
   ],
   "b1ec23b8-73ab-4153-9b41-3782508e1a66": [],
@@ -111,6 +114,9 @@
   ],
   "6dca3baf-252a-4696-9d88-c2eccf8c7187": [],
   "04b8b939-4ca5-4067-b356-74bae0fa4bf4": [
+    "Ambiguity: Multiple vague pronouns detected",
+    "Ambiguity: Unclear question structure",
+    "Serious: Question ambiguity score: 70.0%",
     "Auto-fixed: Improper option ordering"
   ],
   "a83c3135-ba78-485d-9023-cf2bb464b0b4": [],
@@ -142,7 +148,7 @@
     "Auto-fixed: Improper option ordering"
   ],
   "01d57b11-6dd3-4e29-9654-6c972074396a": [
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "83628ba5-548b-484c-b30a-767cbea61fac": [
     "Auto-fixed: Improper option ordering"
@@ -312,57 +318,57 @@
   "047cac71-264b-435c-83b7-224a166de720": [
     "Auto-fixed: Added braces to multi-character super/subscripts",
     "Serious: References missing visual content (figure, graph, chart, table, or data)",
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "0087dad3-b026-466b-97c9-3f5d78636b67": [
     "Auto-fixed: Added braces to multi-character super/subscripts",
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "03941511-815c-48f5-86b4-53d4879b4061": [
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "30d2b1ff-d75c-4691-8b6d-1075e4453ad1": [
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "044ca096-88bb-43b7-a422-021638450eab": [
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "006d8a89-c7a0-41c3-9bc3-984ed711311c": [
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "7f67c7cc-efa0-44bf-a9b5-b7f6be12bf3f": [
     "Auto-fixed: Added braces to multi-character super/subscripts"
   ],
   "0034c453-7339-468c-adf0-79a7bbcab237": [
     "Serious: Invalid LaTeX syntax patterns detected",
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "01064677-574c-4141-b5f1-ca81785654b9": [
     "Serious: Invalid LaTeX syntax patterns detected",
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "034dcc2a-68a2-4e22-bb5c-9ce14c35e1d7": [
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "03c7fc29-bb4c-4363-9d4a-360f6745ffc7": [
     "Serious: Invalid LaTeX syntax patterns detected",
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "0064039e-361d-409f-9c4e-37119550b1a4": [
     "Serious: Invalid LaTeX syntax patterns detected",
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "024ab595-6b4e-4c54-a222-8839629d57eb": [
     "Serious: Invalid LaTeX syntax patterns detected",
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "0457c0b3-ab3c-4072-8c52-20ad0e9d116a": [
     "Serious: Invalid LaTeX syntax patterns detected",
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "04a8236e-cdec-4d64-b5db-24d2c4e29434": [
     "Serious: Invalid LaTeX syntax patterns detected",
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "a268f939-cc56-4810-bf2e-96555dee3e79": [
     "Auto-fixed: Improper option ordering"
@@ -371,7 +377,7 @@
     "Auto-fixed: Improper option ordering"
   ],
   "4e844e09-b92a-4f1e-845a-5ce6177b7692": [
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "041b1288-d46f-4b15-92a8-d90f83b1d34c": [
     "Auto-fixed: Improper option ordering"
@@ -380,10 +386,10 @@
     "Auto-fixed: Improper option ordering"
   ],
   "02ada342-33b7-48fd-b545-5d69b00cd714": [
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "027f690c-6553-4c66-90cd-2dfb04bf8b3b": [
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "7170b8a9-5be3-4c63-8629-4d437117c23b": [],
   "04188e6f-7302-4f66-8664-6db7ab865cec": [],
@@ -392,69 +398,69 @@
   "b5792cba-2ada-42a5-8c12-cef4bfe21267": [],
   "01701bfc-c99e-4ccd-9623-78d6048cdbd6": [
     "Serious: Invalid LaTeX syntax patterns detected",
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "01817bf3-80c0-4f29-9390-c1fb91e95d2b": [
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "0197f1e4-32d5-4efe-a7e8-d20ddc020a80": [
     "Serious: Invalid LaTeX syntax patterns detected",
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "0392f34d-6d6b-485b-a50b-29c4010a6c51": [
     "Serious: Invalid LaTeX syntax patterns detected",
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "00623654-5b0a-4241-a5c2-11a2f8c90947": [
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "014d0815-7b93-44ae-bc45-f7ea57e6cc58": [
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "0172be23-2876-4bec-b45d-a7169fe9cf6f": [
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "01922983-514c-46c5-9819-b88cb7d92037": [
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "019ac921-0417-431d-b0f1-852c3a8b3d26": [
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "01b5e2e5-7e79-4329-a564-4e7e1bee628c": [
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "02a0245f-2f1b-44db-8917-b1860ab11294": [
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "02af92f5-b50f-413c-a1e9-100245d54172": [
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "032bba71-97e5-4c15-91ad-c362e00f8be4": [
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "0349181d-9f8b-4b67-8bff-efdbe1ac5fe0": [
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "0355f449-69a4-47b1-b6b9-901461f3f09a": [
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "041ed708-877e-4e1f-bf16-a6ffb4791bc9": [
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "0433b9ec-97a5-4f2f-871b-9e09ab475baf": [
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "044b980a-59f5-470a-9e5a-ca00d50b27c1": [
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "001a220c-6f6b-4497-b0f8-def5742a9db5": [
     "Auto-fixed: Added braces to multi-character super/subscripts",
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "005c762e-c7d6-4189-9747-086531cf5258": [
     "Auto-fixed: Added braces to multi-character super/subscripts",
     "Serious: References missing visual content (figure, graph, chart, table, or data)",
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "00985a7b-c102-4ef0-8549-c876e3bffde9": [
     "Critical: Specification is empty",
@@ -478,11 +484,11 @@
   ],
   "02f8bc24-fdf0-4633-a83e-71744b6be142": [
     "Auto-fixed: Added braces to multi-character super/subscripts",
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "0375f00a-26c7-4cf9-aee6-0ccded06fd82": [
     "Auto-fixed: Added braces to multi-character super/subscripts",
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "03efad12-65d4-4dad-bb59-ef0f5040bef8": [
     "Critical: Specification is empty",
@@ -490,7 +496,7 @@
   ],
   "043769b4-95ad-4655-b2ff-60c998ad0ff4": [
     "Auto-fixed: Added braces to multi-character super/subscripts",
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "046e4960-d319-4500-91ac-8a3c2a5a21e4": [
     "Critical: Specification is empty",
@@ -498,7 +504,7 @@
   ],
   "04ac25df-d6f5-4833-b9e3-5e66fb15687a": [
     "Auto-fixed: Added braces to multi-character super/subscripts",
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "03a7c44c-9f68-493c-8c23-b744b69a6b6a": [
     "Auto-fixed: Improper option ordering"
@@ -521,12 +527,12 @@
   ],
   "034a16a2-6628-4631-b07d-90bea20a2338": [
     "Auto-fixed: Added braces to multi-character super/subscripts",
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "0431ee71-953e-4fb7-bddc-8bedcfc46871": [
     "Auto-fixed: Added braces to multi-character super/subscripts",
     "Serious: References missing visual content (figure, graph, chart, table, or data)",
-    "Critical: Duplicate option order: 0"
+    "Auto-fixed: Duplicate option orders corrected"
   ],
   "0431fa85-6fa6-4d19-8738-78b1ab2fa4a9": [
     "Auto-fixed: Added braces to multi-character super/subscripts"

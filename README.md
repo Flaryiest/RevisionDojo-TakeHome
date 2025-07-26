@@ -2,7 +2,7 @@
 
 ## Issue Detection & Removal
 
-This validator implements a comprehensive quality assurance system that identifies and removes questions exhibiting various structural, formatting, and content issues. The system uses a tiered approach with four severity levels to ensure only high-quality, answerable questions remain in the dataset.
+This validator implements a comprehensive quality assurance system that identifies and removes questions exhibiting various structural, formatting, and content issues. The system uses a tiered approach with four severity levels and includes NLP-based ambiguity detection to ensure only high-quality, answerable questions remain in the dataset.
 
 ## Installation
 
@@ -134,6 +134,13 @@ These issues will likely render but cause significant user confusion:
 - **Extremely Long LaTeX**: LaTeX expressions exceeding 200 characters (performance issues)
 - **Invalid LaTeX Syntax**: Triple backslashes, empty LaTeX blocks, other syntax errors
 - **Missing Visual Content**: Questions referencing figures, graphs, charts, tables, datasets, or diagrams that are not provided
+- **Confusing Variable Descriptions**: Questions with variables described incorrectly (e.g., describing number of sides when variable represents side length)
+- **Ambiguous Question Structure**: Detected using NLP analysis for:
+  - Multiple vague pronouns ("it", "this", "that") without clear referents
+  - Unclear question structure lacking proper interrogative elements
+  - Overly complex sentence structures that reduce comprehension
+  - Vague quantifiers ("some", "many", "few") without specific context
+  - Missing contextual information needed to answer questions
   
 ### Moderate Issues (Questions Retained but Flagged)
 These issues are noticeable but don't prevent answering:
@@ -148,13 +155,13 @@ These issues are detected and automatically corrected without removing questions
 - **Formatting Cleanup**: Removes excessive line breaks, malformed escapes, unnecessary spaces
 - **Super/Subscript Braces**: Adds missing braces to multi-character superscripts/subscripts
 - **Non-Sequential Ordering**: Fixes gaps in option order sequences (0, 1, 2, 3...)
+- **Duplicate Option Orders**: Automatically reassigns sequential order values when multiple options have the same order
 - **Image URL Formatting**: Cleans up malformed image reference syntax
 
 ### Known Limitations
 The following issues require manual review and are not automatically detected:
 
-- **Semantic Issues**: Questions with confusing or incorrect wording
-  - Example: `97a1e83b-6c1b-4697-be02-4ec7a88f7df6`
+- **Complex Semantic Issues**: Questions with subtle logical problems or ambiguous phrasing not caught by pattern matching (97a1e83b-6c1b-4697-be02-4ec7a88f7df6)
 
 - **False Positives**: Some grammatical questions may be incorrectly flagged as ambiguous (rare due to improved detection logic)
 

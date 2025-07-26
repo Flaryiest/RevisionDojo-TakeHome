@@ -36,7 +36,7 @@ async function main() {
     let removedCount = 0;
 
     for (const question of questionsData) {
-      const validation = validateQuestion(question);
+      const validation = await validateQuestion(question);
       report[question.question_id] = validation.issues;
 
       if (validation.isValid) {
