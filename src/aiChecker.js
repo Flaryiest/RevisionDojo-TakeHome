@@ -72,18 +72,13 @@ export class AIChecker {
   static needsImprovement(text) {
     // Check for confusing variable descriptions
     const confusingPatterns = [
-      // Original confusing variable pattern
-      /where.*\$[a-z]\$.*is.*number.*sides/i,
+     
       
       // Mathematical confusion patterns
+      /where.*\$[a-z]\$.*is.*number.*sides/i,
       /\$[a-z]\$.*represents.*height.*but.*calculate.*area/i,
       /variable.*\$[a-z]\$.*is.*width.*find.*perimeter.*of.*length/i,
       /where.*\$[a-z]\$.*equals.*speed.*determine.*distance.*time/i,
-      
-      // Unit confusion patterns
-      /convert.*feet.*to.*meters.*but.*answer.*in.*inches/i,
-      /temperature.*celsius.*calculate.*fahrenheit.*result.*kelvin/i,
-      /mass.*grams.*density.*answer.*pounds/i,
       
       // Self-referential confusion
       /this.*question.*asks.*about.*this.*problem.*which.*refers.*to.*this/i,
@@ -95,39 +90,6 @@ export class AIChecker {
       /function.*f.*where.*f.*equals.*function.*f/i,
       /variable.*represents.*the.*variable.*that.*represents/i,
       
-      // Temporal confusion
-      /before.*after.*when.*simultaneously.*then.*previously.*next/i,
-      /first.*do.*last.*then.*initially.*finally.*start.*with.*end/i,
-      
-      // Multiple conflicting instructions
-      /calculate.*estimate.*approximate.*find.*exact.*precise.*value/i,
-      /choose.*all.*select.*one.*pick.*multiple.*single.*answer/i,
-      /true.*false.*sometimes.*always.*never.*maybe.*correct/i,
-      
-      // Nonsensical mathematical relationships
-      /angle.*has.*volume.*cubic.*degrees/i,
-      /area.*measured.*in.*linear.*feet.*per.*second/i,
-      /probability.*greater.*than.*one.*hundred.*percent/i,
-      /negative.*distance.*travels.*backwards.*in.*space/i,
-      
-      // Grammatical structure confusion
-      /student.*who.*which.*that.*whom.*whose.*where.*when.*why.*how.*student/i,
-      /because.*since.*therefore.*thus.*so.*because.*due.*to.*because/i,
-      
-      // Scale confusion patterns
-      /microscopic.*visible.*naked.*eye.*telescope.*required/i,
-      /atomic.*level.*measured.*kilometers.*light.*years/i,
-      /billion.*years.*nanoseconds.*instantly.*geological.*time/i,
-      
-      // Subject matter confusion
-      /chemistry.*problem.*solve.*using.*historical.*dates.*literature/i,
-      /mathematics.*equation.*analyze.*poetic.*metaphors.*symbolism/i,
-      /physics.*formula.*interpret.*emotional.*psychological.*feelings/i,
-      
-      // Logical impossibilities
-      /parallel.*lines.*intersect.*at.*infinite.*points.*never.*meet/i,
-      /triangle.*has.*four.*sides.*three.*angles.*square.*circle/i,
-      /always.*sometimes.*never.*definitely.*maybe.*impossible.*certain/i,
     ];
 
     // Check for confusing patterns

@@ -582,7 +582,9 @@
   "d409d6fc-449c-4bf6-9824-0d7b42eee20d": [],
   "73e338a4-7efb-4ba3-94e2-a98ce90a0013": [],
   "e38b71a6-6750-46a9-84d7-11045b828421": [],
-  "97a1e83b-6c1b-4697-be02-4ec7a88f7df6": [],
+  "97a1e83b-6c1b-4697-be02-4ec7a88f7df6": [
+    "Serious: Question ambiguity score: 0.0%"
+  ],
   "023bbf11-1969-48b9-aef4-a0811c8714a7": [
     "Critical: Options are null or undefined"
   ],

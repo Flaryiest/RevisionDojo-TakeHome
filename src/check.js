@@ -34,6 +34,7 @@ async function main() {
     const validQuestions = [];
     const report = {};
     let removedCount = 0;
+    let autoFixedCount = 0;
 
     for (const question of questionsData) {
       const validation = await validateQuestion(question);
@@ -41,6 +42,12 @@ async function main() {
 
       if (validation.isValid) {
         validQuestions.push(validation.cleanedQuestion);
+        
+        // Count auto-fixed questions (questions that are valid but had issues fixed)
+        const hasAutoFixes = validation.issues.some(issue => issue.startsWith("Auto-fixed:"));
+        if (hasAutoFixes) {
+          autoFixedCount++;
+        }
       } else {
         removedCount++;
       }
@@ -48,6 +55,7 @@ async function main() {
 
     console.log(`\nValidation complete:`);
     console.log(`- Valid questions: ${validQuestions.length}`);
+    console.log(`- Auto-fixed questions: ${autoFixedCount}`);
     console.log(`- Removed questions: ${removedCount}`);
     console.log(`- Total processed: ${questionsData.length}`);
 
